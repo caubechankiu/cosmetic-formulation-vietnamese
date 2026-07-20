@@ -238,7 +238,7 @@ def build_readme(toc_path: Path, output_path: Path) -> list[TranslatedSection]:
 
     section_anchors = unique_section_anchors(translated_sections)
     sections = [
-        "# Designing Data-Intensive Applications - Bản dịch tiếng Việt\n\n"
+        "# Cosmetic Formulation - Bản dịch tiếng Việt\n\n"
         "<!-- File này được tạo tự động bởi scripts/build-readme.py. -->\n",
         build_table_of_contents(toc_path, section_anchors),
     ]
