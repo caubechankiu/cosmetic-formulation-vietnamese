@@ -13,7 +13,7 @@
 | 1.3.2 | 3 | [Importance of the Chromatic Accord](1.3.2.importance-of-the-chromatic-accord.md) | 24 |
 | 1.4 | 2 | [Sensory Additivity](1.4.sensory-additivity.md) | 26 |
 | 1.4.1 | 3 | [The Role of Colour in Sensory Additivity](1.4.1.the-role-of-colour-in-sensory-additivity.md) | 27 |
-| 1.5 | 2 | [Innovation in Implicit Evaluation](1.5.innovation-in-implicit-evaluation.md) | 29 |
+| 1.5 | 2 | Innovation in Implicit Evaluation | 29 |
 | 1.5.1 | 3 | Explicit Evaluation vs. Implicit Evaluation | 32 |
 | 1.5.2 | 3 | Neuroscience Techniques Applied in the Formulation Stage | 33 |
 | 1.5.3 | 3 | Examples of Eye-Tracking Application | 33 |
