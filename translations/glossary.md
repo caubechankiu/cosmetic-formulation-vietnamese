@@ -33,3 +33,11 @@
 | neuromarketing | neuromarketing; tiếp thị thần kinh |
 | olfactory note | note mùi |
 | aromacology | aromacology; nghiên cứu tác động của mùi hương lên cảm xúc/hành vi |
+| neuroscience | thần kinh học |
+| neuroeconomist | nhà kinh tế học thần kinh |
+| reflective thinking | tư duy phản tỉnh |
+| intuitive decision-making | ra quyết định trực giác |
+| sensory profile | profile cảm quan; hồ sơ cảm quan |
+| functional magnetic resonance imaging (fMRI) | chụp cộng hưởng từ chức năng (fMRI) |
+| nucleus accumbens septi | nhân accumbens septi |
+| placebo effect | hiệu ứng giả dược |
