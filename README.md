@@ -96,13 +96,13 @@
 | 5.4.1 | 3 | [Current Approaches and Clinical Evidence](#5.4.1.current-approaches-and-clinical-evidence) | 102 |
 | 5.4.2 | 3 | [Experimental Approaches](#5.4.2.experimental-approaches) | 104 |
 | 5.4.3 | 3 | [Chemical Enhancement: Barrier Disruption](#5.4.3.chemical-enhancement-barrier-disruption) | 104 |
-| 5.4.4 | 3 | Chemical Enhancement: Vehicle Effects | 105 |
-| 5.5 | 2 | Cosmetic Nail Formulations | 106 |
-| 5.5.1 | 3 | Nail Polish | 106 |
-| 5.5.2 | 3 | Acrylate Resin Preparations | 106 |
-| 5.5.3 | 3 | Light-Cured Gels | 107 |
-| 5.5.4 | 3 | Nail Polish Remover | 107 |
-| 5.6 | 2 | Outlook and Summary | 107 |
+| 5.4.4 | 3 | [Chemical Enhancement: Vehicle Effects](#5.4.4.chemical-enhancement-vehicle-effects) | 105 |
+| 5.5 | 2 | [Cosmetic Nail Formulations](#5.5.cosmetic-nail-formulations) | 106 |
+| 5.5.1 | 3 | [Nail Polish](#5.5.1.nail-polish) | 106 |
+| 5.5.2 | 3 | [Acrylate Resin Preparations](#5.5.2.acrylate-resin-preparations) | 106 |
+| 5.5.3 | 3 | [Light-Cured Gels](#5.5.3.light-cured-gels) | 107 |
+| 5.5.4 | 3 | [Nail Polish Remover](#5.5.4.nail-polish-remover) | 107 |
+| 5.6 | 2 | [Outlook and Summary](#5.6.outlook-and-summary) | 107 |
 | 5.7 | 2 | References | 107 |
 | 6 | 1 | Hair Morphology, Biogenesis, Heterogeneity, Pathophysiology and Hair Follicle Penetration | 112 |
 | 6.1 | 2 | Introduction | 112 |
@@ -2119,3 +2119,69 @@ Kobayashi và cs. (1998) đánh giá tác dụng tăng cường của urea và n
 Sử dụng mẫu móng người trong hệ tế bào Franz, Malhotra và Zatz (2002b) sàng lọc một loạt phân tử đã biết có khả năng tương tác với keratin. Các hợp chất được nghiên cứu gồm mercaptan (*N*-[2-mercaptopropionyl] glycine, kẽm pyrithione và natri pyrithione, 8-mercaptomenthone, acid meso-2,3-dimercaptosuccinic), natri metabisulfite và các chất tiêu sừng (acid salicylic, urea, guanidine hydrochloride). Gel được bào chế với các chất tăng cường dùng riêng lẻ hoặc phối hợp với nhau trong chất dẫn nước, hydroalcohol hoặc chất dẫn chứa dimethyl sulfoxide (DMSO). Kết quả cho thấy cấu trúc hóa học của chất biến đổi là yếu tố quan trọng nhất quyết định khả năng tăng cường thâm nhập. Hiệu quả tăng cường tốt nhất đạt được khi dùng *N*-(2-mercaptopropionyl) glycine kết hợp urea. Các hợp chất mercaptan chứa nhóm sulfhydryl (SH), vì vậy cơ chế chính làm tăng thâm nhập vào móng là khử các liên kết disulfide trong ma trận keratin của móng. Nhìn chung, tính toàn vẹn của hàng rào móng bị tổn hại không hồi phục sau khi xử lý bằng các chất biến đổi hóa học có hiệu quả.
 
 Hui và cs. (2004) bào chế một công thức gel ethanol mới chứa ciclopirox, urea và propylene glycol, sau đó đánh giá sự thấm của thuốc qua mẫu móng cùng lượng thuốc khu trú trong mẫu móng khi kết thúc thí nghiệm. Một gel thương mại và một công thức sơn móng (không chứa chất tiêu sừng) cũng được khảo sát. Lượng ciclopirox được đưa vào và qua móng từ gel thương mại cao hơn đáng kể so với cả gel thử nghiệm và sơn móng.
+
+---
+
+<a id="5.4.4.chemical-enhancement-vehicle-effects"></a>
+
+### 5.4.4 Tăng cường bằng hóa chất: ảnh hưởng của chất dẫn
+
+Mặc dù ethanol là chất tăng cường thâm nhập được sử dụng rộng rãi trong các hệ đưa thuốc tại chỗ và qua da, việc đưa 5-fluorouracil trong các chất dẫn menthol:ethanol:nước hoặc acid lactic:ethanol:isopropyl myristate không làm tăng sự thấm của thuốc so với đối chứng là nước (Kobayashi và cs., 1998).
+
+Hui và cs. (2003) đánh giá khả năng thúc đẩy đưa econazole qua móng của 2-*n*-nonyl-1,3-dioxolane, một chất tăng cường thâm nhập qua da. Công thức sơn móng thử nghiệm dùng tại chỗ chứa 5% (khối lượng/khối lượng) econazole, Eudragit® RL/PO, ethanol và 2-*n*-nonyl-1,3-dioxolane (18% khối lượng/khối lượng). Công thức đối chứng thương mại có thành phần tương tự, ngoại trừ không chứa 2-*n*-nonyl-1,3-dioxolane. Sự thấm qua móng được đánh giá trên các mẫu móng người trong hệ tế bào khuếch tán cải biến. Việc bổ sung 2-*n*-nonyl-1,3-dioxolane vào sơn móng econazole làm lượng thuốc kháng nấm được đưa qua móng người cao gấp sáu lần so với công thức sơn móng–thuốc giống hệt nhưng không chứa chất tăng cường. Nồng độ econazole trong lớp sâu của móng và giường móng ở nhóm thử nghiệm cao hơn đáng kể so với nhóm đối chứng. Các tác giả cho rằng dioxolane có tác dụng hóa dẻo đối với công thức sơn móng và điều này có thể góp phần tạo nên hiệu quả của công thức.
+
+Monti và cs. (2005) khảo sát sự thấm qua móng của ciclopirox từ một công thức tan trong nước trên nền hydroxypropyl chitosan, so với một loại sơn móng thương mại không tan trong nước (Penlac®). Các công thức được đánh giá bằng mẫu móng guốc bò gắn trong tế bào khuếch tán thẳng đứng. Giá trị flux ở trạng thái ổn định của hai chất dẫn có cùng bậc độ lớn. Tỷ lệ thuốc thấm qua cao hơn đáng kể đối với công thức trên nền polymer tan trong nước. Tỷ lệ thuốc được giữ lại trong màng khi kết thúc thí nghiệm cũng tương đương giữa hai chất dẫn. Các tác giả cho rằng công thức trên nền chitosan có thể bám dính vào màng tốt hơn sơn móng thương mại. Gần đây hơn, Monti và cs. (2010) so sánh sự thấm của ciclopirox qua màng móng guốc bò với sự thấm của amorolfine trong cùng loại sơn móng trên nền hydroxypropyl chitosan nêu trên và với một sản phẩm đối chiếu không tan trong nước (Loceryl®). Flux amorolfine từ công thức tan trong nước cao hơn đáng kể so với Loceryl. Ciclopirox có khả năng thấm qua màng móng guốc dễ hơn amorolfine; sự khác biệt này không thể giải thích bằng hàm lượng hoạt chất khác nhau trong các công thức tương ứng.
+
+Hui và cs. (2007a) khảo sát nhiều loại sơn móng khác nhau và một chất dẫn đồng dung môi để đưa một thuốc kháng nấm oxaborole mới vào móng. Sơn móng được phối chế với một tác nhân tạo màng, dung môi và có thể thêm chất tăng cường thâm nhập. Ethanol là dung môi; poly(vinyl methyl ether-*alt*-maleic acid monobutyl ester), poly(2-hydroxyethyl methacrylate) và poly(vinyl acetate) là các chất tạo màng. Chất dẫn đồng dung môi gồm ethanol và propylene glycol. Lượng hợp chất thử nghiệm thâm nhập vào bản móng gần như tương đương nhau bất kể chất dẫn được sử dụng. Trong điều kiện *in vitro*, chất dẫn đồng dung môi cho khả năng thấm vào và qua bản móng người bình thường vượt trội so với công thức ciclopirox thương mại (Penlac®, ciclopirox 8%).
+
+Cũng nhóm nghiên cứu này (Hui và cs., 2007b) đã so sánh sự thâm nhập qua móng của panthenol trong một công thức tạo màng không phải sơn móng (ethanol, copolymer acrylate, phytantriol) với công thức dung dịch nước. Công thức xử lý móng cho hiệu quả tăng cường đưa panthenol vào/qua các lớp sâu hơn của bản móng người tốt hơn dung dịch panthenol trong nước.
+
+---
+
+<a id="5.5.cosmetic-nail-formulations"></a>
+
+## 5.5 Các công thức mỹ phẩm dành cho móng
+
+Hiện có nhiều sản phẩm mỹ phẩm dùng để duy trì sức khỏe của móng, tạo màu và loại bỏ màu trên móng. Các sản phẩm này bao gồm nhiều chế phẩm sơn móng khác nhau (enamel, lacquer, varnish), hỗn hợp trên nền nhựa acrylate, gel đóng rắn bằng ánh sáng, sản phẩm dạng xịt và các dung môi đơn giản.
+
+---
+
+<a id="5.5.1.nail-polish"></a>
+
+### 5.5.1 Sơn móng
+
+Nhìn chung, các công thức sơn móng bao gồm sơn móng cổ điển để tạo màu cho móng, lớp sơn nền, lớp sơn phủ, chất làm cứng móng, sơn dành cho móng giòn, sơn dành cho móng có đường gờ và sơn móng ít gây dị ứng. Trong các công thức móng chứa chất màu (vô cơ và hữu cơ), thành phần chính còn lại trên móng sau khi khô là nitrocellulose, đóng vai trò polymer tạo màng (Wimmer và Schlossmann, 1992). Cần có các chất điều chỉnh màng (ví dụ nhựa toluene sulfonamide/formaldehyde) để cải thiện độ bám dính và độ bóng của công thức. Công thức còn chứa các thành phần khác, bao gồm chất hóa dẻo (ví dụ dầu thầu dầu, glyceryl tribenzoate), dung môi (ví dụ ethyl acetate, butyl acetate), chất pha loãng (ví dụ ethanol, isopropanol, butanol, toluene) và tác nhân thixotropic (ví dụ stearalkonium hectorite).
+
+Do lớp sơn nền có chức năng làm tăng độ bám dính của lớp sơn lên móng, nó chứa nhiều nhựa hơn các công thức có chất màu. Lớp sơn nền cũng hoạt động như một hàng rào bảo vệ, giúp bản móng không bị nhuộm màu, vì vậy không chứa chất màu. Lớp sơn phủ chứa nhiều nitrocellulose và chất hóa dẻo hơn lớp sơn móng có chất màu bên dưới để bảo đảm độ bền cho lớp này. Ngoài ra, lớp sơn phủ có thể chứa các chất hấp thụ tia UV, chẳng hạn benzophenone 1 và 3, nhằm giúp bảo vệ các lớp sơn màu bên dưới. Lớp sơn nền và lớp sơn phủ được phối chế với tỷ lệ chất pha loãng và dung môi khác với chế phẩm chứa màu để thuận tiện cho việc sơn và làm khô. Cuối cùng, chất làm cứng móng, sơn dành cho móng giòn và sơn dành cho móng có đường gờ về cơ bản là các lớp sơn nền có thể chứa thêm sợi nylon, nhựa acrylic hoặc formaldehyde (Schoon, 2005).
+
+---
+
+<a id="5.5.2.acrylate-resin-preparations"></a>
+
+### 5.5.2 Các chế phẩm nhựa acrylate
+
+Các công thức này được dùng để “tạo hình” móng nhân tạo và gồm một loại nhựa acrylic thu được bằng cách phối trộn monomer methyl methacrylate, ethyl methacrylate hoặc isobutyl methacrylate với polymer poly(methyl methacrylate) hoặc poly(ethyl methacrylate). Monomer chứa một chất ổn định như hydroquinone và chất xúc tiến *N,N*-dimethyl-*p*-toluidine; polymer cũng chứa benzoyl peroxide làm chất khơi mào trùng hợp. Công thức còn có thể chứa các thành phần khác như chất hóa dẻo, dung môi, chất xúc tiến và chất màu (Kanerva và cs., 1996).
+
+---
+
+<a id="5.5.3.light-cured-gels"></a>
+
+### 5.5.3 Gel đóng rắn bằng ánh sáng
+
+Các chế phẩm này được cung cấp dưới dạng hỗn hợp monomer và polymer acrylic đã pha sẵn. Có hai loại gel đóng rắn bằng ánh sáng chính dùng để tạo màu cho móng: acrylic và cyanoacrylate. Đối với gel acrylic đóng rắn bằng ánh sáng, quá trình làm cứng đạt được nhờ chiếu sáng để gây trùng hợp. Các gel này có thể chứa urethane (meth)acrylate hóa, triethylene glycol dimethacrylate, nhựa epoxy methacrylate hóa hoặc methacrylate có nhóm chức hydroxyl cùng một chất khơi mào quang (Hemmer và cs., 1996). Với gel cyanoacrylate, quá trình trùng hợp được thực hiện bằng cách phun hoặc quét một chất hoạt hóa lên gel.
+
+---
+
+<a id="5.5.4.nail-polish-remover"></a>
+
+### 5.5.4 Nước tẩy sơn móng
+
+Khi được thoa lên móng, nước tẩy sơn móng sẽ hòa tan nitrocellulose còn sót lại và đồng thời loại bỏ lipid. Các sản phẩm này thường chứa một lượng lớn dung môi hữu cơ và một lượng nhỏ dầu. Các dung môi thường dùng là acetone, butyl acetate, ethyl acetate hoặc ethoxyethanol; các loại dầu điển hình gồm dầu thầu dầu hoặc dầu lanolin. Công thức cũng có thể chứa chất màu, hương liệu, chất bảo quản, vitamin và chất hấp thụ tia UV (de Groot và cs., 1994).
+
+---
+
+<a id="5.6.outlook-and-summary"></a>
+
+## 5.6 Triển vọng và tổng kết
+
+Cho đến nay, các nhà khoa học và bác sĩ lâm sàng đã sử dụng nhiều kỹ thuật lý sinh và kỹ thuật sinh học khác nhau để nghiên cứu móng và hiểu rõ hơn về cách các đặc tính của móng có thể bị ảnh hưởng. Tiềm năng của nhiều cách tiếp cận này trong điều trị bệnh móng vẫn chưa được khai thác đầy đủ. Thành công còn khiêm tốn của các liệu pháp lâm sàng hiện nay cần trở thành động lực thúc đẩy đổi mới trong lĩnh vực này. Các công thức thông thường chủ yếu dựa trên sơn móng, cho thấy rằng, tương tự như đối với da, thời gian lưu của cả hoạt chất và tá dược trong hoặc trên móng có ý nghĩa quyết định đối với hiệu quả. Cần thận trọng khi xem xét những cách tiếp cận thực nghiệm rõ ràng gây tổn thương móng, và các phương pháp này có khả năng sẽ gặp phải những rào cản pháp lý đáng kể.

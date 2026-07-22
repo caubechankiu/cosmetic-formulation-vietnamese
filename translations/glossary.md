@@ -289,6 +289,11 @@
 | Mechanical strength | Độ bền cơ học |
 | Barrier properties | Tính chất hàng rào |
 | Nail cosmetics | Mỹ phẩm dành cho móng |
+| Film-forming agent | Tác nhân tạo màng; chất tạo màng tùy ngữ cảnh |
+| Base coat | Lớp sơn nền |
+| Topcoat | Lớp sơn phủ |
+| Photoinitiator | Chất khơi mào quang |
+| Thixotropic agent | Tác nhân thixotropic |
 | Pathogenesis | Cơ chế bệnh sinh |
 | Hyperpigmentation | Tăng sắc tố |
 | Photoprotection | Bảo vệ quang học |

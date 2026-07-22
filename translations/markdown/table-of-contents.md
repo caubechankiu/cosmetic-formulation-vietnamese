@@ -89,13 +89,13 @@
 | 5.4.1 | 3 | [Current Approaches and Clinical Evidence](5.4.1.current-approaches-and-clinical-evidence.md) | 102 |
 | 5.4.2 | 3 | [Experimental Approaches](5.4.2.experimental-approaches.md) | 104 |
 | 5.4.3 | 3 | [Chemical Enhancement: Barrier Disruption](5.4.3.chemical-enhancement-barrier-disruption.md) | 104 |
-| 5.4.4 | 3 | Chemical Enhancement: Vehicle Effects | 105 |
-| 5.5 | 2 | Cosmetic Nail Formulations | 106 |
-| 5.5.1 | 3 | Nail Polish | 106 |
-| 5.5.2 | 3 | Acrylate Resin Preparations | 106 |
-| 5.5.3 | 3 | Light-Cured Gels | 107 |
-| 5.5.4 | 3 | Nail Polish Remover | 107 |
-| 5.6 | 2 | Outlook and Summary | 107 |
+| 5.4.4 | 3 | [Chemical Enhancement: Vehicle Effects](5.4.4.chemical-enhancement-vehicle-effects.md) | 105 |
+| 5.5 | 2 | [Cosmetic Nail Formulations](5.5.cosmetic-nail-formulations.md) | 106 |
+| 5.5.1 | 3 | [Nail Polish](5.5.1.nail-polish.md) | 106 |
+| 5.5.2 | 3 | [Acrylate Resin Preparations](5.5.2.acrylate-resin-preparations.md) | 106 |
+| 5.5.3 | 3 | [Light-Cured Gels](5.5.3.light-cured-gels.md) | 107 |
+| 5.5.4 | 3 | [Nail Polish Remover](5.5.4.nail-polish-remover.md) | 107 |
+| 5.6 | 2 | [Outlook and Summary](5.6.outlook-and-summary.md) | 107 |
 | 5.7 | 2 | References | 107 |
 | 6 | 1 | Hair Morphology, Biogenesis, Heterogeneity, Pathophysiology and Hair Follicle Penetration | 112 |
 | 6.1 | 2 | Introduction | 112 |
