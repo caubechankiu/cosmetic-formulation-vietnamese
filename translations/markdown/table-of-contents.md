@@ -4,19 +4,19 @@
 |---|---:|---|---:|
 | 1 | 1 | [Cosmetic Products: Science and Senses](1.cosmetic-products-science-and-senses.md) | 18 |
 | 1.1 | 2 | [Senses and Science: Art, Science and Communication, and Their Role in Cosmetic Products](1.1.senses-and-science-art-science-and-communication-and-their-role-in-cosmetic-products.md) | 19 |
-| 1.2 | 2 | Discovering the Consumer’s Insight | 20 |
-| 1.2.1 | 3 | Verbatim | 21 |
-| 1.2.2 | 3 | Insight | 21 |
-| 1.2.3 | 3 | Claim | 21 |
-| 1.3 | 2 | Colour Psychology | 22 |
-| 1.3.1 | 3 | Colour and Its Influence over Emotions | 22 |
-| 1.3.2 | 3 | Importance of the Chromatic Accord | 24 |
-| 1.4 | 2 | Sensory Additivity | 26 |
-| 1.4.1 | 3 | The Role of Colour in Sensory Additivity | 27 |
-| 1.5 | 2 | Innovation in Implicit Evaluation | 29 |
-| 1.5.1 | 3 | Explicit Evaluation vs. Implicit Evaluation | 32 |
-| 1.5.2 | 3 | Neuroscience Techniques Applied in the Formulation Stage | 33 |
-| 1.5.3 | 3 | Examples of Eye-Tracking Application | 33 |
+| 1.2 | 2 | [Discovering the Consumer’s Insight](1.2.discovering-the-consumers-insight.md) | 20 |
+| 1.2.1 | 3 | [Verbatim](1.2.1.verbatim.md) | 21 |
+| 1.2.2 | 3 | [Insight](1.2.2.insight.md) | 21 |
+| 1.2.3 | 3 | [Claim](1.2.3.claim.md) | 21 |
+| 1.3 | 2 | [Colour Psychology](1.3.colour-psychology.md) | 22 |
+| 1.3.1 | 3 | [Colour and Its Influence over Emotions](1.3.1.colour-and-its-influence-over-emotions.md) | 22 |
+| 1.3.2 | 3 | [Importance of the Chromatic Accord](1.3.2.importance-of-the-chromatic-accord.md) | 24 |
+| 1.4 | 2 | [Sensory Additivity](1.4.sensory-additivity.md) | 26 |
+| 1.4.1 | 3 | [The Role of Colour in Sensory Additivity](1.4.1.the-role-of-colour-in-sensory-additivity.md) | 27 |
+| 1.5 | 2 | [Innovation in Implicit Evaluation](1.5.innovation-in-implicit-evaluation.md) | 29 |
+| 1.5.1 | 3 | [Explicit Evaluation vs. Implicit Evaluation](1.5.1.explicit-evaluation-vs-implicit-evaluation.md) | 32 |
+| 1.5.2 | 3 | [Neuroscience Techniques Applied in the Formulation Stage](1.5.2.neuroscience-techniques-applied-in-the-formulation-stage.md) | 33 |
+| 1.5.3 | 3 | [Examples of Eye-Tracking Application](1.5.3.examples-of-eye-tracking-application.md) | 33 |
 | 1.5.4 | 3 | Examples of Eye-Tracking and EEG Application in Hair Care Products | 40 |
 | 1.6 | 2 | Synesthesia in Design | 40 |
 | 1.7 | 2 | References | 44 |
