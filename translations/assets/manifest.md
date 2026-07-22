@@ -16,3 +16,4 @@ Manifest này theo dõi hình, bảng, sơ đồ và biểu đồ đã được 
 
 | ID | Loại | Caption / mô tả | Section sở hữu | Markdown | Asset file | Trang PDF | Ghi chú |
 |---|---|---|---|---|---|---|---|
+| Bảng 1.1 | Bảng | Các công cụ để hiệp lực hóa trải nghiệm cảm quan | 1.1 | translations/markdown/1.1.senses-and-science-art-science-and-communication-and-their-role-in-cosmetic-products.md | N/A | 20 | Dựng lại bằng Markdown trong section sở hữu. |

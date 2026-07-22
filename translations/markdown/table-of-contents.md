@@ -3,7 +3,7 @@
 | Mục | Depth | Tiêu đề | Trang PDF |
 |---|---:|---|---:|
 | 1 | 1 | [Cosmetic Products: Science and Senses](1.cosmetic-products-science-and-senses.md) | 18 |
-| 1.1 | 2 | Senses and Science: Art, Science and Communication, and Their Role in Cosmetic Products | 19 |
+| 1.1 | 2 | [Senses and Science: Art, Science and Communication, and Their Role in Cosmetic Products](1.1.senses-and-science-art-science-and-communication-and-their-role-in-cosmetic-products.md) | 19 |
 | 1.2 | 2 | Discovering the Consumer’s Insight | 20 |
 | 1.2.1 | 3 | Verbatim | 21 |
 | 1.2.2 | 3 | Insight | 21 |
