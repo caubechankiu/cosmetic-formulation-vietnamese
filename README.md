@@ -122,22 +122,22 @@
 | 6.6.2 | 3 | [Cơ chế thấm vào nang tóc](#6.6.2.the-mechanism-of-follicular-penetration) | 117 |
 | 6.6.3 | 3 | [Nanocarrier làm chất vận chuyển để đưa hoạt chất vào da](#6.6.3.nanocarriers-as-transporters-for-skin-delivery) | 118 |
 | 6.7 | 2 | References | 119 |
-| 7 | 1 | Common Cosmetic Ingredients: Chemistry, Actions, Safety and Products | 122 |
-| 7.1 | 2 | Cleansers, Surfactants and Soaps | 123 |
-| 7.2 | 2 | Bath and Shower Oils | 124 |
-| 7.3 | 2 | Moisturisers | 125 |
-| 7.4 | 2 | Barriers | 125 |
-| 7.5 | 2 | Body Butters | 126 |
-| 7.6 | 2 | Water (Aqua) | 127 |
-| 7.7 | 2 | Denatured Alcohol | 127 |
-| 7.8 | 2 | Humectants | 127 |
-| 7.9 | 2 | Oils, Fatty Acids and Polymers | 128 |
-| 7.10 | 2 | Preservatives | 129 |
-| 7.11 | 2 | Formaldehyde | 129 |
-| 7.12 | 2 | Formaldehyde-Releasing Preservatives | 129 |
-| 7.13 | 2 | Non-Formaldehyde Preservatives | 130 |
-| 7.14 | 2 | Fragrance | 131 |
-| 7.15 | 2 | Summary | 132 |
+| 7 | 1 | [Các thành phần mỹ phẩm phổ biến: hóa học, tác dụng, độ an toàn và sản phẩm](#7.common-cosmetic-ingredients-chemistry-actions-safety-and-products) | 122 |
+| 7.1 | 2 | [Sản phẩm làm sạch, chất hoạt động bề mặt và xà phòng](#7.1.cleansers-surfactants-and-soaps) | 123 |
+| 7.2 | 2 | [Dầu tắm bồn và tắm vòi sen](#7.2.bath-and-shower-oils) | 124 |
+| 7.3 | 2 | [Sản phẩm dưỡng ẩm](#7.3.moisturisers) | 125 |
+| 7.4 | 2 | [Tác nhân bảo vệ hàng rào da](#7.4.barriers) | 125 |
+| 7.5 | 2 | [Bơ dưỡng thể](#7.5.body-butters) | 126 |
+| 7.6 | 2 | [Nước (Aqua)](#7.6.water-aqua) | 127 |
+| 7.7 | 2 | [Cồn biến tính](#7.7.denatured-alcohol) | 127 |
+| 7.8 | 2 | [Chất hút ẩm](#7.8.humectants) | 127 |
+| 7.9 | 2 | [Dầu, acid béo và polymer](#7.9.oils-fatty-acids-and-polymers) | 128 |
+| 7.10 | 2 | [Chất bảo quản](#7.10.preservatives) | 129 |
+| 7.11 | 2 | [Formaldehyde](#7.11.formaldehyde) | 129 |
+| 7.12 | 2 | [Chất bảo quản giải phóng formaldehyde](#7.12.formaldehyde-releasing-preservatives) | 129 |
+| 7.13 | 2 | [Chất bảo quản không chứa formaldehyde](#7.13.non-formaldehyde-preservatives) | 130 |
+| 7.14 | 2 | [Hương liệu](#7.14.fragrance) | 131 |
+| 7.15 | 2 | [Tóm tắt](#7.15.summary) | 132 |
 | 7.16 | 2 | References | 132 |
 | 8 | 1 | Thickening Agents | 136 |
 | 8.1 | 2 | Introduction | 137 |
@@ -2415,3 +2415,335 @@ Mặt khác, có thể sử dụng các tín hiệu kích hoạt nội sinh; ưu
 Một cách tiếp cận mới là sử dụng nanocarrier nhạy oxy hóa–khử, có khả năng giải phóng thuốc tại các vùng da có nồng độ gốc tự do cao hơn, chẳng hạn trong bệnh da viêm. Cách này cho phép điều trị chọn lọc chỉ các vùng da viêm, trong khi vùng da khỏe mạnh không bị ảnh hưởng bởi thuốc và tác dụng phụ.
 
 Tóm lại, những chiến lược mới này rất hứa hẹn, nhưng cần tiếp tục nghiên cứu trước khi các hệ nanocarrier thông minh này được thương mại hóa cho sản phẩm mỹ phẩm, chăm sóc cá nhân hoặc dược phẩm.
+
+---
+
+<a id="7.common-cosmetic-ingredients-chemistry-actions-safety-and-products"></a>
+
+# 7. Các thành phần mỹ phẩm phổ biến: hóa học, tác dụng, độ an toàn và sản phẩm
+
+Brett MacFarlane
+
+## Nội dung
+
+- Sản phẩm làm sạch, chất hoạt động bề mặt và xà phòng
+- Dầu tắm bồn và tắm vòi sen
+- Sản phẩm dưỡng ẩm
+- Sản phẩm bảo vệ hàng rào da
+- Bơ dưỡng thể
+- Nước (Aqua)
+- Cồn biến tính
+- Chất hút ẩm
+- Dầu, acid béo và polymer
+- Chất bảo quản
+- Formaldehyde
+- Chất bảo quản giải phóng formaldehyde
+- Chất bảo quản không chứa formaldehyde
+- Hương liệu
+- Tóm tắt
+- Tài liệu tham khảo
+
+Chăm sóc da dựa trên một chế độ gồm làm sạch, dưỡng ẩm và bảo vệ hàng rào da. Các sản phẩm chăm sóc da và mỹ phẩm chứa những thành phần cần thiết để tạo công thức, đồng thời bảo đảm hiệu quả và độ an toàn của sản phẩm (ví dụ: nước, dầu, chất bảo quản và chất hoạt động bề mặt), cũng như các thành phần giúp tăng khả năng chấp nhận về mặt thẩm mỹ (ví dụ: hương liệu). Các thành phần được ghi trên sản phẩm hoặc bao bì theo thứ tự hàm lượng giảm dần. Nhìn chung, người tiêu dùng không có đủ khả năng đánh giá độ an toàn và hiệu quả của sản phẩm chỉ dựa trên một danh sách thành phần có thể rất phức tạp. Vì vậy, họ dựa vào tư vấn của những chuyên gia am hiểu việc đánh giá danh sách thành phần.
+
+Mức độ phù hợp của sản phẩm với da nhạy cảm phụ thuộc vào hồ sơ an toàn của từng thành phần. Nhìn chung, các sản phẩm chăm sóc da và mỹ phẩm được đại đa số người dùng dung nạp tốt; tuy nhiên, chúng có thể gây phản ứng bất lợi trên da ở một số ít người. Các phản ứng bất lợi bao gồm viêm da, phản ứng dạng trứng cá và dị ứng. Triệu chứng của phản ứng bất lợi trên da gồm ban đỏ, phát ban, ngứa, mày đay, cảm giác châm chích và nóng rát. Các phản ứng bất lợi được báo cáo phổ biến nhất thường nhẹ và nhìn chung sẽ chấm dứt sau khi ngừng sử dụng sản phẩm. Ở một số ít người, nhiều sản phẩm khác nhau có thể gây phản ứng chéo (*status cosmeticus*). Trừ những trường hợp nghiêm trọng nhất, phản ứng bất lợi không xuất hiện ngay trong lần đầu sử dụng sản phẩm mà phát triển chậm theo thời gian khi sản phẩm được dùng lặp lại và tích lũy. Vì vậy, ngay cả những sản phẩm chăm sóc da và mỹ phẩm mà người tiêu dùng đã sử dụng an toàn trong thời gian dài cũng có thể gây mẫn cảm.
+
+Những người phản ứng với sản phẩm chăm sóc da và mỹ phẩm có thể tự mô tả mình bằng các từ như “quá nhạy cảm”. Trong cộng đồng tồn tại nhiều quan niệm sai lầm về sự cần thiết phải dùng sản phẩm chuyên biệt cho da nhạy cảm, và thuật ngữ “ít gây dị ứng” (*hypoallergenic*) thường được sử dụng trong marketing. Do khả năng gặp phản ứng bất lợi trên da do sản phẩm chăm sóc da hoặc mỹ phẩm tương đối thấp, gần như mọi sản phẩm đều có thể được xem là ít gây dị ứng. Hướng dẫn về việc sử dụng thuật ngữ này trên nhãn sản phẩm chăm sóc da yêu cầu sản phẩm phải được thử nghiệm trên người và được chứng minh là gây ít phản ứng bất lợi trên da hơn các chất đối chứng. Mặc dù có vô số báo cáo về phản ứng bất lợi trên da với các thành phần phổ biến, những phản ứng này nhìn chung xảy ra sau khi dùng các thành phần ở nồng độ cao hơn rất nhiều so với nồng độ trong sản phẩm dành cho người (Juhász và Marmur, 2014).
+
+Tuy nhiên, thường không thể dự đoán một cá nhân sẽ phản ứng như thế nào với sản phẩm chăm sóc da hoặc mỹ phẩm. Họ có thể từng phản ứng với sản phẩm trước đây hoặc có tiền sử gia đình về da nhạy cảm. Nhìn chung, những người mắc các tình trạng làm suy giảm chức năng hàng rào da, chẳng hạn như chàm, có khả năng phản ứng cao nhất. Một vài câu hỏi đơn giản về tiền sử của họ có thể hữu ích khi xác định nguy cơ. Những người thường xuyên gặp phản ứng bất lợi trên da có thể cần được bác sĩ chuyên khoa dị ứng đánh giá để xác định chính xác thành phần gây phản ứng. Cách xử trí tốt nhất đối với tình trạng nhạy cảm da do sản phẩm chăm sóc da và mỹ phẩm là tránh hoàn toàn tác nhân gây mẫn cảm.
+
+---
+
+<a id="7.1.cleansers-surfactants-and-soaps"></a>
+
+## 7.1. Sản phẩm làm sạch, chất hoạt động bề mặt và xà phòng
+
+Làm sạch da là bước nền tảng trong chế độ chăm sóc da. Sản phẩm làm sạch rửa trôi bụi bẩn và dầu, đồng thời hỗ trợ làm mới làn da bằng cách loại bỏ tế bào da chết. Chúng chứa các chất hoạt động bề mặt, một nhóm hóa chất có cấu trúc đa dạng. Chất hoạt động bề mặt (còn được gọi là tác nhân nhũ hóa, chất tẩy rửa, chất ổn định hoặc xà phòng) ngăn các thành phần tan trong nước và lipid của chế phẩm tách lớp, đồng thời tạo khả năng tạo bọt cho sản phẩm làm sạch khi trộn với nước.
+
+Theo cấu trúc hóa học, chất hoạt động bề mặt có thể thuộc các loại:
+
+- Anionic (mang điện tích âm)
+- Cationic (mang điện tích dương)
+- Non-ionic (trung hòa)
+- Zwitterionic (mang cả điện tích âm và dương trong cùng một phân tử)
+
+Chất hoạt động bề mặt có thể làm mất nước ở cả da thường và da nhạy cảm, dẫn đến khô da và tổn thương hàng rào da. Chúng nằm trong số những nguyên nhân phổ biến nhất gây viêm da tiếp xúc dị ứng do sản phẩm chăm sóc da và mỹ phẩm (González-Muñoz và cộng sự, 2014). Chất hoạt động bề mặt có thể gây tổn thương da bằng cách:
+
+- Làm xáo trộn cấu trúc được tổ chức chặt chẽ của lipid da
+- Tương tác với các thành phần tế bào, chẳng hạn như keratin
+- Gây viêm da
+
+Các dấu hiệu sớm cho thấy da không tương thích với chất hoạt động bề mặt gồm ngứa, khô, ban đỏ và cảm giác căng da. Ảnh hưởng lâu dài của các chất hoạt động bề mặt gây kích ứng gồm ban đỏ kéo dài, khô, bong vảy và nứt da (Tupker và cộng sự, 1999).
+
+Chất hoạt động bề mặt có thể liên kết với protein trong da và làm protein trương nở, từ đó gây mất nước và tạo điều kiện để các chất kích ứng khác thấm sâu hơn vào da. Điều này gây khô, đỏ và ngứa tức thời. Khi sử dụng kéo dài, tình trạng khô mạn tính có thể phát triển, dẫn đến suy giảm chức năng hàng rào da và các phản ứng bất lợi trên da về lâu dài.
+
+Trên thị trường có nhiều sản phẩm làm sạch được tuyên bố là “không chứa xà phòng”. Thuật ngữ “xà phòng” thường dùng để chỉ chất hoạt động bề mặt sodium laurate, một nguyên nhân chính gây kích ứng da và hiện nay hiếm khi được sử dụng, nếu còn được sử dụng. Vì vậy, phần lớn sản phẩm làm sạch trên thị trường hiện nay có thể được xem là “không chứa xà phòng”. Thực tế là nếu sản phẩm làm sạch có khả năng tạo bọt thì sản phẩm đó chứa chất hoạt động bề mặt. Các sản phẩm được gọi là không chứa xà phòng thường chứa các chất hoạt động bề mặt ít gây kích ứng hơn; tuy nhiên, người dùng vẫn có thể nhạy cảm với những sản phẩm này.
+
+Do đó, nên chọn sản phẩm làm sạch chứa các chất hoạt động bề mặt ít gây kích ứng nhất. Một sản phẩm làm sạch lý tưởng không chỉ làm sạch mà còn làm mềm và bảo vệ da. Nhiều sản phẩm làm sạch dưỡng ẩm thế hệ mới chứa các thành phần lưu lại trên da nhằm tăng cường chức năng hàng rào, qua đó bảo vệ da khỏi mất nước. Ví dụ về các thành phần có lợi trong sản phẩm làm sạch gồm glycerol để cấp ẩm, paraffin để bảo vệ hàng rào và dầu để làm mềm da. Một số thành phần bù lại các acid béo của da như cholesterol và acid stearic bị rửa trôi trong quá trình làm sạch. Bằng chứng cho thấy các sản phẩm rửa dưỡng ẩm đưa những thành phần bảo vệ này lên da hiệu quả hơn sản phẩm làm sạch dạng bánh (Ananthapadmanabhan và cộng sự, 2004).
+
+Thuật ngữ “xà phòng” đã được dùng rộng rãi để chỉ các chất hoạt động bề mặt anionic, đặc biệt là sodium laurate. Đây là các muối của acid béo và có tính kiềm, với pH có thể lên tới 10. Các chất hoạt động bề mặt tổng hợp (syndet) ít gây kích ứng hơn vì thường có pH trung tính hoặc hơi acid. Da nhìn chung có pH acid; pH da mang tính kiềm có liên quan đến sự mất lipid da, tăng mất nước qua hàng rào bị suy giảm và mức hydrat hóa thấp (Thune và cộng sự, 1988). Ngay cả các dung dịch có pH trung tính cũng đã được chứng minh là làm chậm quá trình phục hồi chức năng hàng rào da (Mauro và cộng sự, 1998). pH của sản phẩm làm sạch là yếu tố quan trọng khi xem xét khả năng gây kích ứng da của sản phẩm (Hachem và cộng sự, 2003).
+
+Các tình trạng viêm da, bao gồm chàm, viêm da và tăng tiết bã nhờn, có liên quan đến sự gia tăng pH da. Có ý kiến cho rằng việc tăng pH da có thể ảnh hưởng bất lợi đến một số enzyme chịu trách nhiệm sản xuất lipid hàng rào da. Vì vậy, việc làm tăng thêm pH của vùng da viêm và da cơ địa do sử dụng sản phẩm chăm sóc da và mỹ phẩm có pH trung tính hoặc kiềm có thể tiếp tục gây kích ứng cho vùng da vốn đã tổn thương (Hachem và cộng sự, 2003).
+
+Kích thước phân tử của chất hoạt động bề mặt là một yếu tố quan trọng đối với nguy cơ kích ứng da. Các phân tử chất hoạt động bề mặt có kích thước nhỏ hơn thấm vào những lớp da sâu hơn, nơi chứa các tế bào đang phân chia tích cực. Vì vậy, chúng dường như gây phản ứng bất lợi trên da đáng kể hơn so với các phân tử chất hoạt động bề mặt có kích thước lớn hơn và ít thấm sâu hơn (Bettley, 1963). Potassium laurate có kích thước phân tử nhỏ hơn thấm sâu hơn vào da và gây nhiều phản ứng bất lợi trên da hơn đáng kể so với potassium palmitate hoặc potassium octanoate có kích thước lớn hơn. Mặc dù một hợp chất có thể độc hơn hợp chất khác, nó có thể không dễ gây phản ứng bất lợi trên da nếu không thấm vào da ở mức đáng kể do giới hạn về kích thước phân tử. Cũng có ý kiến cho rằng tình trạng da nhạy cảm với chất hoạt động bề mặt có thể bắt nguồn từ các tạp chất hình thành trong quá trình xử lý hóa học. Tuy nhiên, giả thuyết này rất khó kiểm chứng.
+
+Cần nhấn mạnh rằng thử nghiệm khả năng gây kích ứng da của chất hoạt động bề mặt thường được tiến hành ở nồng độ cao hơn nồng độ sử dụng trong sản phẩm thương mại. Trong thử nghiệm, chất hoạt động bề mặt được hòa tan trong các dung môi không thường dùng để tạo công thức sản phẩm làm sạch. Ngoài ra, sản phẩm làm sạch còn chứa các thành phần khác giúp giảm khả năng kích ứng da do các thành phần hoạt động bề mặt gây ra. Vì vậy, dữ liệu về khả năng gây kích ứng của chất hoạt động bề mặt có thể đánh giá quá cao nguy cơ xuất hiện phản ứng bất lợi trên da trên lâm sàng.
+
+Các chất hoạt động bề mặt glucoside thế hệ mới có khả năng gây kích ứng da rất thấp (Loffler và Happle, 2003). Chúng cũng đắt hơn đáng kể so với các chất hoạt động bề mặt thế hệ cũ, vì vậy việc sử dụng chúng trong sản phẩm chăm sóc da và mỹ phẩm có thể bị hạn chế do chi phí. Decyl polyglucoside được xác định là chất ít gây kích ứng nhất trong một nhóm chất hoạt động bề mặt được thử nghiệm trên người (Vozmediano và cộng sự, 2000). Tương tự, lauryl glucoside không gây mất ẩm hoặc đỏ da đáng kể (Baranay và cộng sự, 1999). Alkyl sulphonate có thể gây kích ứng da ở nồng độ và pH cao; do đó, hai yếu tố này cần được kiểm soát khi sử dụng nhóm chất hoạt động bề mặt này trong công thức dùng trên da (Becker và cộng sự, 2010).
+
+Các chất hoạt động bề mặt dẫn xuất amino acid, chẳng hạn như lysinate và glycinate, cũng ít có khả năng gây kích ứng da hơn. Kết quả nghiên cứu trên tế bào da nuôi cấy trong phòng thí nghiệm cho thấy chúng ít độc hơn các chất hoạt động bề mặt khác (Sanchez và cộng sự, 2006). Đánh giá độ an toàn của các alkyl amide amino acid dùng làm chất hoạt động bề mặt, chẳng hạn như lauroyl lysine và sodium lauroyl glutamate, cho thấy chúng an toàn ở nồng độ sử dụng trong sản phẩm chăm sóc da và mỹ phẩm khi sản phẩm được tạo công thức để không gây kích ứng (Burnett và cộng sự, 2017).
+
+Các chất hoạt động bề mặt có liên quan đến kích ứng da gồm sodium cocoamphoacetate, sodium cocoyl isethionate, sodium laurate, sodium lauryl sulphate, sodium pareth sulphate (Baranay và cộng sự, 1999; Tupker và cộng sự, 1999) và cocamidopropyl betaine (Jacob và Amini, 2008).
+
+---
+
+<a id="7.2.bath-and-shower-oils"></a>
+
+## 7.2. Dầu tắm bồn và tắm vòi sen
+
+Dầu tắm bồn và tắm vòi sen được sử dụng để hỗ trợ chăm sóc da khô, nhạy cảm bằng cách tạo một lớp dầu bảo vệ trên da trong hoặc sau khi làm sạch. Tuy nhiên, bằng chứng cho thấy mặc dù dầu có hiệu quả, chúng cũng có thể làm tăng sự lưu đọng trên da của các chất kích ứng tan trong lipid có trong công thức (Loden và cộng sự, 2004). Ngoài ra, dầu tắm bồn thường bị lau đi khi dùng khăn lau khô sau khi tắm; vì vậy, nên sử dụng kết hợp với sản phẩm dưỡng ẩm để đạt lợi ích tối đa.
+
+---
+
+<a id="7.3.moisturisers"></a>
+
+## 7.3. Sản phẩm dưỡng ẩm
+
+Sản phẩm dưỡng ẩm được sử dụng rộng rãi cho tình trạng da tổn thương, da khô và trong các sản phẩm chống lão hóa. Hàm lượng nước của da có vai trò quan trọng đối với việc duy trì chức năng hàng rào. Khi sản phẩm dưỡng ẩm mới được thoa, những vết nứt rất nhỏ giữa các tế bào trên bề mặt da được lấp đầy và làm phẳng. Da bắt đầu trông khỏe mạnh hơn, đồng thời có cảm giác mềm và trơn hơn. Nước (aqua, water) từ kem được hấp thu vào các lớp ngoài của da, nhanh chóng cải thiện tình trạng khô. Tuy nhiên, chỉ những sản phẩm chăm sóc da chứa chất hút ẩm và tác nhân bảo vệ hàng rào mới có thể thúc đẩy sự cải thiện lâu dài về độ ẩm của da.
+
+Chức năng hàng rào da chịu ảnh hưởng của mức độ hydrat hóa (hàm lượng nước). Khả năng hạn chế mất nước của da phụ thuộc vào lipid da và mức độ trưởng thành của tế bào da. Da cũng chứa một nhóm chất mà khi kết hợp với nhau sẽ hoạt động như yếu tố giữ ẩm tự nhiên (NMF). Các thành phần của NMF gồm amino acid và những ion nhỏ khác thiết yếu đối với quá trình hydrat hóa da. Độ ẩm của da còn phụ thuộc vào môi trường, mùa trong năm và độ ẩm tương đối.
+
+Da khỏe mạnh hạn chế sự mất nước khỏi cơ thể và sự xâm nhập của các chất kích ứng từ môi trường. Da tổn thương và viêm có chức năng hàng rào suy giảm, có thể mất lượng nước lớn hơn bình thường và làm tình trạng khô da trầm trọng hơn. Trong một số bệnh da liên quan đến hàng rào bị gián đoạn, chẳng hạn như chàm, viêm da và vảy nến, cơ thể cố gắng ngăn mất nước bằng cách làm da dày lên. Tuy nhiên, các tế bào da hình thành theo cách này chưa trưởng thành và chức năng hàng rào vẫn bị suy giảm.
+
+Để sử dụng sản phẩm dưỡng ẩm tối ưu, cần lưu ý những điểm sau:
+
+1. **Thoa nhẹ nhàng** - Lượng kem dưỡng ẩm lưu lại trên da sau khi chà xát có thể ít hơn tới 50% so với khi thoa nhẹ (Rhodes và Diffey, 1997). Chà xát và massage mạnh làm giảm lượng sản phẩm dưỡng ẩm lưu lại trên da xuống dưới mức tối ưu.
+2. **Thoa lên da khô** - Sản phẩm dưỡng ẩm sẽ bám tốt hơn và ít bị cọ dính vào quần áo.
+3. **Thoa nhiều lần mỗi ngày** - Độ ẩm của da tăng nhanh và đáng kể sau khi thoa sản phẩm dưỡng ẩm, nhưng trở về mức ban đầu trong vòng vài giờ (Chiang và Eichenfield, 2009). Vì vậy, cần thoa lặp lại, ít nhất hai lần mỗi ngày, để đạt độ ẩm da tối đa.
+4. **Chú ý thoa sản phẩm dưỡng ẩm trên toàn bộ bề mặt da** - Thuốc mỡ đặc được dàn đều trên bề mặt da hơn so với kem hoặc lotion lỏng hơn (Ivens và cộng sự, 2001). Kem và lotion không được dàn tới rìa vùng thoa tốt bằng thuốc mỡ; vì vậy, cần bảo đảm dàn kem và lotion đến toàn bộ giới hạn ngoài của vùng thoa.
+
+---
+
+<a id="7.4.barriers"></a>
+
+## 7.4. Tác nhân bảo vệ hàng rào da
+
+Tác nhân bảo vệ hàng rào là một thành phần quan trọng trong chăm sóc da khô và dành cho những người thường xuyên tiếp xúc với hóa chất gây kích ứng hoặc thường xuyên rửa tay tại nhà hay nơi làm việc. Tiếp xúc lặp lại với nước và hóa chất gây kích ứng là một yếu tố quan trọng dẫn đến viêm da bàn tay mạn tính. Tình trạng này thường xảy ra ở những người liên tục tiếp xúc với chất kích ứng trong công việc, bao gồm thợ làm tóc, nhân viên chăm sóc trẻ em, nhân viên nhà bếp và giúp việc gia đình. Tác nhân bảo vệ hàng rào tạo một lớp bảo vệ trên bề mặt da nhằm hạn chế mất nước và ngăn tiếp xúc với hóa chất gây kích ứng.
+
+Dimethicone là hỗn hợp các polymer siloxane và có thể được dùng trong kem với nồng độ lên tới 15% để làm tác nhân bảo vệ hàng rào. Dimethicone có thể ngăn mất nước qua da và cải thiện độ dày của hàng rào (Short và cộng sự, 2007). Chất này cũng làm giảm cường độ melanin, một yếu tố có thể giữ vai trò quan trọng trong lão hóa do ánh sáng, đồng thời cải thiện tình trạng viêm da (Fowler, 2000). Một tổng quan chuyên sâu về các nghiên cứu độc tính kết luận rằng dimethicone và các biến thể của chất này an toàn khi được sử dụng trong công thức mỹ phẩm (Nair, 2003).
+
+Nhiều sản phẩm chăm sóc da bảo vệ chứa paraffin (còn gọi là petrolatum hoặc petroleum jelly), một hỗn hợp hydrocarbon bán rắn đã tinh chế có nguồn gốc khoáng vật. Paraffin có dạng màu vàng và màu trắng; paraffin mềm trắng là phiên bản đã tẩy màu của paraffin mềm vàng. Thuốc mỡ đặc hơn chứa paraffin mềm, còn kem và lotion lỏng hơn thường chứa paraffin hóa lỏng.
+
+Paraffin vốn không chứa nước. Chất này tạo một lớp hàng rào trên da, làm giảm lượng nước bay hơi vào khí quyển. Paraffin cũng có thể thay thế lượng lipid bị mất ở da tổn thương (Ghadially và cộng sự, 1992). Vì vậy, chất này có hiệu quả trong việc ngăn mất nước ở da và phục hồi chức năng hàng rào.
+
+Quan niệm phổ biến cho rằng paraffin có thể không phù hợp với người có da nhạy cảm vì đây là sản phẩm phụ của quá trình chưng cất dầu mỏ. Trên thực tế, có một số phương pháp khác nhau để sản xuất paraffin. Dạng tự nhiên đúng là có nguồn gốc từ quá trình chưng cất dầu mỏ và có thể chứa các chất nhiễm bẩn, bao gồm hydrocarbon thơm đa vòng. Tuy nhiên, dạng paraffin này được tinh chế ở mức độ cao để loại bỏ các chất nhiễm bẩn trước khi đưa vào công thức chăm sóc da. Trong khi đó, paraffin tổng hợp có thể được sản xuất không chứa chất nhiễm bẩn từ dầu mỏ và không gây nguy cơ cho da nhạy cảm.
+
+Một quan niệm phổ biến khác cho rằng dầu có nguồn gốc khoáng vật có thể gây phản ứng bất lợi trên da do bản chất hóa học của chúng, trái với dầu thực vật vốn được cho là dịu nhẹ hơn. Quả thực đã có các báo cáo ca bệnh về viêm da tiếp xúc dị ứng do sử dụng paraffin (Tam và Elston, 2006; Kang và cộng sự, 2004; Kundu và cộng sự, 2004). Tuy nhiên, số lượng nhỏ phản ứng bất lợi trên da được báo cáo trong suốt lịch sử sử dụng lâu dài cho thấy paraffin thực tế được dung nạp tốt. Một nghiên cứu so sánh nhiều loại paraffin khác nhau đã xác định một số nguyên nhân có thể gây mẫn cảm do khác biệt về nguồn gốc, màu sắc và quy trình tinh chế được sử dụng (Dooms-Goossens và Degreef, 1983a). Người có da nhạy cảm có thể được hưởng lợi từ paraffin sản xuất tổng hợp, loại chứa ít chất nhiễm bẩn hóa học hơn paraffin “tự nhiên” (Dooms-Goossens và Degreef, 1983b).
+
+Các nghiên cứu về sự thấm qua da của dầu khoáng và sáp cho thấy chúng không thấm qua da sâu hơn lớp sừng, do đó không thể đi vào hệ tuần hoàn để gây hậu quả bất lợi cho sức khỏe (Petry và cộng sự, 2017).
+
+Kẽm oxide là chất rắn được đưa vào nền thuốc mỡ dưới dạng bột hạt mịn và dùng làm tác nhân bảo vệ trên da tổn thương. Thuốc mỡ kẽm oxide tạo cho da một hàng rào vững chắc chống mất nước. Sản phẩm thường được dùng để điều trị hăm tã hoặc cho người mắc chứng tiểu không tự chủ. Một nghiên cứu nhỏ trên người cho thấy kẽm oxide có thể bảo vệ da khỏi kích ứng do sodium lauryl sulphate. Tuy nhiên, chất này không có hiệu quả trong việc cải thiện độ ẩm của da hoặc ngăn da bị nhũn do tiếp xúc liên tục với chất kích ứng (Hoggarth và cộng sự, 2005).
+
+Lanolin được sản xuất từ lông cừu và là một tác nhân bảo vệ hàng rào khan hiệu quả. Từ lâu, lanolin được cho là một chất gây dị ứng tiếp xúc, với thành phần gây dị ứng chính được cho là các alcohol của lông cừu (còn gọi là lanolin alcohol, wool wax và wool wax alcohol); tuy nhiên, điều này vẫn chưa được xác định đầy đủ. Phần lớn báo cáo về dị ứng tiếp xúc với lanolin ghi nhận ở những người có chức năng hàng rào da bị tổn thương, chẳng hạn như người mắc chàm. Tuy nhiên, một nghiên cứu quy mô lớn cho thấy ngay cả ở người mắc chàm, tỷ lệ dị ứng lanolin cũng chỉ ở mức 1,7% (Wakelin và cộng sự, 2001).
+
+---
+
+<a id="7.5.body-butters"></a>
+
+## 7.5. Bơ dưỡng thể
+
+Bơ dưỡng thể là sản phẩm dùng cho cơ thể có kết cấu đặc, mịn và có hương thơm, giúp làm mềm da và có thể bảo vệ da khỏi mất nước. Sau khi sử dụng bơ dưỡng thể, da có cảm giác mịn màng và mềm mại. Tuy nhiên, hiệu quả này nhìn chung chỉ mang tính tạm thời. Bơ dưỡng thể gồm các acid béo dạng đặc có trong những nguồn tự nhiên như bơ hạt mỡ hoặc bơ cacao.
+
+Bơ cacao từng được thêm vào xà phòng để giảm khả năng gây kích ứng. Tuy nhiên, biện pháp này không thành công vì lượng bơ cacao lưu lại trên da rất ít (Strube và Nicoll, 1987). Bơ cacao đã được chứng minh là gây phản ứng dạng trứng cá trên mô hình da động vật (Nguyen và cộng sự, 2007).
+
+Bơ hạt mỡ được sản xuất từ thành phần chất béo trong hạt của cây hạt mỡ (*Vitellaria paradoxa* Gaertner). Thành phần của bơ hạt mỡ thay đổi tùy theo nguồn gốc của cây được dùng để chiết xuất, bao gồm:
+
+- Triglyceride
+- Acid béo bão hòa và không bão hòa, chẳng hạn như acid stearic và acid oleic
+- Triterpene đa vòng
+- Các dạng alpha, beta, gamma và delta của tocopherol (vitamin E); bơ hạt mỡ được sản xuất từ cây sinh trưởng ở vùng khí hậu nóng hơn có hàm lượng vitamin E cao nhất (Maranz và Wiesman, 2004)
+- Polyphenol như acid gallic, catechin và quercetin (Maranz và cộng sự, 2003)
+
+Một thử nghiệm trên người cho thấy bơ hạt mỡ không cải thiện tình trạng kích ứng da do sodium lauryl sulphate gây ra. Vì vậy, các thành phần của bơ hạt mỡ có lẽ không giúp cải thiện tình trạng da tổn thương (Loden và Andersson, 1996).
+
+---
+
+<a id="7.6.water-aqua"></a>
+
+## 7.6. Nước (Aqua)
+
+Nước là thành phần thiết yếu của phần lớn sản phẩm chăm sóc da và mỹ phẩm. Trong sản phẩm dưỡng ẩm, nước thường là thành phần chiếm tỷ lệ lớn nhất trong công thức. Trên da khỏe mạnh, chỉ riêng nước đã được chứng minh là có khả năng gây kích ứng tương đương một số chất hoạt động bề mặt thường dùng (Tupker và cộng sự, 1997). Tuy nhiên, nước là thành phần cần thiết của kem và lotion vì tạo cho chúng kết cấu đặc trưng, đồng thời giữ vai trò thiết yếu đối với khả năng cải thiện độ ẩm da của công thức.
+
+---
+
+<a id="7.7.denatured-alcohol"></a>
+
+## 7.7. Cồn biến tính
+
+Cồn (ethanol) thường được sử dụng trong sản phẩm chăm sóc da và mỹ phẩm làm dung môi để cải thiện độ tan của một số hoạt chất ít tan, đồng thời làm chất tăng cường thấm. Cồn còn có lợi ích bổ sung là giúp chống nhiễm vi sinh. Khi thoa lên da, cồn có thể gây khô và kích ứng, đồng thời làm tăng sự hấp thu các chất nhiễm bẩn khác. Cồn được biến tính bằng nhiều hợp chất khác nhau, chẳng hạn như methanol, để làm sản phẩm khó uống và ngăn người dùng uống sản phẩm. Mặc dù bản thân ethanol ít có khả năng gây phản ứng bất lợi đáng kể, các chất biến tính có thể gây độc, đặc biệt khi được đưa vào cơ thể qua đường uống (Cosmetic Ingredient Review Expert Panel, 2008).
+
+---
+
+<a id="7.8.humectants"></a>
+
+## 7.8. Chất hút ẩm
+
+Chất hút ẩm cải thiện độ ẩm bề mặt da bằng cách thu hút nước từ các lớp da phía dưới và từ sản phẩm chăm sóc da, sau đó giữ nước trong lớp sừng. Chất hút ẩm liên kết với nước thông qua sự hình thành liên kết hydro giữa chúng và nước. Nước sau đó duy trì trạng thái liên kết trong chất hút ẩm và có thể hydrat hóa lớp sừng trong thời gian dài hơn.
+
+Chất hút ẩm được sử dụng phổ biến nhất trong các chế phẩm dành cho da khô là glycerol (10-20%). Ở độ ẩm tương đối thấp, mỗi gram glycerol có thể liên kết với khoảng 0,125 gram nước (Cohen và cộng sự, 1993). Đặc tính này khiến glycerol trở thành tác nhân lý tưởng để thu hút nước vào lớp sừng khô, đặc biệt vào mùa đông khi độ ẩm thấp và da trở nên khô hơn do bay hơi.
+
+Glycerol đã được chứng minh có khả năng (Fluhr, 1999; Cohen và cộng sự, 1993; Andersen và cộng sự, 2006a; Andersen và cộng sự, 2006b):
+
+- Tạo hiệu quả dưỡng ẩm da kéo dài
+- Hạn chế nước bay hơi khỏi bề mặt da
+- Giúp duy trì chức năng hàng rào da
+- Ngăn kích ứng da do hóa chất
+- Hỗ trợ quá trình bong vảy
+
+Vì glycerol thu hút và liên kết với nước từ sản phẩm chăm sóc da, chất này chỉ có hiệu quả trong các sản phẩm chứa nước như kem và lotion, đồng thời không phải là chất hút ẩm hiệu quả trong thuốc mỡ và bột nhão khan.
+
+Acid pyrrolidone carboxylic (PCA) là thành phần nổi bật trong NMF của da và được đưa vào sản phẩm dưỡng ẩm da làm chất hút ẩm. Da khô được phát hiện có hàm lượng PCA và các amino acid khác thuộc NMF thấp hơn (Feng và cộng sự, 2014).
+
+Urea (5-10%) làm tăng mức độ hydrat hóa của da và ngăn mất nước. Chất này có thể làm da mềm mại hơn, giúp giảm cảm giác kích ứng và khó chịu. Urea còn có thể cải thiện biểu hiện của da khô, nứt nẻ và bong vảy. Urea ở nồng độ 10% có thể cải thiện mức độ hydrat hóa của da, đồng thời hạn chế sự hấp thu các chất kích ứng từ môi trường (Loden, 1996). Tuy nhiên, khi nồng độ tăng lên 20%, urea có thể gây viêm và mất ẩm đáng kể, ngay cả trên da khỏe mạnh (Agner, 1992).
+
+---
+
+<a id="7.9.oils-fatty-acids-and-polymers"></a>
+
+## 7.9. Dầu, acid béo và polymer
+
+Dầu có nguồn gốc khoáng vật hoặc thực vật là thành phần chính của phần lớn sản phẩm chăm sóc da và mỹ phẩm. Khi được trộn với nước cùng chất nhũ hóa, dầu tạo cho sản phẩm kết cấu dạng kem. Dầu có thể được hấp thu vào da hoặc nằm trên bề mặt da để cải thiện độ đàn hồi, độ mềm và độ dẻo dai; ngăn mất nước; và cải thiện chức năng hàng rào da.
+
+Một nghiên cứu trên người có tình trạng da khô cho thấy dầu dừa nguyên chất cải thiện tình trạng khô và bong vảy da (Agero và Verallo-Rowell, 2004). Đánh giá da của những người tham gia cho thấy mức độ hydrat hóa tăng đáng kể. Hiệu quả tương đương với khi sử dụng dầu khoáng tại chỗ. Tuy nhiên, khác với dầu khoáng, một số thành phần chất béo của dầu dừa hiện diện tự nhiên trong da người. Đáng chú ý là không quan sát thấy phản ứng bất lợi trên da ở các đối tượng nghiên cứu. Điều này cho thấy dầu dừa nguyên chất có thể được dùng thay cho dầu khoáng ở những người muốn lựa chọn sản phẩm có nguồn gốc thực vật.
+
+Tuy nhiên, một nghiên cứu độc tính trên chuột cho thấy các acid có trong dầu dừa (coconut diethanolamide [CDEA]) có thể gây kích ứng da khi được thoa trong thời gian dài (National Toxicology Program, 2001). Các acid này làm dày tế bào da và tuyến bã nhờn, đồng thời gây loét. CDEA có trong một số sản phẩm chăm sóc da và mỹ phẩm. Chất này nhìn chung được dung nạp tốt ở người và chỉ có một số ít phản ứng bất lợi trên da được báo cáo (Pinola và cộng sự, 1993). Tuy nhiên, tình trạng kích ứng quan sát được trên chuột cho thấy việc sử dụng dầu dừa lâu dài có thể ảnh hưởng bất lợi đến da.
+
+Dầu hoa anh thảo (EPO) là nguồn cung cấp acid gamma-linolenic và acid linoleic. Da không thể tổng hợp acid gamma-linolenic, vì vậy acid béo quan trọng này phải được bổ sung qua chế độ ăn. Một emulsion chứa EPO được thêm vào nước tắm đã được chứng minh là cải thiện tình trạng da bị kích ứng bởi sodium lauryl sulphate (De Paepe và cộng sự, 2002). EPO cũng được phát hiện có khả năng cải thiện triệu chứng viêm da khi được thoa dưới dạng emulsion nước trong dầu (Gehring và cộng sự, 1999).
+
+Dầu lạc (dầu arachis) là dầu không bay hơi đã tinh chế, được chiết xuất từ nhân hạt *Arachis hypogaea*. Dầu lạc được dùng trong sản phẩm chăm sóc da và mỹ phẩm để làm mềm và bảo vệ da. Khi được đưa vào cơ thể qua đường uống, protein lạc là nguyên nhân chính gây dị ứng nghiêm trọng ở người, bao gồm mày đay. Dầu lạc tinh chế chứa hàm lượng rất thấp các protein gây dị ứng. Hiếm có báo cáo ca bệnh về dị ứng với dầu lạc dùng tại chỗ. Không có dữ liệu đáng tin cậy cho thấy sản phẩm chăm sóc da và mỹ phẩm chứa dầu lạc gây dị ứng ở người nhạy cảm khi dùng tại chỗ (Ring và Möhrenschlager, 2007).
+
+Đậu nành chủ yếu gồm phospholipid và acid béo thiết yếu (Hausen và cộng sự, 1999). Đậu nành còn chứa isoflavone, bao gồm phytoestrogen, saponin, amino acid thiết yếu, phytosterol và khoáng chất. Dầu đậu nành dùng tại chỗ cho thấy triển vọng làm sáng vùng da tăng sắc tố (Konda và cộng sự, 2012), cũng như trong điều trị lão hóa da và ung thư do tia UV (Bosch và cộng sự, 2015).
+
+Dầu hướng dương đã được chứng minh là làm giảm đáng kể tỷ lệ tử vong ở trẻ sơ sinh do chức năng hàng rào da kém (Darmstadt, 2008). Có ý kiến cho rằng dầu cải thiện chức năng hàng rào da, từ đó làm giảm nguy cơ nhiễm trùng. Tuy nhiên, trong một nghiên cứu khác, sản phẩm dưỡng ẩm chứa dầu hướng dương không cải thiện đáng kể tình trạng da bị kích ứng (Loden và Andersson, 1996).
+
+Triglyceride có thể được chia thành loại chuỗi ngắn, chuỗi trung bình và chuỗi dài. Triglyceride chuỗi trung bình chứa từ 5 đến 20 nguyên tử carbon. Chúng được đưa vào một số sản phẩm chăm sóc da và mỹ phẩm để tạo cảm giác mịn như sáp cho sản phẩm. Các triglyceride chuỗi trung bình gồm acid palmitic (16 carbon), acid myristic (14 carbon), acid lauric (12 carbon), acid capric (10 carbon), acid caprylic (8 carbon) và acid caproic (6 carbon). Nhìn chung, ở nồng độ thường dùng trong sản phẩm chăm sóc da và mỹ phẩm, triglyceride chuỗi trung bình được dung nạp tốt (Traul và cộng sự, 2000).
+
+Polyethylene glycol (PEG) là một polymer được sử dụng rất phổ biến trong sản phẩm chăm sóc da và mỹ phẩm. Có nhiều phân tử PEG với kích thước và hoạt tính hóa học khác nhau. Các phân tử được ghi là PEG, theo sau là số tiểu đơn vị polymer mà chúng chứa, chẳng hạn như PEG-32. PEG tạo độ nhớt cho sản phẩm chăm sóc da và mỹ phẩm, do đó ảnh hưởng đến cảm giác của sản phẩm trên da trong quá trình sử dụng thông thường. Nhìn chung, PEG được da dung nạp rất tốt. Chất này có thể được hấp thu qua da khỏe mạnh và chỉ có ít báo cáo về tình trạng nhạy cảm (Fruijtier-Polloth, 2005). Alkyl PEG ether được dùng làm chất ổn định emulsion và tác nhân dưỡng da, đồng thời được dung nạp tốt (Fiume, 2012).
+
+Propylene glycol (PG) được sử dụng rộng rãi trong sản phẩm chăm sóc da và mỹ phẩm ở nồng độ 25-50%, thậm chí trên 50% trong một số trường hợp. Nhìn chung, PG được dùng làm dung môi để hòa tan các thành phần khác trong quá trình sản xuất. Mặc dù có nhiều báo cáo về phản ứng bất lợi trên da với sản phẩm chứa PG, các thử nghiệm tiếp theo thường không xác định được PG là nguyên nhân. Số phản ứng bất lợi trên da với sản phẩm có nồng độ PG thấp thực tế rất nhỏ. Một nghiên cứu so sánh số lượng rất lớn các nghiên cứu trên người có báo cáo phản ứng nhạy cảm với PG cho thấy chưa đến 1% số người gặp dị ứng tiếp xúc từ mức trung bình đến nghiêm trọng, trong khi tối đa 2% có phản ứng dạng dị ứng nhẹ hơn. Phần lớn phản ứng bất lợi được báo cáo chỉ là kích ứng da. Nhiều bệnh nhân báo cáo kích ứng da cũng nhạy cảm với nhiều thành phần khác (Ananthapadmanabhan và cộng sự, 2004).
+
+---
+
+<a id="7.10.preservatives"></a>
+
+## 7.10. Chất bảo quản
+
+Chất bảo quản hóa học giúp ngăn sự phát triển của vi sinh vật có thể làm hỏng sản phẩm và gây nhiễm trùng da hoặc mắt. Vi sinh vật có thể xâm nhập vào sản phẩm trong quá trình sản xuất hoặc qua việc sử dụng hằng ngày. Chất bảo quản hóa học cần ngăn sự phát triển của vi sinh vật trong suốt thời hạn sử dụng của sản phẩm mà không gây phản ứng bất lợi trên da.
+
+Một số ít người nhạy cảm với chất bảo quản. Tuy nhiên, kết quả đánh giá một bộ dữ liệu lớn về khả năng gây kích ứng da, trong đó thực hiện thử nghiệm tích lũy đối với các chất bảo quản thường dùng trong sản phẩm chăm sóc da ở nồng độ sử dụng thực tế, cho thấy chất bảo quản dường như không góp phần gây kích ứng ở người có làn da khỏe mạnh (Walters và cộng sự, 2015).
+
+Có thể sản xuất sản phẩm không chứa chất bảo quản, nhưng chi phí sản xuất cao. Những người nhạy cảm với chất bảo quản cần hiểu rõ nguy cơ xảy ra phản ứng bất lợi. Đáng tiếc, trong tới 45% trường hợp, nhãn sản phẩm chăm sóc da và mỹ phẩm được phát hiện là không chính xác hoặc gây hiểu lầm về hàm lượng chất bảo quản (Rastogi, 2000).
+
+Chất bảo quản có thể được chia thành nhóm formaldehyde, bao gồm cả chất giải phóng formaldehyde, và nhóm không chứa formaldehyde.
+
+---
+
+<a id="7.11.formaldehyde"></a>
+
+## 7.11. Formaldehyde
+
+Trong số các chất bảo quản dùng trong sản phẩm chăm sóc da và mỹ phẩm, formaldehyde có khả năng gây dị ứng da cao nhất (Jong và cộng sự, 2007). Formaldehyde đã được dùng để bảo quản sản phẩm chăm sóc da, sản phẩm loại bỏ mụn cóc, sản phẩm dành cho móng, cũng như một số loại vải và đồ dùng giường ngủ chứa cotton hoặc rayon. Số người nhạy cảm với chất bảo quản formaldehyde đang gia tăng đáng lo ngại; một nghiên cứu ghi nhận mức tăng 400-500% về tình trạng nhạy cảm với formaldehyde ở người dân Israel (Zachariae và cộng sự, 2006).
+
+---
+
+<a id="7.12.formaldehyde-releasing-preservatives"></a>
+
+## 7.12. Chất bảo quản giải phóng formaldehyde
+
+Chất bảo quản giải phóng formaldehyde chứa formaldehyde như một phần có thể tách ra khỏi cấu trúc hóa học của chúng. Trong quá trình sử dụng thông thường và suốt thời hạn sử dụng, formaldehyde được giải phóng từ từ. Chất bảo quản giải phóng formaldehyde hữu ích trong những sản phẩm khó bảo quản bằng các phương pháp khác. Người nhạy cảm với formaldehyde được khuyến cáo cũng nên tránh các chất bảo quản giải phóng formaldehyde vì có mức độ mẫn cảm chéo đáng kể (Jong và cộng sự, 2007).
+
+Bronopol (2-bromo-2-nitropropane-1,3-diol) dường như có tần suất gây kích ứng da rất thấp (Frosch và cộng sự, 1990). Người nhạy cảm với formaldehyde cũng có khả năng nhạy cảm với bronopol. Nghiên cứu cho thấy bronopol có thể gây độc cho tế bào sau khi chiếu tia UV, cho thấy chất này có thể gây vấn đề nếu sản phẩm chứa bronopol được thoa lên da trước khi tiếp xúc với ánh nắng; tuy nhiên, vấn đề này vẫn chưa được xác định rõ (Placzek và cộng sự, 2005).
+
+Cresol (p-chloro-m-cresol [PCMC hoặc chlorocresol], sodium p-chloro-m-cresol, chlorothymol, hỗn hợp cresol, m-cresol, o-cresol, p-cresol, isopropyl cresol, carvacrol, thymol và o-Cymen-5-ol) có thể được hấp thu qua da khi thoa ở nồng độ cao, đồng thời thúc đẩy sự hấp thu các hợp chất khác. Ở nồng độ cao, cresol có thể gây kích ứng da đáng kể. Ở nồng độ thấp hơn thường dùng trong sản phẩm chăm sóc da và mỹ phẩm, một số cresol vẫn được ghi nhận gây kích ứng da đáng kể. Tuy nhiên, PCMC, thymol và o-Cymen-5-ol nhìn chung không gây kích ứng da ở nồng độ thấp (Andersen, 2006).
+
+Tần suất nhạy cảm với diazolidinyl urea dường như tương đối thấp và ổn định (Zoller và cộng sự, 2006). Tuy nhiên, các phản ứng đã ghi nhận gồm phát ban đỏ nổi gồ ở cổ và cánh tay, cùng tình trạng đỏ lan rộng trên mặt (Zachariae và cộng sự, 2006). Có ý kiến cho rằng một số phản ứng với diazolidinyl urea bắt nguồn từ formaldehyde được giải phóng, thay vì tác động trực tiếp của bản thân chất bảo quản (Hectorne và Fransway, 1994).
+
+DMDM hydantoin (dimethylol dimethyl hydantoin) gây mẫn cảm ở khoảng một phần ba số người đồng thời nhạy cảm với formaldehyde (de Groot và cộng sự, 1988).
+
+Imidazolidinyl urea được báo cáo là gây ra số lượng đáng kể các phản ứng bất lợi trên da và tần suất này dường như đang gia tăng. Nguyên nhân có thể là mức độ tiếp xúc của con người với mỹ phẩm và sản phẩm chăm sóc da trên toàn thế giới ngày càng tăng (Jong và cộng sự, 2007).
+
+Quaternium-15 (Q15) gây ra một tỷ lệ đáng kể phản ứng da dương tính (Jong và cộng sự, 2007). Người nhạy cảm với formaldehyde và tất cả các chất bảo quản giải phóng formaldehyde khác cũng có khả năng nhạy cảm với Q15.
+
+---
+
+<a id="7.13.non-formaldehyde-preservatives"></a>
+
+## 7.13. Chất bảo quản không chứa formaldehyde
+
+Benzalkonium chloride là chất bảo quản được sử dụng rất rộng rãi trong các sản phẩm chăm sóc da và mỹ phẩm như sản phẩm rửa mặt, sản phẩm tẩy tế bào chết cho tay, sản phẩm dùng sau cạo râu, mỹ phẩm, chất tẩy rửa, chất khử mùi và kem đánh răng. Một nghiên cứu quy mô lớn cho thấy chất này có liên quan đến sự phát triển của viêm da tiếp xúc dị ứng ở mí mắt (Amin và Belsito, 2006).
+
+Chloroxylenol được báo cáo có khả năng gây dị ứng thấp nhất trong nhóm 10 chất bảo quản được nghiên cứu. Tỷ lệ dị ứng với chloroxylenol thấp hơn 10 lần so với formaldehyde (Jong và cộng sự, 2007).
+
+MCI/MI là hỗn hợp của 5-chloro-2-methyl-4-isothiazolin-3-one (methylchloroisothiazolinone) và 2-methyl-4-isothiazolin-3-one (methylisothiazolinone). Chất này đã được chứng minh là một nguyên nhân đáng kể gây dị ứng tiếp xúc ở người có da nhạy cảm, với tỷ lệ được báo cáo lên tới 3% (Menné và cộng sự, 1991).
+
+Methyldibromo glutaronitrile (MDBGN) làm gia tăng đáng kể tần suất phản ứng bất lợi trên da tại châu Âu trong thập niên 1990 (Wilkinson và cộng sự, 2002). Tần suất viêm da tiếp xúc được báo cáo lên tới 4% (de Groot và cộng sự, 1996). Phần lớn trường hợp này được đánh giá là có mức độ nghiêm trọng đáng kể. Nguồn gây dị ứng MDBGN chính là mỹ phẩm và khăn ướt.
+
+Paraben (các ester methyl-, ethyl-, propyl-, butyl-, isobutyl- và isopropyl- của acid p-hydroxybenzoic) là nhóm chất bảo quản được sử dụng rộng rãi nhất trong sản phẩm chăm sóc da và mỹ phẩm. Một công thức thường kết hợp nhiều loại paraben khác nhau. Trước đây, paraben bị mang tiếng xấu là gây dị ứng da nghiêm trọng. Bằng chứng cho thấy tỷ lệ xảy ra những phản ứng này thực tế rất nhỏ; tuy nhiên, paraben có thể có tỷ lệ gây kích ứng da cao, chẳng hạn như đỏ và ngứa (Jong và cộng sự, 2007). Kích ứng ít có khả năng xảy ra trên da khỏe mạnh, nguyên vẹn và nhìn chung chỉ là vấn đề ở các rối loạn có chức năng hàng rào da kém (Soni và cộng sự, 2005).
+
+---
+
+<a id="7.14.fragrance"></a>
+
+## 7.14. Hương liệu
+
+Trong số các thành phần thường dùng trong sản phẩm chăm sóc da và mỹ phẩm, hương liệu gây ra phản ứng bất lợi trên da thường xuyên nhất (González-Muñoz và cộng sự, 2014). Hương liệu có thể gây dị ứng tiếp xúc tại vị trí thoa và thậm chí ở những vị trí xa hơn do người dùng làm lan truyền qua tiếp xúc (translocation) và do bay hơi. Tỷ lệ nhạy cảm với hương liệu được ước tính từ dưới 1/10 ở những người độ tuổi 20 đến nhỉnh hơn 1/10 ở những người độ tuổi 60 (Buckley và cộng sự, 2003). Tỷ lệ báo cáo nhạy cảm với hương liệu đang gia tăng ở một số quốc gia (Scheinman, 2002).
+
+Hương liệu có thể có nguồn gốc nhân tạo hoặc thực vật. Có hơn 3.000 hương liệu nhân tạo và hàng trăm loài thực vật có hương được sử dụng trong sản phẩm chăm sóc da và mỹ phẩm. Một nghiên cứu tại Vương quốc Anh phát hiện 300 sản phẩm bày bán trên kệ ghi rằng chúng chứa “perfume”. Trong số các sản phẩm được thử nghiệm, phần lớn chứa những hương liệu gây mẫn cảm mạnh nhất. Chỉ 34 sản phẩm được thử nghiệm không chứa các hương liệu được xem là gây kích ứng nhất (Buckley, 2007).
+
+Phản ứng bất lợi trên da với các thành phần hương liệu đã được ghi nhận đầy đủ. Người lao động trong nhà máy hương liệu đã xuất hiện các phản ứng với thành phần hương liệu, từ kích ứng da đơn thuần đến dị ứng da nghiêm trọng hơn. Các tác nhân chính liên quan gồm chiết xuất chanh và cam, geraniol và cinnamic aldehyde (Schubert, 2006).
+
+Các thành phần hương liệu bao gồm:
+
+- Alpha-isomethyl ionone
+- Balsam of Peru
+- Benzaldehyde
+- Bisabolol
+- Butyl phenyl methyl propional (p-tert-butyl alpha-methylhydrocinnamic aldehyde)
+- Dẫn xuất acid cinnamic
+- Citral
+- Citronellol
+- Coumarin
+- *Evernia prunastri*
+- Farnesol
+- Geraniol
+- Hydroxycintronellol
+- Hydroxy-isohexyl-3-cyclohexane carboxaldehyde (HICC)
+- 4-hydroxy-4-methylpentyl cyclohexane-1-carboxaldehyde (HMPCC)
+- Dẫn xuất isoeugenol
+- Jasmine absolute
+- Limonene
+- Linalool (và linalyl acetate)
+- Narcissus absolute
+- Dầu đàn hương
+- Dầu ylang ylang
+
+Thành phần hương liệu trong danh sách thành phần của sản phẩm “không hương liệu” có thể bị che giấu vì có nguồn gốc thực vật. Cần hiểu rằng các tác nhân thực vật như dầu hoa hồng, dầu đàn hương, dầu gỗ tuyết tùng, dầu họ cam quýt, dầu oải hương và các loại dầu dễ bay hơi khác cùng chiết xuất thực vật đều được xem là hương liệu. Vì vậy, người nhạy cảm với hương liệu cũng phải thận trọng với một số sản phẩm chăm sóc da và mỹ phẩm “không hương liệu”, vì chúng thực tế có thể chứa hương liệu được liệt kê dưới dạng thành phần thực vật.
+
+Việc xác định sản phẩm phù hợp cho người nhạy cảm với hương liệu có thể khó khăn, vì danh sách thành phần có thể chỉ ghi “fragrance”, “parfum” hoặc “other ingredients”. Một số hợp chất tạo hương trong công thức có thể đảm nhiệm các chức năng khác, chẳng hạn như làm chất bảo quản. Các hợp chất này gồm benzyl alcohol, benzaldehyde, ethylene brassylate, phenoxyethanol và cyclopentadecanolide.
+
+Những người đã biết mình nhạy cảm với các thành phần hương liệu vẫn có thể sử dụng sản phẩm chứa hương liệu mà không gặp vấn đề. Phản ứng bất lợi trên da phụ thuộc vào công thức, nồng độ hương liệu, vị trí và thời gian thoa, cũng như tình trạng da tại thời điểm thoa. Phương pháp đáng tin cậy nhất để xác định một người có nhạy cảm với thành phần hương liệu hay không là thực hiện thử nghiệm áp da chính thức. Phép thử đơn giản trong điều kiện sử dụng, gồm thoa sản phẩm lên vùng da kín đáo (ví dụ mặt trong cánh tay) hai lần mỗi ngày trong một đến hai tuần, cũng có thể cho biết khả năng xảy ra phản ứng.
+
+Do danh sách thành phần cung cấp cho người tiêu dùng có thể bị giới hạn về các thành phần hương liệu, cách hiệu quả nhất để ngăn phản ứng bất lợi trên da với hương liệu là tránh hoàn toàn các sản phẩm có hương. Nói cách khác, nếu sản phẩm có mùi thơm thì nên tránh sử dụng. Người tiêu dùng có thể thực hiện một số việc đơn giản để giảm nguy cơ phát triển phản ứng bất lợi trên da với hương liệu. Tránh sử dụng sản phẩm chăm sóc da và mỹ phẩm chứa hương liệu trên:
+
+1. **Vùng da tổn thương**, bao gồm vùng vừa cạo, vùng cháy nắng, bỏng gió, da khô, vùng hăm tã và các vùng phát ban khác.
+2. **Vùng da mỏng** dễ hấp thu hương liệu hơn, chẳng hạn như mí mắt và cơ quan sinh dục.
+3. **Vùng kẽ** (giữa các nếp gấp da), dưới cánh tay và giữa hai mông.
+4. **Trẻ em hoặc người cao tuổi.**
+5. **Vùng da có chức năng hàng rào bị suy giảm**, chẳng hạn như da chàm, viêm da và vảy nến.
+
+---
+
+<a id="7.15.summary"></a>
+
+## 7.15. Tóm tắt
+
+Các sản phẩm chăm sóc da và mỹ phẩm gồm nhiều thành phần khác nhau cần thiết để bảo đảm sản phẩm được tạo công thức, sử dụng và bảo quản an toàn, hiệu quả. Một số thành phần trong đó có liên quan đến sự phát triển của phản ứng bất lợi trên da. Tuy nhiên, nhìn chung, nếu được sử dụng theo hướng dẫn trên làn da khỏe mạnh, các sản phẩm này được dung nạp rất tốt. Hồ sơ tác dụng bất lợi của chúng đã được nghiên cứu đầy đủ, nhìn chung ở mức nhẹ và có thể chấp nhận đối với phần lớn người dùng. Một số người có làn da nhạy cảm và tổn thương có khả năng phản ứng với các thành phần chăm sóc da cao hơn, đặc biệt là một số hương liệu, chất hoạt động bề mặt và chất bảo quản. Có thể tiến hành thử nghiệm trên người nhạy cảm để xác định những thành phần cần tránh.

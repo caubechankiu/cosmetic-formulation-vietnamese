@@ -282,6 +282,74 @@
 | Natural moisturising factor (NMF) | Yếu tố giữ ẩm tự nhiên (NMF) |
 | Hygroscopic agent | Tác nhân hút ẩm |
 | Humectant | Chất hút ẩm |
+| Adverse skin reaction | Phản ứng bất lợi trên da |
+| Acneiform reaction | Phản ứng dạng trứng cá |
+| Erythema | Ban đỏ |
+| Urticaria | Mày đay |
+| Cross-reactivity | Phản ứng chéo |
+| Status cosmeticus | Status cosmeticus; tình trạng nhiều sản phẩm mỹ phẩm khác nhau gây phản ứng chéo |
+| Sensitisation | Sự mẫn cảm; quá trình gây mẫn cảm tùy ngữ cảnh |
+| Hypoallergenic | Ít gây dị ứng |
+| Compromised skin barrier function | Chức năng hàng rào da bị suy giảm |
+| Sensitiser | Tác nhân gây mẫn cảm |
+| Surfactant (surface active agent) | Chất hoạt động bề mặt |
+| Anionic surfactant | Chất hoạt động bề mặt anionic; mang điện tích âm |
+| Cationic surfactant | Chất hoạt động bề mặt cationic; mang điện tích dương |
+| Non-ionic surfactant | Chất hoạt động bề mặt non-ionic; trung hòa |
+| Zwitterionic surfactant | Chất hoạt động bề mặt zwitterionic; mang cả điện tích âm và dương trong cùng một phân tử |
+| Syndet (synthetic surfactant) | Syndet; chất hoạt động bề mặt tổng hợp |
+| Skin irritancy | Khả năng gây kích ứng da |
+| Lipid-soluble irritant | Chất kích ứng tan trong lipid |
+| Moisturiser | Sản phẩm dưỡng ẩm |
+| Barrier agent | Tác nhân bảo vệ hàng rào |
+| Paraffin / petrolatum / petroleum jelly | Paraffin / petrolatum / petroleum jelly; hỗn hợp hydrocarbon bán rắn tinh chế có nguồn gốc khoáng vật |
+| Skin maceration | Tình trạng nhũn da |
+| Lanolin | Lanolin; chất có nguồn gốc từ lông cừu dùng làm tác nhân bảo vệ hàng rào khan |
+| Contact allergen | Chất gây dị ứng tiếp xúc |
+| Body butter | Bơ dưỡng thể |
+| Shea butter | Bơ hạt mỡ |
+| Cocoa butter | Bơ cacao |
+| Tocopherol | Tocopherol; vitamin E |
+| Polyphenol | Polyphenol |
+| Denatured alcohol | Cồn biến tính |
+| Penetration enhancer | Chất tăng cường thấm |
+| Microbial contamination | Nhiễm vi sinh |
+| Denaturant | Chất biến tính |
+| Hydrogen bond | Liên kết hydro |
+| Glycerol | Glycerol |
+| Pyrrolidone carboxylic acid (PCA) | Acid pyrrolidone carboxylic (PCA) |
+| Urea | Urea |
+| Hydrous / anhydrous product | Sản phẩm chứa nước / sản phẩm khan |
+| Emulsifier | Chất nhũ hóa |
+| Virgin coconut oil | Dầu dừa nguyên chất |
+| Evening primrose oil (EPO) | Dầu hoa anh thảo (EPO) |
+| Water-in-oil emulsion | Emulsion nước trong dầu |
+| Peanut oil (arachis oil) | Dầu lạc (dầu arachis) |
+| Medium-chain triglyceride | Triglyceride chuỗi trung bình |
+| Polyethylene glycol (PEG) | Polyethylene glycol (PEG) |
+| Viscosity | Độ nhớt |
+| Skin conditioning agent | Tác nhân dưỡng da |
+| Propylene glycol (PG) | Propylene glycol (PG) |
+| Chemical preservative | Chất bảo quản hóa học |
+| Shelf life | Thời hạn sử dụng |
+| In-use concentration | Nồng độ sử dụng thực tế |
+| Preservative-free product | Sản phẩm không chứa chất bảo quản |
+| Formaldehyde-releasing preservative | Chất bảo quản giải phóng formaldehyde |
+| Cross-sensitivity | Mẫn cảm chéo |
+| Bronopol | Bronopol; 2-bromo-2-nitropropane-1,3-diol |
+| Cresol | Cresol |
+| Non-formaldehyde preservative | Chất bảo quản không chứa formaldehyde |
+| Benzalkonium chloride | Benzalkonium chloride |
+| Chloroxylenol | Chloroxylenol |
+| MCI/MI | Hỗn hợp methylchloroisothiazolinone và methylisothiazolinone |
+| Methyldibromo glutaronitrile (MDBGN) | Methyldibromo glutaronitrile (MDBGN) |
+| Paraben | Paraben |
+| Fragrance | Hương liệu |
+| Fragrance-free | Không hương liệu |
+| Fragrance sensitivity | Nhạy cảm với hương liệu |
+| Translocation (fragrance) | Sự lan truyền hương liệu qua tiếp xúc |
+| Patch testing | Thử nghiệm áp da |
+| Intertriginous area | Vùng kẽ giữa các nếp gấp da |
 | Water activity | Hoạt độ nước |
 | Occlusive conditions | Điều kiện bít kín |
 | Percutaneous absorption | Hấp thu qua da |

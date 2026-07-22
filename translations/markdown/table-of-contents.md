@@ -115,22 +115,22 @@
 | 6.6.2 | 3 | [Cơ chế thấm vào nang tóc](6.6.2.the-mechanism-of-follicular-penetration.md) | 117 |
 | 6.6.3 | 3 | [Nanocarrier làm chất vận chuyển để đưa hoạt chất vào da](6.6.3.nanocarriers-as-transporters-for-skin-delivery.md) | 118 |
 | 6.7 | 2 | References | 119 |
-| 7 | 1 | Common Cosmetic Ingredients: Chemistry, Actions, Safety and Products | 122 |
-| 7.1 | 2 | Cleansers, Surfactants and Soaps | 123 |
-| 7.2 | 2 | Bath and Shower Oils | 124 |
-| 7.3 | 2 | Moisturisers | 125 |
-| 7.4 | 2 | Barriers | 125 |
-| 7.5 | 2 | Body Butters | 126 |
-| 7.6 | 2 | Water (Aqua) | 127 |
-| 7.7 | 2 | Denatured Alcohol | 127 |
-| 7.8 | 2 | Humectants | 127 |
-| 7.9 | 2 | Oils, Fatty Acids and Polymers | 128 |
-| 7.10 | 2 | Preservatives | 129 |
-| 7.11 | 2 | Formaldehyde | 129 |
-| 7.12 | 2 | Formaldehyde-Releasing Preservatives | 129 |
-| 7.13 | 2 | Non-Formaldehyde Preservatives | 130 |
-| 7.14 | 2 | Fragrance | 131 |
-| 7.15 | 2 | Summary | 132 |
+| 7 | 1 | [Các thành phần mỹ phẩm phổ biến: hóa học, tác dụng, độ an toàn và sản phẩm](7.common-cosmetic-ingredients-chemistry-actions-safety-and-products.md) | 122 |
+| 7.1 | 2 | [Sản phẩm làm sạch, chất hoạt động bề mặt và xà phòng](7.1.cleansers-surfactants-and-soaps.md) | 123 |
+| 7.2 | 2 | [Dầu tắm bồn và tắm vòi sen](7.2.bath-and-shower-oils.md) | 124 |
+| 7.3 | 2 | [Sản phẩm dưỡng ẩm](7.3.moisturisers.md) | 125 |
+| 7.4 | 2 | [Tác nhân bảo vệ hàng rào da](7.4.barriers.md) | 125 |
+| 7.5 | 2 | [Bơ dưỡng thể](7.5.body-butters.md) | 126 |
+| 7.6 | 2 | [Nước (Aqua)](7.6.water-aqua.md) | 127 |
+| 7.7 | 2 | [Cồn biến tính](7.7.denatured-alcohol.md) | 127 |
+| 7.8 | 2 | [Chất hút ẩm](7.8.humectants.md) | 127 |
+| 7.9 | 2 | [Dầu, acid béo và polymer](7.9.oils-fatty-acids-and-polymers.md) | 128 |
+| 7.10 | 2 | [Chất bảo quản](7.10.preservatives.md) | 129 |
+| 7.11 | 2 | [Formaldehyde](7.11.formaldehyde.md) | 129 |
+| 7.12 | 2 | [Chất bảo quản giải phóng formaldehyde](7.12.formaldehyde-releasing-preservatives.md) | 129 |
+| 7.13 | 2 | [Chất bảo quản không chứa formaldehyde](7.13.non-formaldehyde-preservatives.md) | 130 |
+| 7.14 | 2 | [Hương liệu](7.14.fragrance.md) | 131 |
+| 7.15 | 2 | [Tóm tắt](7.15.summary.md) | 132 |
 | 7.16 | 2 | References | 132 |
 | 8 | 1 | Thickening Agents | 136 |
 | 8.1 | 2 | Introduction | 137 |
