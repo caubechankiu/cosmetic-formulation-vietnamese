@@ -97,23 +97,23 @@
 | 5.5.4 | 3 | [Nail Polish Remover](5.5.4.nail-polish-remover.md) | 107 |
 | 5.6 | 2 | [Outlook and Summary](5.6.outlook-and-summary.md) | 107 |
 | 5.7 | 2 | References | 107 |
-| 6 | 1 | Hair Morphology, Biogenesis, Heterogeneity, Pathophysiology and Hair Follicle Penetration | 112 |
-| 6.1 | 2 | Introduction | 112 |
-| 6.2 | 2 | The Morphology of Hair and Hair Follicles | 113 |
-| 6.3 | 2 | The Hair Cycle | 114 |
-| 6.4 | 2 | Ethnic Heterogeneity in Hair and Hair Follicle Morphology | 114 |
-| 6.5 | 2 | Hair Follicle Pathophysiology | 114 |
-| 6.5.1 | 3 | Reversible Hair Loss | 115 |
-| 6.5.1.1 | 4 | Telogen Effluvium and Premature Anagen Arrest | 115 |
-| 6.5.1.2 | 4 | Androgen-Associated Disorders | 115 |
-| 6.5.1.3 | 4 | Autoimmunological-Induced Hair Loss | 115 |
-| 6.5.1.4 | 4 | Inflammatory Hair Loss | 115 |
-| 6.5.2 | 3 | Irreversible Hair Loss | 115 |
-| 6.5.3 | 3 | Hair Follicles and Skin Tumours | 116 |
-| 6.6 | 2 | Hair Follicle Penetration | 116 |
-| 6.6.1 | 3 | Methods to Investigate Follicular Penetration | 117 |
-| 6.6.2 | 3 | The Mechanism of Follicular Penetration | 117 |
-| 6.6.3 | 3 | Nanocarriers as Transporters for Skin Delivery | 118 |
+| 6 | 1 | [Hình thái học, quá trình sinh tóc, tính không đồng nhất, sinh lý bệnh và sự thấm vào nang tóc](6.hair-morphology-biogenesis-heterogeneity-pathophysiology-and-hair-follicle-penetration.md) | 112 |
+| 6.1 | 2 | [Giới thiệu](6.1.introduction.md) | 112 |
+| 6.2 | 2 | [Hình thái học của tóc và nang tóc](6.2.the-morphology-of-hair-and-hair-follicles.md) | 113 |
+| 6.3 | 2 | [Chu kỳ tóc](6.3.the-hair-cycle.md) | 114 |
+| 6.4 | 2 | [Tính không đồng nhất sắc tộc trong hình thái học của tóc và nang tóc](6.4.ethnic-heterogeneity-in-hair-and-hair-follicle-morphology.md) | 114 |
+| 6.5 | 2 | [Sinh lý bệnh của nang tóc](6.5.hair-follicle-pathophysiology.md) | 114 |
+| 6.5.1 | 3 | [Rụng tóc có hồi phục](6.5.1.reversible-hair-loss.md) | 115 |
+| 6.5.1.1 | 4 | [Telogen effluvium và ngừng sớm pha anagen](6.5.1.1.telogen-effluvium-and-premature-anagen-arrest.md) | 115 |
+| 6.5.1.2 | 4 | [Các rối loạn liên quan androgen](6.5.1.2.androgen-associated-disorders.md) | 115 |
+| 6.5.1.3 | 4 | [Rụng tóc do cơ chế tự miễn](6.5.1.3.autoimmunological-induced-hair-loss.md) | 115 |
+| 6.5.1.4 | 4 | [Rụng tóc do viêm](6.5.1.4.inflammatory-hair-loss.md) | 115 |
+| 6.5.2 | 3 | [Rụng tóc không hồi phục](6.5.2.irreversible-hair-loss.md) | 115 |
+| 6.5.3 | 3 | [Nang tóc và các khối u da](6.5.3.hair-follicles-and-skin-tumours.md) | 116 |
+| 6.6 | 2 | [Sự thấm vào nang tóc](6.6.hair-follicle-penetration.md) | 116 |
+| 6.6.1 | 3 | [Phương pháp khảo sát sự thấm vào nang tóc](6.6.1.methods-to-investigate-follicular-penetration.md) | 117 |
+| 6.6.2 | 3 | [Cơ chế thấm vào nang tóc](6.6.2.the-mechanism-of-follicular-penetration.md) | 117 |
+| 6.6.3 | 3 | [Nanocarrier làm chất vận chuyển để đưa hoạt chất vào da](6.6.3.nanocarriers-as-transporters-for-skin-delivery.md) | 118 |
 | 6.7 | 2 | References | 119 |
 | 7 | 1 | Common Cosmetic Ingredients: Chemistry, Actions, Safety and Products | 122 |
 | 7.1 | 2 | Cleansers, Surfactants and Soaps | 123 |

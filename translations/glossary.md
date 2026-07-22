@@ -46,6 +46,93 @@
 | Nonviable epidermis | Biểu bì không sống |
 | Homeostasis | Cân bằng nội môi |
 | Hair follicle | Nang tóc |
+| Hair shaft | Thân tóc |
+| Hair morphology | Hình thái học của tóc |
+| Hair biogenesis | Quá trình sinh tóc |
+| Hair cycle | Chu kỳ tóc |
+| Pilosebaceous unit | Đơn vị nang–tuyến bã |
+| Hair bulb | Hành tóc |
+| Hair papilla | Nhú tóc |
+| Infundibulum | Phễu nang tóc |
+| Isthmus (hair follicle) | Eo nang tóc |
+| Bulge (hair follicle) | Vùng phình của nang tóc (bulge) |
+| Medulla (hair) | Tủy tóc |
+| Cortex (hair) | Vỏ tóc |
+| Cuticle (hair) | Lớp biểu bì tóc |
+| Terminal hair | Tóc trưởng thành |
+| Vellus hair | Lông tơ |
+| Anagen | Pha anagen (pha tăng trưởng) |
+| Catagen | Pha catagen (pha thoái triển) |
+| Telogen | Pha telogen (pha nghỉ) |
+| Follicular density | Mật độ nang tóc |
+| Follicular reservoir | Kho dự trữ nang tóc |
+| Immune privilege | Đặc quyền miễn dịch |
+| Permanent portion (hair follicle) | Phần thường trực của nang tóc |
+| Transient portion (hair follicle) | Phần nhất thời của nang tóc |
+| Trichilemmal differentiation | Biệt hóa kiểu trichilemmal |
+| Outer root sheath | Bao rễ ngoài |
+| Tight junction | Mối nối chặt |
+| Hair matrix cell | Tế bào ma trận tóc |
+| Signal transduction pathway | Con đường truyền tín hiệu |
+| Growth factor | Yếu tố tăng trưởng |
+| Hair shedding | Rụng tóc |
+| Hair fibre | Sợi tóc |
+| Hair follicle orifice | Lỗ nang tóc |
+| Hair follicle miniaturization | Sự thu nhỏ nang tóc |
+| Reversible hair loss | Rụng tóc có hồi phục |
+| Irreversible hair loss | Rụng tóc không hồi phục |
+| Telogen effluvium | Telogen effluvium; rụng tóc do chuyển sớm sang pha telogen |
+| Premature anagen arrest | Ngừng sớm pha anagen |
+| Androgenetic alopecia | Rụng tóc do androgen |
+| Alopecia areata | Rụng tóc từng vùng |
+| Alopecia areata universalis | Rụng tóc từng vùng toàn thể |
+| Scarring alopecia | Rụng tóc có sẹo |
+| Autoimmune comorbidity | Bệnh tự miễn đồng thời |
+| Autoantibody | Tự kháng thể |
+| Skin-resident pathogen | Tác nhân gây bệnh cư trú trên da |
+| Surgical site infection | Nhiễm trùng tại vị trí phẫu thuật |
+| Bulge-papilla communication | Liên lạc giữa vùng phình và nhú tóc |
+| Topically applied substance | Chất bôi tại chỗ |
+| Intercellular penetration | Sự thấm gian bào |
+| Transcellular penetration | Sự thấm xuyên bào |
+| Follicular penetration | Sự thấm vào nang tóc |
+| Transfollicular penetration | Sự thấm xuyên nang tóc |
+| Stratum corneum reservoir | Kho dự trữ của lớp sừng |
+| Physicochemical property | Tính chất lý hóa |
+| Tape stripping | Bóc tách bằng băng dính |
+| Diffusion cell | Tế bào khuếch tán |
+| Dermal microdialysis | Vi thẩm tách trung bì |
+| Differential stripping | Bóc tách vi sai |
+| Cyanoacrylate skin surface biopsy | Sinh thiết bề mặt da bằng cyanoacrylate |
+| Selective follicular closing | Bít nang tóc chọn lọc |
+| Follicular opening | Lỗ nang tóc |
+| Bioavailability | Khả dụng sinh học; sinh khả dụng |
+| Confocal laser scanning microscopy | Kính hiển vi quét laser đồng tiêu |
+| Ratchet mechanism | Cơ chế bánh cóc |
+| Radial movement | Chuyển động hướng tâm |
+| Axial movement | Chuyển động dọc trục |
+| Nanocarrier | Nanocarrier; chất mang nano |
+| Trigger signal | Tín hiệu kích hoạt |
+| Exogenous trigger | Tín hiệu kích hoạt ngoại sinh |
+| Endogenous trigger | Tín hiệu kích hoạt nội sinh |
+| Controlled release | Giải phóng có kiểm soát |
+| Thermoresponsive nanogel | Nanogel nhạy nhiệt |
+| Redox-sensitive nanocarrier | Nanocarrier nhạy oxy hóa–khử |
+| Free radical | Gốc tự do |
+| Tumour targeting | Hướng đích khối u |
+| Inflammatory hair loss | Rụng tóc do viêm |
+| Lichen planopilaris | Lichen phẳng nang tóc |
+| Graft-versus-host disease | Bệnh mảnh ghép chống vật chủ |
+| Skin tumour | Khối u da |
+| Basal cell carcinoma | Ung thư biểu mô tế bào đáy |
+| Tumour suppressor gene | Gene ức chế khối u |
+| Sonic Hedgehog–patched signalling pathway | Con đường truyền tín hiệu Sonic Hedgehog–patched |
+| Germinative cell | Tế bào sinh mầm |
+| Seborrheic keratosis | Dày sừng tiết bã |
+| Trichoepithelioma | U trichoepithelioma |
+| Trichoblastoma | U nguyên bào tóc |
+| Pilomatricoma | U pilomatrixoma (u nền tóc) |
+| Trichilemmal carcinoma | Ung thư biểu mô trichilemmal |
 | Sweat duct | Ống tuyến mồ hôi |
 | Apocrine gland | Tuyến apocrine |
 | Sebaceous gland | Tuyến bã nhờn |

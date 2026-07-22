@@ -104,23 +104,23 @@
 | 5.5.4 | 3 | [Nail Polish Remover](#5.5.4.nail-polish-remover) | 107 |
 | 5.6 | 2 | [Outlook and Summary](#5.6.outlook-and-summary) | 107 |
 | 5.7 | 2 | References | 107 |
-| 6 | 1 | Hair Morphology, Biogenesis, Heterogeneity, Pathophysiology and Hair Follicle Penetration | 112 |
-| 6.1 | 2 | Introduction | 112 |
-| 6.2 | 2 | The Morphology of Hair and Hair Follicles | 113 |
-| 6.3 | 2 | The Hair Cycle | 114 |
-| 6.4 | 2 | Ethnic Heterogeneity in Hair and Hair Follicle Morphology | 114 |
-| 6.5 | 2 | Hair Follicle Pathophysiology | 114 |
-| 6.5.1 | 3 | Reversible Hair Loss | 115 |
-| 6.5.1.1 | 4 | Telogen Effluvium and Premature Anagen Arrest | 115 |
-| 6.5.1.2 | 4 | Androgen-Associated Disorders | 115 |
-| 6.5.1.3 | 4 | Autoimmunological-Induced Hair Loss | 115 |
-| 6.5.1.4 | 4 | Inflammatory Hair Loss | 115 |
-| 6.5.2 | 3 | Irreversible Hair Loss | 115 |
-| 6.5.3 | 3 | Hair Follicles and Skin Tumours | 116 |
-| 6.6 | 2 | Hair Follicle Penetration | 116 |
-| 6.6.1 | 3 | Methods to Investigate Follicular Penetration | 117 |
-| 6.6.2 | 3 | The Mechanism of Follicular Penetration | 117 |
-| 6.6.3 | 3 | Nanocarriers as Transporters for Skin Delivery | 118 |
+| 6 | 1 | [Hình thái học, quá trình sinh tóc, tính không đồng nhất, sinh lý bệnh và sự thấm vào nang tóc](#6.hair-morphology-biogenesis-heterogeneity-pathophysiology-and-hair-follicle-penetration) | 112 |
+| 6.1 | 2 | [Giới thiệu](#6.1.introduction) | 112 |
+| 6.2 | 2 | [Hình thái học của tóc và nang tóc](#6.2.the-morphology-of-hair-and-hair-follicles) | 113 |
+| 6.3 | 2 | [Chu kỳ tóc](#6.3.the-hair-cycle) | 114 |
+| 6.4 | 2 | [Tính không đồng nhất sắc tộc trong hình thái học của tóc và nang tóc](#6.4.ethnic-heterogeneity-in-hair-and-hair-follicle-morphology) | 114 |
+| 6.5 | 2 | [Sinh lý bệnh của nang tóc](#6.5.hair-follicle-pathophysiology) | 114 |
+| 6.5.1 | 3 | [Rụng tóc có hồi phục](#6.5.1.reversible-hair-loss) | 115 |
+| 6.5.1.1 | 4 | [Telogen effluvium và ngừng sớm pha anagen](#6.5.1.1.telogen-effluvium-and-premature-anagen-arrest) | 115 |
+| 6.5.1.2 | 4 | [Các rối loạn liên quan androgen](#6.5.1.2.androgen-associated-disorders) | 115 |
+| 6.5.1.3 | 4 | [Rụng tóc do cơ chế tự miễn](#6.5.1.3.autoimmunological-induced-hair-loss) | 115 |
+| 6.5.1.4 | 4 | [Rụng tóc do viêm](#6.5.1.4.inflammatory-hair-loss) | 115 |
+| 6.5.2 | 3 | [Rụng tóc không hồi phục](#6.5.2.irreversible-hair-loss) | 115 |
+| 6.5.3 | 3 | [Nang tóc và các khối u da](#6.5.3.hair-follicles-and-skin-tumours) | 116 |
+| 6.6 | 2 | [Sự thấm vào nang tóc](#6.6.hair-follicle-penetration) | 116 |
+| 6.6.1 | 3 | [Phương pháp khảo sát sự thấm vào nang tóc](#6.6.1.methods-to-investigate-follicular-penetration) | 117 |
+| 6.6.2 | 3 | [Cơ chế thấm vào nang tóc](#6.6.2.the-mechanism-of-follicular-penetration) | 117 |
+| 6.6.3 | 3 | [Nanocarrier làm chất vận chuyển để đưa hoạt chất vào da](#6.6.3.nanocarriers-as-transporters-for-skin-delivery) | 118 |
 | 6.7 | 2 | References | 119 |
 | 7 | 1 | Common Cosmetic Ingredients: Chemistry, Actions, Safety and Products | 122 |
 | 7.1 | 2 | Cleansers, Surfactants and Soaps | 123 |
@@ -2185,3 +2185,233 @@ Khi được thoa lên móng, nước tẩy sơn móng sẽ hòa tan nitrocellul
 ## 5.6 Triển vọng và tổng kết
 
 Cho đến nay, các nhà khoa học và bác sĩ lâm sàng đã sử dụng nhiều kỹ thuật lý sinh và kỹ thuật sinh học khác nhau để nghiên cứu móng và hiểu rõ hơn về cách các đặc tính của móng có thể bị ảnh hưởng. Tiềm năng của nhiều cách tiếp cận này trong điều trị bệnh móng vẫn chưa được khai thác đầy đủ. Thành công còn khiêm tốn của các liệu pháp lâm sàng hiện nay cần trở thành động lực thúc đẩy đổi mới trong lĩnh vực này. Các công thức thông thường chủ yếu dựa trên sơn móng, cho thấy rằng, tương tự như đối với da, thời gian lưu của cả hoạt chất và tá dược trong hoặc trên móng có ý nghĩa quyết định đối với hiệu quả. Cần thận trọng khi xem xét những cách tiếp cận thực nghiệm rõ ràng gây tổn thương móng, và các phương pháp này có khả năng sẽ gặp phải những rào cản pháp lý đáng kể.
+
+---
+
+<a id="6.hair-morphology-biogenesis-heterogeneity-pathophysiology-and-hair-follicle-penetration"></a>
+
+# 6. Hình thái học, quá trình sinh tóc, tính không đồng nhất, sinh lý bệnh và sự thấm vào nang tóc
+
+Alexa Patzelt và Jürgen Lademann
+
+## Nội dung
+
+- Giới thiệu
+- Hình thái học của tóc và nang tóc
+- Chu kỳ tóc
+- Tính không đồng nhất chủng tộc trong hình thái học của tóc và nang tóc
+- Sinh lý bệnh của nang tóc
+  - Rụng tóc có hồi phục
+    - Telogen effluvium và ngừng sớm pha anagen
+    - Các rối loạn liên quan androgen
+    - Rụng tóc do cơ chế tự miễn
+    - Rụng tóc do viêm
+  - Rụng tóc không hồi phục
+  - Nang tóc và các khối u da
+- Sự thấm vào nang tóc
+  - Phương pháp khảo sát sự thấm vào nang tóc
+  - Cơ chế thấm vào nang tóc
+  - Nanocarrier làm chất vận chuyển để đưa hoạt chất vào da
+- Tài liệu tham khảo
+
+---
+
+<a id="6.1.introduction"></a>
+
+## 6.1 Giới thiệu
+
+Mặc dù thoạt nhìn không dễ nhận thấy, tóc và nang tóc đảm nhiệm nhiều chức năng ở người. Trước hết, tóc là một cơ quan cảm giác. Hệ thần kinh tự chủ có thể khiến lông dựng lên; cơ dựng lông kiểm soát hiện tượng này và tạo ra tình trạng được gọi là “nổi da gà”, chủ yếu do lạnh, lo âu hoặc cảm xúc khởi phát (Benedek và Kaernbach, 2011). Động vật sử dụng hiệu ứng này để trông to lớn hơn và đe dọa kẻ thù; ở người, chức năng này dường như chỉ đóng vai trò thứ yếu và đôi khi gây khó chịu (Benedek và Kaernbach, 2011). Ngoài ra, tóc còn thực hiện một số chức năng bảo vệ. Chẳng hạn, lông mi và lông mày có thể ngăn mồ hôi và các dị vật chạm tới mắt. Tóc da đầu bảo vệ hiệu quả trước ánh nắng (Parisi và cs., 2009), thể hiện qua tỷ lệ ung thư da đầu cao ở nam giới bị hói. Ngày nay, tóc da đầu là một phương tiện rất quan trọng trong giao tiếp tâm lý–xã hội. Rụng tóc da đầu thường gây ra gánh nặng tâm lý nghiêm trọng (Katoulis và cs., 2015).
+
+Là một phần của đơn vị nang–tuyến bã, nang tóc là cơ quan quan trọng tham gia bài tiết bã nhờn (Matsui và cs., 2016). Bã nhờn được giải phóng từ tuyến bã, đi vào nang tóc rồi tới bề mặt da, tại đó được phân bố đồng đều và góp phần đáng kể vào hiệu quả của hàng rào da.
+
+Vì nang tóc tạo ra một chỗ gián đoạn trong hàng rào da, nang tóc cũng đóng vai trò quan trọng như một con đường thấm cho sự hấp thu qua da và như một kho dự trữ dài hạn đối với các chất dạng hạt bôi tại chỗ (Lademann và cs., 2006).
+
+Ngoài ra, một số rối loạn da có liên quan đến nang tóc; do đó, nang tóc có thể là đích của nhiều chiến lược điều trị.
+
+Tổng hợp các chức năng này cho thấy rõ tóc và nang tóc là những cấu trúc quan trọng của da. Chương này sẽ thảo luận các khía cạnh khác nhau của tóc và nang tóc.
+
+---
+
+<a id="6.2.the-morphology-of-hair-and-hair-follicles"></a>
+
+## 6.2 Hình thái học của tóc và nang tóc
+
+Nang tóc là phần phụ của da và hiện diện với mật độ cao ở hầu hết động vật có vú. Ở người có khoảng 5 triệu nang tóc (Krause và Foitzik, 2006), với mật độ và kích thước khác nhau tùy từng vùng da (Otberg và cs., 2004). Ngoài da đầu, vùng trán có mật độ nang tóc rất cao; tại đây, các nang tóc tương đối nhỏ. Vùng bắp chân có mật độ nang tóc thấp hơn, nhưng kích thước nang tóc lớn hơn đáng kể (Otberg và cs., 2004).
+
+Đơn vị nang–tuyến bã, là cấu trúc bậc trên gồm nang tóc, thân tóc, cơ dựng lông và tuyến bã, là một cấu trúc ba chiều rất phức tạp, trong đó hơn 20 quần thể tế bào khác nhau tương tác với nhau (Meidan và cs., 2005; Rogers, 2004). Nang tóc được minh họa sơ đồ ở Hình 6.1.
+
+![Sơ đồ nang tóc](translations/assets/images/figure-6.1-hair-follicle-schematic.png)
+
+*Hình 6.1. Sơ đồ nang tóc.*
+
+Thân tóc gồm nhiều lớp khác nhau. Lớp trong cùng là tủy tóc, được bao quanh bởi vỏ tóc - thành phần chịu trách nhiệm về độ đàn hồi của tóc. Lớp ngoài là lớp biểu bì tóc (cuticle), gồm các tế bào sừng hóa phẳng xếp chồng lên nhau, tạo cho tóc cấu trúc đặc trưng giống mái ngói (Buffoli và cs., 2014). Ở người chủ yếu có hai loại tóc: tóc terminal (tóc tận cùng) lớn và lông tơ nhỏ. Tóc terminal dài và dày (>50 µm), mọc từ nang tóc ăn sâu vào mô mỡ dưới da (>3000 µm). Lông tơ không có sắc tố, ngắn hơn 2 cm và mảnh hơn 30 µm. Các nang tương ứng chỉ kéo dài vào trung bì (<1000 µm) (Meidan và cs., 2005; Vogt và cs., 2007).
+
+Nang tóc gồm một phần thường trực và một phần nhất thời. Phần nhất thời tham gia vào chu kỳ tóc, trong khi phần thường trực ít nhiều không bị ảnh hưởng.
+
+Phần thường trực của nang tóc gồm phễu nang, eo nang và vùng phình. Phễu nang được định nghĩa là phần nang tóc nằm giữa bề mặt da và tuyến bã; ít nhất ở phần trên, phễu nang có biểu bì sừng hóa nguyên vẹn. Ở phễu nang phía dưới, kiểu biệt hóa chuyển từ kiểu biểu bì sang kiểu trichilemmal, với chức năng hàng rào giảm ở vùng bao rễ ngoài (Blume-Peytavi và Vogt, 2011). Ở phần dưới của nang tóc, chức năng hàng rào chủ yếu do các mối nối chặt đảm nhiệm. Không phát hiện được hàng rào ở vùng hành tóc (Mathes và cs., 2016). Eo nang là vùng nằm giữa tuyến bã và vùng phình. Vùng phình là nơi cư trú của tế bào gốc (Vogt và Blume-Peytavi, 2003) và các tiền thân dưỡng bào của da (Kumamoto và cs., 2003).
+
+Phần nhất thời của nang tóc là vùng nằm giữa vùng phình và hành tóc. Hành tóc nằm quanh nhú tóc, chứa các tế bào ma trận tóc và tế bào sinh mầm. Nhú tóc chịu trách nhiệm nuôi dưỡng nang tóc vì đây là phần duy nhất của nang được cung cấp mạch máu (Krause và Foitzik, 2004). Hành tóc ở pha anagen biểu hiện giảm các phân tử MHC-I và có số lượng tế bào T, tế bào Langerhans thấp hơn (Christoph và cs., 2000); vì vậy, đây được xác định là vùng có đặc quyền miễn dịch tương đối và phụ thuộc chu kỳ (Paus và cs., 2005). Ngược lại, có lẽ vì nang tóc tạo ra chỗ gián đoạn trong hàng rào da, một số lượng lớn tế bào trình diện kháng nguyên tập trung ở vùng quanh phễu nang.
+
+---
+
+<a id="6.3.the-hair-cycle"></a>
+
+## 6.3 Chu kỳ tóc
+
+Nhiều con đường truyền tín hiệu, yếu tố tăng trưởng và cytokine tham gia điều hòa chu kỳ mọc tóc, gồm ba giai đoạn khác nhau (Vogt và Blume-Peytavi, 2003). Trong pha anagen, các keratinocyte của ma trận tăng sinh ở vùng hành tóc rồi di chuyển để tạo thành thân tóc (Cotsarelis, 2006). Sang pha catagen tiếp theo, phần dưới của nang tóc thoái triển; nang tóc bước vào pha telogen, khi tóc bị rụng (Meidan và cs., 2005). Sau đó, một pha anagen khác bắt đầu với sự phân chia của các tế bào ma trận tóc và sự tái phát triển phần dưới của nang tóc.
+
+Thời lượng của từng giai đoạn mang tính đặc hiệu theo pha và khác nhau đáng kể giữa các cá thể. Pha anagen kéo dài 2–6 năm, trong khi pha catagen rất ngắn, chỉ khoảng 2 tuần. Pha telogen kéo dài 2–4 tháng. Tùy thời lượng pha anagen ở mỗi người, độ dài tối đa của tóc có thể rất khác nhau.
+
+---
+
+<a id="6.4.ethnic-heterogeneity-in-hair-and-hair-follicle-morphology"></a>
+
+## 6.4 Tính không đồng nhất sắc tộc trong hình thái học của tóc và nang tóc
+
+Rõ ràng hình thái học của tóc khác nhau giữa các nhóm sắc tộc. Ở người châu Á, sợi tóc tương đối rộng và tròn, còn tóc của người da trắng có dạng elip hơn. Sợi tóc của người Mỹ gốc Phi còn elip hơn nữa, với mặt cắt ngang gần như phẳng trong cấu trúc xoăn và rất dễ gãy, rối (McMichael, 2003).
+
+Mật độ tóc da đầu cũng khác nhau, cao nhất ở người da trắng và thấp nhất ở người châu Á. Người ta cũng phát hiện những khác biệt sắc tộc về mật độ và hình thái nang tóc ở các vùng cơ thể khác. So với người da trắng, mật độ nang tóc ở vùng trán thấp hơn đáng kể ở người châu Á và người Mỹ gốc Phi. Ở các nhóm sắc tộc này, thể tích nang, diện tích nang, kích thước lỗ nang và đường kính thân tóc tại vùng đùi và bắp chân cũng nhỏ hơn. Nhìn chung, kho dự trữ nang tóc được chứng minh là lớn hơn ở người da trắng (Mangelsdorf và cs., 2006).
+
+---
+
+<a id="6.5.hair-follicle-pathophysiology"></a>
+
+## 6.5 Sinh lý bệnh của nang tóc
+
+Trong số nhiều bệnh da, có một số bệnh liên quan đến nang tóc và đi kèm rụng tóc. Rụng tóc có thể hồi phục hoặc đi kèm sự phá hủy không hồi phục các quần thể tế bào có khả năng tái tạo, gây ảnh hưởng đáng kể đến chất lượng cuộc sống của người bệnh.
+
+---
+
+<a id="6.5.1.reversible-hair-loss"></a>
+
+### 6.5.1 Rụng tóc có hồi phục
+
+Rụng tóc có hồi phục có thể gặp trong một số bệnh về tóc, chẳng hạn telogen effluvium, ngừng sớm pha anagen, rụng tóc do androgen và rụng tóc từng vùng.
+
+---
+
+<a id="6.5.1.1.telogen-effluvium-and-premature-anagen-arrest"></a>
+
+#### 6.5.1.1 Telogen effluvium và ngừng sớm pha anagen
+
+Triệu chứng rụng tóc có hồi phục tương đối phổ biến trong cộng đồng và có thể do nhiều yếu tố làm gián đoạn chu kỳ tóc gây ra. Sự gián đoạn này khiến số lượng nang tóc bước vào pha telogen sớm tăng lên, kéo theo tình trạng rụng tóc nhiều hơn (Sperling, 2001). Tình trạng này được gọi là telogen effluvium và cũng có thể do các bệnh toàn thân như bệnh nội tiết (Freinkel và Freinkel, 1972) hoặc một số thuốc (Gollnick và cs., 1990) gây ra.
+
+Ngược lại, khi hoạt động chuyển hóa và hoạt động phân bào bị ức chế hoàn toàn do một số thuốc hóa trị hoặc bệnh da viêm, tình trạng này được gọi là ngừng sớm pha anagen (Sperling, 2001). Nếu các điều kiện bên ngoài trở lại bình thường, rụng tóc sẽ hồi phục.
+
+---
+
+<a id="6.5.1.2.androgen-associated-disorders"></a>
+
+#### 6.5.1.2 Các rối loạn liên quan androgen
+
+Những thay đổi về nồng độ androgen hoặc thụ thể androgen có thể ảnh hưởng đến sự mọc tóc và các bệnh khác liên quan đến nang tóc, chẳng hạn mụn trứng cá. Androgen thường làm nang tóc to lên ở những vùng phụ thuộc androgen như râu, nách và vùng mu (Sperling, 2001). Tuy nhiên, ở da đầu, androgen có thể thúc đẩy sự thu nhỏ nang tóc và rút ngắn pha anagen, dẫn đến rụng tóc do androgen (Piraccini và Alessandrini, 2014).
+
+---
+
+<a id="6.5.1.3.autoimmunological-induced-hair-loss"></a>
+
+#### 6.5.1.3 Rụng tóc do cơ chế tự miễn
+
+Rụng tóc từng vùng là một dạng rụng tóc tự miễn, xuất hiện ở những vùng da đầu phân định rõ hoặc, hiếm hơn, ở các vùng khác của cơ thể (Wasserman và cs., 2007). Cũng có thể xảy ra tình trạng mất hoàn toàn tóc da đầu và lông cơ thể (rụng tóc từng vùng toàn thể).
+
+Cơ chế bệnh sinh hiện chưa được làm rõ chi tiết; tuy nhiên, tỷ lệ mắc bệnh tự miễn đồng thời tăng, nồng độ tự kháng thể tăng, sự hiện diện của các thâm nhiễm lymphocyte quanh nang tóc, tỷ lệ CD4/CD8 tăng và nhiều bất thường cytokine cho thấy rụng tóc từng vùng là một rối loạn tự miễn đặc hiệu cơ quan (Wasserman và cs., 2007).
+
+---
+
+<a id="6.5.1.4.inflammatory-hair-loss"></a>
+
+#### 6.5.1.4 Rụng tóc do viêm
+
+Bệnh viêm cũng có thể ảnh hưởng đến nang tóc, chẳng hạn do nhiễm khuẩn, nấm hoặc virus (Edlich và cs., 2005; Gupta và Summerbell, 2000; Weinberg và cs., 1997). Nang tóc được biết là một kho dự trữ rất hiệu quả của nhiều loại tác nhân gây bệnh. Một nghiên cứu trước đây cho thấy khoảng 25% tác nhân gây bệnh cư trú trên da nằm trong nang tóc; vì vậy, chúng không bị ảnh hưởng bởi các chất sát khuẩn da thông thường, do các chất này không thể thấm đủ sâu vào nang tóc (Lange-Asschenfeldt và cs., 2011).
+
+Điều này dẫn đến sự tái khu trú nhanh trên bề mặt da sau khi sát khuẩn, có thể là nguyên nhân của nhiều nhiễm trùng tại vị trí phẫu thuật. Các đại diện chính của hệ vi sinh vật cư trú trên da là tụ cầu, vi khuẩn Propionibacterium và *Malassezia furfur* (Leeming và cs., 1984).
+
+---
+
+<a id="6.5.2.irreversible-hair-loss"></a>
+
+### 6.5.2 Rụng tóc không hồi phục
+
+Nhiều tác động vật lý, hóa học, viêm và chấn thương có thể phá hủy nang tóc, dẫn đến rụng tóc có sẹo. Ở những nang tóc này, tóc không thể mọc trở lại. Người ta cho rằng sự rối loạn dai dẳng trong liên lạc giữa vùng phình và nhú tóc gây ra rụng tóc không hồi phục (Hermes và Paus, 1998).
+
+Tình trạng này có thể do nhiều bệnh viêm, chẳng hạn lupus ban đỏ mạn tính hoặc dạng đĩa (Tebbe, 2004), lichen phẳng nang tóc (d’Ovidio và cs., 2007), viêm da cơ, bệnh mảnh ghép chống vật chủ, lichen xơ teo, sarcoidosis và xơ cứng bì (Oremovic và cs., 2006). Các bệnh nhiễm trùng như lupus vulgaris, giang mai và bệnh Hansen cũng có thể dẫn đến rụng tóc có sẹo (Jaworsky và Gilliam, 1999).
+
+---
+
+<a id="6.5.3.hair-follicles-and-skin-tumours"></a>
+
+### 6.5.3 Nang tóc và các khối u da
+
+Một số khối u da lành tính, bán ác tính hoặc ác tính bắt nguồn từ nang tóc. Chẳng hạn, ung thư biểu mô tế bào đáy có các đột biến ở gene *patched*. Gene này là một gene ức chế khối u, liên quan đến con đường truyền tín hiệu Sonic Hedgehog–patched, vốn hoạt động trong quá trình hình thành nang tóc (Misago và cs., 2003). Vì vậy, ung thư biểu mô tế bào đáy được xem là một tân sinh ác tính của các tế bào sinh mầm nang tóc bất thường (Misago và cs., 2003). Những khối u da khác có nguồn gốc nang tóc gồm dày sừng tiết bã, u trichoepithelioma, u nguyên bào tóc, u nền tóc và ung thư biểu mô trichilemmal (Headington, 1976).
+
+---
+
+<a id="6.6.hair-follicle-penetration"></a>
+
+## 6.6 Sự thấm vào nang tóc
+
+Chỉ trong hai thập kỷ gần đây, nang tóc mới được chấp nhận là một con đường thấm đáng kể đối với các chất bôi tại chỗ. Trước đó, con đường thấm gian bào dọc theo các lớp lipid quanh tế bào sừng của lớp sừng được xem là khả năng duy nhất có ý nghĩa để vượt qua hàng rào da mạnh này. Tất cả các con đường thấm được trình bày dưới dạng sơ đồ ở Hình 6.2. Nang tóc bị xem là không đáng kể vì được cho là chỉ chiếm một diện tích nhỏ trên bề mặt da. Hơn nữa, việc khảo sát sự thấm vào nang tóc gặp khó khăn do thiếu phương pháp và mô hình có độ phân giải không gian cần thiết.
+
+![Sơ đồ các con đường thấm khác nhau](translations/assets/images/figure-6.2-hair-follicle-penetration-pathways.png)
+
+*Hình 6.2. Sơ đồ các con đường thấm khác nhau. (1) Con đường thấm gian bào dọc theo các lớp lipid quanh tế bào sừng. (2) Các con đường thấm vào nang tóc, được chia thành (A) con đường nang tóc và (B) con đường xuyên nang tóc. (3) Con đường thấm xuyên bào, dường như có tầm quan trọng nhỏ đối với hầu hết các chất bôi tại chỗ.*
+
+Các nghiên cứu của Otberg và cs. (2004) cho thấy không thể bỏ qua đóng góp của nang tóc, đặc biệt ở một số vị trí trên cơ thể. Họ tính toán rằng ở một số vùng cơ thể, kho dự trữ của lớp sừng và kho dự trữ của nang tóc thậm chí còn tương quan với nhau, chẳng hạn vùng trán và bắp chân, nơi lần lượt có nhiều nang tóc nhỏ hoặc ít nang tóc nhưng lớn.
+
+Về nguyên tắc, quá trình thấm vào nang tóc phải được phân biệt thành hai giai đoạn. Ở giai đoạn một, chất chỉ thấm vào nang tóc, tại đó chất được lưu trữ hoặc, sang giai đoạn hai, có thể thấm theo con đường xuyên nang tóc vào biểu bì hoặc trung bì bao quanh nang tóc. Việc xảy ra thấm vào nang tóc hay thấm xuyên nang tóc rõ ràng phụ thuộc vào các tính chất lý hóa của chất được bôi (Patzelt và Lademann, 2013).
+
+---
+
+<a id="6.6.1.methods-to-investigate-follicular-penetration"></a>
+
+### 6.6.1 Phương pháp khảo sát sự thấm vào nang tóc
+
+Đã có nhiều phương pháp được thiết lập để khảo sát con đường thấm gian bào, chẳng hạn bóc tách bằng băng dính, tế bào khuếch tán, vi thẩm tách trung bì và kính hiển vi Raman (Holmgaard và cs., 2014). Tuy nhiên, khảo sát con đường thấm vào nang tóc phức tạp hơn vì đòi hỏi độ phân giải không gian và một hệ mô hình định lượng không có nang tóc nhưng có cùng các tính chất cấu trúc, sinh hóa và hàng rào như da bình thường (Meidan và cs., 2005). Ngoài ra, hệ này phải phân biệt được cả hai giai đoạn thấm vào nang tóc. Trong những năm gần đây, một số phương pháp khảo sát sự thấm vào nang tóc đã được giới thiệu và nhìn chung đáp ứng các tiêu chí này.
+
+Bóc tách vi sai là một phương pháp có giá trị để khảo sát sự thấm vào nang tóc, nhưng không xem xét quá trình thấm xuyên nang tóc (Teichmann và cs., 2005). Bóc tách vi sai là phương pháp kết hợp giữa bóc tách bằng băng dính và sinh thiết bề mặt da bằng cyanoacrylate. Sau khi bôi tại chỗ và để chất thấm vào, lớp sừng được loại bỏ bằng bóc tách băng dính. Khi đó, chất chỉ còn nằm trong nang tóc và phần chứa trong nang có thể được lấy ra bằng sinh thiết bề mặt da bằng cyanoacrylate. Phương pháp này cho phép định lượng lượng chất đã thấm vào lớp sừng và nang tóc. Có thể áp dụng phương pháp này cho mô hình da *in vivo* và *ex vivo*.
+
+Tuy nhiên, cần lưu ý rằng kho dự trữ nang tóc giảm đáng kể, tới 90%, trong da người đã cắt bỏ do da co lại sau khi lấy mẫu (Patzelt và cs., 2008). Ở da tai lợn, các nang tóc bám chặt hơn trong da và không thể được lấy ra hoàn toàn bằng sinh thiết bề mặt da cyanoacrylate; điều này cũng phải được tính đến khi định lượng.
+
+Bóc tách vi sai cho thấy nang tóc là kho dự trữ dài hạn của các chất bôi tại chỗ. Một nghiên cứu trước đây chứng minh nanocarrier được lưu trữ trong nang tóc trong 10 ngày, trong khi phần nanocarrier nằm trên bề mặt da đã bị loại bỏ hoàn toàn khỏi lớp sừng sau 1 ngày (Lademann và cs., 2006).
+
+Kỹ thuật bít nang tóc chọn lọc cũng trở thành một công cụ có giá trị để khảo sát quá trình thấm xuyên nang tóc (Teichmann và cs., 2006). Việc bít chọn lọc từng lỗ nang trong một vùng thử nghiệm cho phép xác định mức đóng góp của nang tóc vào tổng quá trình thấm của các chất bôi tại chỗ. Có thể thực hiện các phương pháp này *in vivo* (Otberg và cs., 2008) và *ex vivo* kết hợp với thí nghiệm tế bào khuếch tán (Trauer và cs., 2010) và vi thẩm tách trung bì. Nghiên cứu *in vivo* cho thấy caffeine bôi tại chỗ trở nên khả dụng sinh học sau 5 phút khi nang tóc mở, nhưng chỉ sau 20 phút khi nang tóc bị bít (Otberg và cs., 2008).
+
+Ngoài ra, có thể dùng kính hiển vi quét laser đồng tiêu để xác định độ sâu thấm vào nang tóc của các chất bôi tại chỗ trong phạm vi micromet, với điều kiện các chất này được đánh dấu bằng chất phát huỳnh quang (Patzelt và cs., 2011).
+
+---
+
+<a id="6.6.2.the-mechanism-of-follicular-penetration"></a>
+
+### 6.6.2 Cơ chế thấm vào nang tóc
+
+Hiệu quả thấm vào nang tóc và thấm xuyên nang tóc phụ thuộc mạnh vào các tính chất lý hóa của chất thấm.
+
+Trong khi các phân tử nhỏ như caffeine có xu hướng mạnh thấm xuyên nang tóc vào mô sống (Otberg và cs., 2008), các chất dạng hạt chủ yếu tích tụ trong nang tóc (Lademann và cs., 2007). Chỉ gần đây, cơ chế của quá trình thấm vào nang tóc mới được làm sáng tỏ một phần. Dữ liệu *ex vivo* và *in silico* đều cho thấy nanocarrier được vận chuyển nhờ chuyển động của tóc bên trong nang tóc, tương tự cơ chế bánh cóc (Radtke và cs., 2017). Độ sâu thấm vào nang tóc được chứng minh là hiệu quả nhất khi kích thước nanocarrier khoảng 600 nm (Patzelt và cs., 2011). Nanocarrier nhỏ hơn hoặc lớn hơn thấm kém hiệu quả đáng kể.
+
+Chuyển động hướng tâm của tóc dường như hiệu quả hơn chuyển động dọc trục, mặc dù khi bôi bằng cách massage, sự kết hợp của cả hai hướng chuyển động là thực tế hơn (Radtke và cs., 2017). Nếu tóc không chuyển động, độ sâu thấm vào nang tóc không đáng kể (Lademann và cs., 2007). Ngoài ra, dữ liệu mới nhất cho thấy tần số chuyển động của tóc cũng có ý nghĩa; các tần số chậm hơn dường như cho hiệu quả cao hơn.
+
+Hiểu biết về cơ chế thấm vào nang tóc rất quan trọng để tối ưu hóa nanocarrier hoặc các chất khác cho con đường vận chuyển đặc thù này.
+
+---
+
+<a id="6.6.3.nanocarriers-as-transporters-for-skin-delivery"></a>
+
+### 6.6.3 Nanocarrier làm chất vận chuyển để đưa hoạt chất vào da
+
+Nanocarrier là một nhóm không đồng nhất gồm các chất dạng hạt, được kỳ vọng sẽ cải thiện đáng kể việc đưa thuốc vào cơ thể trong nhiều lĩnh vực y học, dược lý và mỹ phẩm. Mặc dù đã thành công trong một số lĩnh vực như hướng đích khối u, việc đưa thuốc qua da bằng nanocarrier vẫn là một thách thức vì nanocarrier không thể tự mình vượt qua hàng rào da rất mạnh do kích thước của chúng. Thay vào đó, nanocarrier bị giữ lại trong nang tóc và thoạt nhìn không thể góp phần cải thiện khả dụng sinh học của các chất bôi tại chỗ (Patzelt và Lademann, 2013).
+
+Tuy nhiên, các ưu điểm của nanocarrier rất thuyết phục. Chúng có thể vận chuyển nồng độ thuốc cao hơn đáng kể, cải thiện độ tan của các chất kỵ nước và độ ổn định vật lý, hóa học của thuốc. Ngoài ra, chúng có thể giải phóng thuốc theo cách có kiểm soát (Goyal và cs., 2016). Để tận dụng các đặc tính tích cực của nanocarrier nhằm cải thiện việc đưa thuốc, cần phát triển các chiến lược mới để sử dụng nanocarrier hiệu quả.
+
+Một chiến lược rất hứa hẹn là sử dụng nanocarrier chuyên biệt làm chất vận chuyển thuốc vào nang tóc. Khi đã nằm trong nang tóc, nanocarrier được thiết kế để giải phóng thuốc khi có tín hiệu kích hoạt ngoại sinh hoặc nội sinh. Thuốc được giải phóng sau đó có thể phát huy tác dụng trong nang tóc, chẳng hạn trong điều trị mụn, hoặc tự thấm xuyên nang tóc. Khi đó, khả dụng sinh học của thuốc bôi tại chỗ có thể tăng đáng kể (Patzelt và cs., 2017). Hình 6.3 trình bày sơ đồ phương pháp đưa thuốc giải phóng theo kích hoạt có hỗ trợ nanocarrier này. Hiện đang nghiên cứu nhiều cách để thực hiện giải phóng thuốc có kích hoạt từ nanocarrier trong nang tóc.
+
+![Sơ đồ giải phóng có kích hoạt nhờ nanocarrier](translations/assets/images/figure-6.3-triggered-release-nanocarrier-hair-follicle.png)
+
+*Hình 6.3. Sơ đồ phương pháp giải phóng có kích hoạt để đưa thuốc bôi tại chỗ. (a) Nanocarrier được dùng để vận chuyển thuốc vào nang tóc. (b) Khi có tín hiệu kích hoạt nội sinh hoặc ngoại sinh, thuốc được giải phóng khỏi nanocarrier trong nang tóc, có thể tự di chuyển vào mô bao quanh nang tóc và trở nên khả dụng sinh học.*
+
+Về nguyên tắc, cần phân biệt hai loại tín hiệu kích hoạt. Một mặt, có thể sử dụng các tín hiệu kích hoạt ngoại sinh như enzyme (Mak và cs., 2011), nguồn sáng bên ngoài (Lademann và cs., 2016) hoặc siêu âm (Mak và cs., 2011). Ý tưởng là nanocarrier đưa thuốc vào nang tóc, còn thuốc chỉ được giải phóng sau khi chiếu xạ hoặc bổ sung enzyme. Ưu điểm là người sử dụng có thể xác định chính xác thời điểm thuốc phát huy tác dụng. Nhược điểm là luôn cần một thành phần thứ hai để thực hiện giải phóng, điều này có thể gây trở ngại khi áp dụng cho một số chỉ định lâm sàng.
+
+Mặt khác, có thể sử dụng các tín hiệu kích hoạt nội sinh; ưu điểm rõ ràng là không cần thành phần thứ hai. Tín hiệu kích hoạt nội sinh có thể là thay đổi pH. Cách tiếp cận này rất hứa hẹn vì về mặt sinh lý, trong nang tóc tồn tại một gradient pH (Dimde và cs., 2017), có thể được dùng để giữ nanocarrier ổn định trên bề mặt da và kích hoạt giải phóng ở pH cao hơn tại phần xa của nang tóc. Thay đổi nhiệt độ cũng có thể là tín hiệu kích hoạt. Các nghiên cứu trước đây với nanogel nhạy nhiệt cho thấy nhiệt độ cao hơn làm tăng sự thấm vào nang tóc của một chất màu mô hình được giải phóng (Jung và cs., 2018). Trong thực hành lâm sàng, điều này có thể khó áp dụng vì dao động nhiệt độ trong quá trình bảo quản và vận chuyển thuốc có thể dẫn đến giải phóng thuốc sớm.
+
+Một cách tiếp cận mới là sử dụng nanocarrier nhạy oxy hóa–khử, có khả năng giải phóng thuốc tại các vùng da có nồng độ gốc tự do cao hơn, chẳng hạn trong bệnh da viêm. Cách này cho phép điều trị chọn lọc chỉ các vùng da viêm, trong khi vùng da khỏe mạnh không bị ảnh hưởng bởi thuốc và tác dụng phụ.
+
+Tóm lại, những chiến lược mới này rất hứa hẹn, nhưng cần tiếp tục nghiên cứu trước khi các hệ nanocarrier thông minh này được thương mại hóa cho sản phẩm mỹ phẩm, chăm sóc cá nhân hoặc dược phẩm.
