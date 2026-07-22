@@ -107,7 +107,51 @@
 | Nail polish remover | Nước tẩy sơn móng |
 | Nail permeability | Tính thấm của móng |
 | Nail grooming | Chăm sóc móng |
+| Periungual groove | Rãnh quanh móng |
+| Germinative tissue | Mô sinh mầm |
+| Pre-keratogenous zone | Vùng tiền sinh keratin |
+| Lunula | Liềm móng |
+| Nail lamina | Phiến móng |
+| Onycholysis | Tách móng |
+| Onychodermal band | Dải onychodermal |
+| Nail isthmus | Eo móng |
+| Eponychium | Eponychium; nếp móng phía gần |
+| Hyponychium | Hyponychium; vùng dưới móng |
+| Parakeratotic | Cận sừng hóa |
+| Pilosebaceous unit | Đơn vị nang–tuyến bã |
+| Trichocyte keratin | Keratin của tế bào sợi tóc |
+| Tensile strength | Độ bền kéo |
+| Plasticizer | Chất hóa dẻo |
+| Relative humidity | Độ ẩm tương đối |
 | Biophysical characterisation | Đặc trưng lý sinh |
+| Near-infrared Fourier transform Raman spectroscopy (NIR-FT Raman) | Quang phổ Raman biến đổi Fourier cận hồng ngoại (NIR-FT Raman) |
+| Peptide bond | Liên kết peptide |
+| Near-infrared diffuse reflectance spectroscopy (NIR-DR) | Quang phổ phản xạ khuếch tán cận hồng ngoại (NIR-DR) |
+| Dynamic vapour sorption (DVS) | Hấp phụ hơi động (DVS) |
+| Gravimetric method | Phương pháp trọng lượng |
+| Attenuated total reflectance Fourier transform infrared spectroscopy (ATR FTIR) | Quang phổ hồng ngoại biến đổi Fourier phản xạ toàn phần suy giảm (ATR FTIR) |
+| Secondary protein structure | Cấu trúc bậc hai của protein |
+| Confocal Raman spectroscopy (CRS) | Quang phổ Raman đồng tiêu (CRS) |
+| Atomic absorption spectrometry (AAS) | Phổ hấp thụ nguyên tử (AAS) |
+| Inductively coupled plasma mass spectrometry (ICP-MS) | Khối phổ plasma cảm ứng cao tần (ICP-MS) |
+| Opto-thermal transient emission radiometry (OTTER) | Đo bức xạ phát xạ quá độ quang nhiệt (OTTER) |
+| Optical coherence tomography (OCT) | Chụp cắt lớp kết hợp quang học (OCT) |
+| Confocal laser scanning microscopy (CLSM) | Hiển vi quét laser đồng tiêu (CLSM) |
+| Transonychial water loss (TOWL) | Mất nước xuyên móng (TOWL) |
+| Ungual delivery | Đưa thuốc qua móng |
+| Nail lacquer | Sơn móng điều trị; sơn móng tùy ngữ cảnh |
+| Onychomycosis | Nấm móng |
+| Pulse therapy | Liệu pháp theo đợt |
+| Transfersome | Transfersome |
+| Brittle nail syndrome | Hội chứng móng giòn |
+| Preformulation | Tiền công thức |
+| Permeation enhancer | Chất tăng cường thấm |
+| Keratolytic | Chất tiêu sừng |
+| Barrier disruption | Phá vỡ hàng rào |
+| Side-by-side diffusion cell | Tế bào khuếch tán hai ngăn đối diện |
+| Disulfide-reducing agent | Chất khử disulfide |
+| Franz cell | Tế bào Franz |
+| Vehicle | Chất dẫn |
 | Light-cured gel | Gel đóng rắn bằng ánh sáng |
 | Keratinocyte | Tế bào sừng; có thể giữ keratinocyte khi cần phân biệt với corneocyte |
 | Lipophilic | Ưa lipid |
@@ -238,6 +282,13 @@
 | Photoprotection | Bảo vệ quang |
 | Cosmeceutical | Dược mỹ phẩm |
 | Contact dermatitis | Viêm da tiếp xúc |
+| Morphology | Hình thái học |
+| Pathology | Bệnh lý học; bệnh lý tùy ngữ cảnh |
+| Bioanalytical approach | Phương pháp phân tích sinh học |
+| Topical therapeutic modality | Phương thức điều trị tại chỗ |
+| Mechanical strength | Độ bền cơ học |
+| Barrier properties | Tính chất hàng rào |
+| Nail cosmetics | Mỹ phẩm dành cho móng |
 | Pathogenesis | Cơ chế bệnh sinh |
 | Hyperpigmentation | Tăng sắc tố |
 | Photoprotection | Bảo vệ quang học |

@@ -71,24 +71,24 @@
 | 4.6 | 2 |[Conclusion](4.6.conclusion.md)| 87 |
 | 4.7 | 2 | References | 88 |
 | 5 | 1 | [The Human Nail: Structure, Properties, Therapy and Grooming](5.the-human-nail-structure-properties-therapy-and-grooming.md) | 94 |
-| 5.1 | 2 | Introduction | 94 |
-| 5.2 | 2 | Nail Structure and Physiology | 95 |
-| 5.3 | 2 | Biophysical Characterisation of the Nail Plate | 96 |
-| 5.3.1 | 3 | Near-Infrared Raman Spectroscopy | 96 |
-| 5.3.2 | 3 | Near Infrared Diffuse Reflectance (NIR-DR) Spectroscopy | 97 |
-| 5.3.3 | 3 | Dynamic Vapour Sorption and Near-Infrared (DVS-NIR) Spectroscopy | 98 |
-| 5.3.4 | 3 | Attenuated Total Reflectance Fourier Transform Infrared (ATR FTIR) Spectroscopy | 98 |
-| 5.3.5 | 3 | Confocal Raman Spectroscopy (CRS) | 99 |
-| 5.3.6 | 3 | Atomic Absorption Spectrometry (AAS) | 100 |
-| 5.3.7 | 3 | Inductively Coupled Plasma Mass Spectrometry (ICP-MS) | 100 |
-| 5.3.8 | 3 | Opto-Thermal Transient Emission Radiometry (OTTER) | 100 |
-| 5.3.9 | 3 | Optical Coherence Tomography (OCT) | 100 |
-| 5.3.10 | 3 | Confocal Laser Scanning Microscopy (CLSM) | 102 |
-| 5.3.11 | 3 | Transonychial Water Loss (TOWL) | 102 |
-| 5.4 | 2 | Exploiting the Permeability Characteristics of the Nail Plate | 102 |
-| 5.4.1 | 3 | Current Approaches and Clinical Evidence | 102 |
-| 5.4.2 | 3 | Experimental Approaches | 104 |
-| 5.4.3 | 3 | Chemical Enhancement: Barrier Disruption | 104 |
+| 5.1 | 2 | [Introduction](5.1.introduction.md) | 94 |
+| 5.2 | 2 | [Nail Structure and Physiology](5.2.nail-structure-and-physiology.md) | 95 |
+| 5.3 | 2 | [Biophysical Characterisation of the Nail Plate](5.3.biophysical-characterisation-of-the-nail-plate.md) | 96 |
+| 5.3.1 | 3 | [Near-Infrared Raman Spectroscopy](5.3.1.near-infrared-raman-spectroscopy.md) | 96 |
+| 5.3.2 | 3 | [Near Infrared Diffuse Reflectance (NIR-DR) Spectroscopy](5.3.2.near-infrared-diffuse-reflectance-nir-dr-spectroscopy.md) | 97 |
+| 5.3.3 | 3 | [Dynamic Vapour Sorption and Near-Infrared (DVS-NIR) Spectroscopy](5.3.3.dynamic-vapour-sorption-and-near-infrared-dvs-nir-spectroscopy.md) | 98 |
+| 5.3.4 | 3 | [Attenuated Total Reflectance Fourier Transform Infrared (ATR FTIR) Spectroscopy](5.3.4.attenuated-total-reflectance-fourier-transform-infrared-atr-ftir-spectroscopy.md) | 98 |
+| 5.3.5 | 3 | [Confocal Raman Spectroscopy (CRS)](5.3.5.confocal-raman-spectroscopy-crs.md) | 99 |
+| 5.3.6 | 3 | [Atomic Absorption Spectrometry (AAS)](5.3.6.atomic-absorption-spectrometry-aas.md) | 100 |
+| 5.3.7 | 3 | [Inductively Coupled Plasma Mass Spectrometry (ICP-MS)](5.3.7.inductively-coupled-plasma-mass-spectrometry-icp-ms.md) | 100 |
+| 5.3.8 | 3 | [Opto-Thermal Transient Emission Radiometry (OTTER)](5.3.8.opto-thermal-transient-emission-radiometry-otter.md) | 100 |
+| 5.3.9 | 3 | [Optical Coherence Tomography (OCT)](5.3.9.optical-coherence-tomography-oct.md) | 100 |
+| 5.3.10 | 3 | [Confocal Laser Scanning Microscopy (CLSM)](5.3.10.confocal-laser-scanning-microscopy-clsm.md) | 102 |
+| 5.3.11 | 3 | [Transonychial Water Loss (TOWL)](5.3.11.transonychial-water-loss-towl.md) | 102 |
+| 5.4 | 2 | [Exploiting the Permeability Characteristics of the Nail Plate](5.4.exploiting-the-permeability-characteristics-of-the-nail-plate.md) | 102 |
+| 5.4.1 | 3 | [Current Approaches and Clinical Evidence](5.4.1.current-approaches-and-clinical-evidence.md) | 102 |
+| 5.4.2 | 3 | [Experimental Approaches](5.4.2.experimental-approaches.md) | 104 |
+| 5.4.3 | 3 | [Chemical Enhancement: Barrier Disruption](5.4.3.chemical-enhancement-barrier-disruption.md) | 104 |
 | 5.4.4 | 3 | Chemical Enhancement: Vehicle Effects | 105 |
 | 5.5 | 2 | Cosmetic Nail Formulations | 106 |
 | 5.5.1 | 3 | Nail Polish | 106 |

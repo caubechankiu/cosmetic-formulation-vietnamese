@@ -78,24 +78,24 @@
 | 4.6 | 2 |[Conclusion](#4.6.conclusion)| 87 |
 | 4.7 | 2 | References | 88 |
 | 5 | 1 | [The Human Nail: Structure, Properties, Therapy and Grooming](#5.the-human-nail-structure-properties-therapy-and-grooming) | 94 |
-| 5.1 | 2 | Introduction | 94 |
-| 5.2 | 2 | Nail Structure and Physiology | 95 |
-| 5.3 | 2 | Biophysical Characterisation of the Nail Plate | 96 |
-| 5.3.1 | 3 | Near-Infrared Raman Spectroscopy | 96 |
-| 5.3.2 | 3 | Near Infrared Diffuse Reflectance (NIR-DR) Spectroscopy | 97 |
-| 5.3.3 | 3 | Dynamic Vapour Sorption and Near-Infrared (DVS-NIR) Spectroscopy | 98 |
-| 5.3.4 | 3 | Attenuated Total Reflectance Fourier Transform Infrared (ATR FTIR) Spectroscopy | 98 |
-| 5.3.5 | 3 | Confocal Raman Spectroscopy (CRS) | 99 |
-| 5.3.6 | 3 | Atomic Absorption Spectrometry (AAS) | 100 |
-| 5.3.7 | 3 | Inductively Coupled Plasma Mass Spectrometry (ICP-MS) | 100 |
-| 5.3.8 | 3 | Opto-Thermal Transient Emission Radiometry (OTTER) | 100 |
-| 5.3.9 | 3 | Optical Coherence Tomography (OCT) | 100 |
-| 5.3.10 | 3 | Confocal Laser Scanning Microscopy (CLSM) | 102 |
-| 5.3.11 | 3 | Transonychial Water Loss (TOWL) | 102 |
-| 5.4 | 2 | Exploiting the Permeability Characteristics of the Nail Plate | 102 |
-| 5.4.1 | 3 | Current Approaches and Clinical Evidence | 102 |
-| 5.4.2 | 3 | Experimental Approaches | 104 |
-| 5.4.3 | 3 | Chemical Enhancement: Barrier Disruption | 104 |
+| 5.1 | 2 | [Introduction](#5.1.introduction) | 94 |
+| 5.2 | 2 | [Nail Structure and Physiology](#5.2.nail-structure-and-physiology) | 95 |
+| 5.3 | 2 | [Biophysical Characterisation of the Nail Plate](#5.3.biophysical-characterisation-of-the-nail-plate) | 96 |
+| 5.3.1 | 3 | [Near-Infrared Raman Spectroscopy](#5.3.1.near-infrared-raman-spectroscopy) | 96 |
+| 5.3.2 | 3 | [Near Infrared Diffuse Reflectance (NIR-DR) Spectroscopy](#5.3.2.near-infrared-diffuse-reflectance-nir-dr-spectroscopy) | 97 |
+| 5.3.3 | 3 | [Dynamic Vapour Sorption and Near-Infrared (DVS-NIR) Spectroscopy](#5.3.3.dynamic-vapour-sorption-and-near-infrared-dvs-nir-spectroscopy) | 98 |
+| 5.3.4 | 3 | [Attenuated Total Reflectance Fourier Transform Infrared (ATR FTIR) Spectroscopy](#5.3.4.attenuated-total-reflectance-fourier-transform-infrared-atr-ftir-spectroscopy) | 98 |
+| 5.3.5 | 3 | [Confocal Raman Spectroscopy (CRS)](#5.3.5.confocal-raman-spectroscopy-crs) | 99 |
+| 5.3.6 | 3 | [Atomic Absorption Spectrometry (AAS)](#5.3.6.atomic-absorption-spectrometry-aas) | 100 |
+| 5.3.7 | 3 | [Inductively Coupled Plasma Mass Spectrometry (ICP-MS)](#5.3.7.inductively-coupled-plasma-mass-spectrometry-icp-ms) | 100 |
+| 5.3.8 | 3 | [Opto-Thermal Transient Emission Radiometry (OTTER)](#5.3.8.opto-thermal-transient-emission-radiometry-otter) | 100 |
+| 5.3.9 | 3 | [Optical Coherence Tomography (OCT)](#5.3.9.optical-coherence-tomography-oct) | 100 |
+| 5.3.10 | 3 | [Confocal Laser Scanning Microscopy (CLSM)](#5.3.10.confocal-laser-scanning-microscopy-clsm) | 102 |
+| 5.3.11 | 3 | [Transonychial Water Loss (TOWL)](#5.3.11.transonychial-water-loss-towl) | 102 |
+| 5.4 | 2 | [Exploiting the Permeability Characteristics of the Nail Plate](#5.4.exploiting-the-permeability-characteristics-of-the-nail-plate) | 102 |
+| 5.4.1 | 3 | [Current Approaches and Clinical Evidence](#5.4.1.current-approaches-and-clinical-evidence) | 102 |
+| 5.4.2 | 3 | [Experimental Approaches](#5.4.2.experimental-approaches) | 104 |
+| 5.4.3 | 3 | [Chemical Enhancement: Barrier Disruption](#5.4.3.chemical-enhancement-barrier-disruption) | 104 |
 | 5.4.4 | 3 | Chemical Enhancement: Vehicle Effects | 105 |
 | 5.5 | 2 | Cosmetic Nail Formulations | 106 |
 | 5.5.1 | 3 | Nail Polish | 106 |
@@ -1904,3 +1904,218 @@ Kenneth A. Walters và Majella E. Lane
   - Nước tẩy sơn móng
 - Triển vọng và tóm tắt
 - Tài liệu tham khảo
+
+---
+
+<a id="5.1.introduction"></a>
+
+## 5.1 Giới thiệu
+
+Chương này trình bày hình thái và chức năng của móng người. Bản móng là đặc điểm nổi bật nhất của móng và từ lâu đã được các nhà khoa học mỹ phẩm quan tâm, chủ yếu vì mục đích trang trí. Một chương đi kèm sẽ trình bày nghệ thuật và khoa học về mỹ phẩm dành cho móng, còn chương này tập trung vào các tính chất và bệnh lý của móng. Bản móng là một mô được sừng hóa cao; các tính chất sinh lý và hình thái chịu trách nhiệm cho độ bền cơ học và tính chất hàng rào của nó sẽ được thảo luận.
+
+Chương đặc biệt nhấn mạnh các phương pháp lý sinh và phân tích sinh học đã góp phần nâng cao hiểu biết của chúng ta về thành phần và chức năng của móng. Các phương pháp đã được khảo sát để làm công cụ chẩn đoán móng cũng sẽ được xem xét. Cuối cùng, do các bệnh về móng thường khó chữa và đòi hỏi thời gian điều trị kéo dài (Rich và Scher, 2005), những bệnh lý thường gặp cùng các phương thức điều trị tại chỗ sẽ được mô tả.
+
+---
+
+<a id="5.2.nail-structure-and-physiology"></a>
+
+## 5.2 Cấu trúc và sinh lý móng
+
+Bản móng người được cấu tạo từ các lớp tế bào sừng hóa dẹt, hợp nhất thành một khối đặc nhưng hơi đàn hồi. Bản móng được bao quanh ở ba phía bởi các rãnh quanh móng, thường được gọi là nếp móng; đây là phần kéo dài của biểu bì và được cấu tạo từ mô sừng hóa. Một phần kéo dài khác của biểu bì là mầm móng, một mô sinh mầm nằm ở đầu gần, bên dưới và phía sau bản móng của mỗi ngón. Mầm móng gồm phần lưng (phần đỉnh) và phần bụng; cả hai đều thể hiện kiểu kết hợp keratin biểu mô và keratin tóc. Phần bụng của mầm móng được xác định là vùng tiền sinh keratin (Perrin và cs., 2004), là nguồn chính tạo bản móng, trong khi mầm móng phần đỉnh được cho là tạo ra phần lưng mỏng của bản móng. Các tế bào đã cứng hóa của bản móng phát triển theo hướng ra xa từ mầm móng với tốc độ khoảng 2–3 mm mỗi tháng. Phần bụng của mầm móng chỉ hiện một phần dưới dạng một gờ lồi hơi đục bên dưới bản móng phía gần, được gọi là liềm móng. Các đặc điểm quan sát đại thể của móng người được thể hiện ở Hình 5.1. Trong quá trình sừng hóa, các tế bào trải qua những biến đổi về hình dạng và các biến đổi khác tương tự tế bào biểu bì tạo nên lớp sừng. Vì vậy, tế bào bản móng không chứa bào quan hoặc nhân, mà gồm các sợi keratin nằm trong một ma trận protein.
+
+![Hình 5.1. Đặc điểm của bản móng người](translations/assets/images/figure-5.1-human-nail-plate-features.png)
+
+Bản móng có ba lớp sừng hóa liên kết rất chặt: một phiến lưng ngoài cùng cứng và mỏng, một phiến giữa mềm hơn nhưng dày hơn, và một lớp bụng trong cùng (Runne và Orfanos, 1981). Nhìn chung, có vẻ như sự biểu hiện của các loại keratin khác nhau ở những vùng khác nhau của mầm móng và giường móng có thể chịu trách nhiệm cho các đặc điểm vật lý biến đổi giữa các lớp bản móng (Bragulla và Homberger, 2009; Nogueiras-Nieto và cs., 2011). Chẳng hạn, eponychium (nếp móng phía gần), hyponychium (vùng dưới móng) và giường móng chỉ biểu hiện các keratin biểu bì (Perrin, 2004).
+
+Biểu mô giường móng là một cấu trúc biểu mô chuyên biệt, có lớp đáy thực sự và hai hoặc ba lớp biểu mô nhưng không có lớp hạt. Giường móng có hoạt tính tăng sinh đáng kể. Sự đan cài giữa bờ dưới của bản móng và bề mặt giường móng giải thích sự gắn kết chắc giữa hai mô này (Perrin, 2007). Vùng chuyển tiếp giữa giường móng và vùng dưới móng thể hiện kiểu sừng hóa khác với chính vùng dưới móng. Tại đây, lớp sừng hóa của giường móng bám chắc vào bề mặt dưới gồ ghề của bản móng, tạo ra một lớp bịt kín hiệu quả và ngăn ngừa tình trạng tách móng.
+
+Perrin (2008) tiếp tục nghiên cứu vùng xa của đơn vị móng và xác định vùng chuyển tiếp từ giường móng sang vùng dưới móng, trên lâm sàng được gọi là dải onychodermal. Perrin gọi vùng chuyển tiếp giữa giường móng và vùng dưới móng là eo móng. Về hình thái, eo móng có hai đặc điểm: “biểu mô của giường móng xa có hình dạng như bậc thang, với chỗ lõm rõ rệt của biểu mô bên dưới bề mặt dưới của bản móng” và “một phương thức gắn kết chuyên biệt của lớp sừng với bản móng thông qua kiểu biệt hóa theo chiều ngang” (Perrin, 2008). Ông nhận thấy bề mặt bụng của bản móng hơi có khía khi quan sát theo mặt phẳng dọc, và về chức năng eo móng thuộc về giường móng. Sự bám dính chắc giữa bản móng và giường móng ở vùng này được thay thế bằng một lớp bịt kín giữa phần kéo dài cận sừng hóa của eo móng và bản móng. Giường móng và bản móng cùng phát triển về phía trước. Bản móng được tạo ra trong các bầu biểu mô ở phần bụng của mầm móng; các bầu này được định hướng để bảo đảm bản móng mới phát triển theo hướng xiên, còn giường móng di chuyển chậm và song song với hướng phát triển của móng. Không giống biểu bì sống tạo ra lớp sừng, mầm móng không có lớp hạt (de Berker và cs., 2007), và điều này ảnh hưởng sâu sắc đến lượng lipid gian bào trong bản móng như sẽ bàn luận ở phần sau.
+
+Eponychium và hyponychium (các nếp quanh bản móng) bịt kín bản móng ở các bờ gần và bên. Những cấu trúc này không chứa các đơn vị nang–tuyến bã, nhưng về các mặt khác có hình thái tương tự những vùng da khác.
+
+Là một cấu trúc biểu mô sừng hóa, thành phần hóa học của bản móng có nhiều điểm tương đồng với tóc (Baden và cs., 1973). Mặc dù phần lớn protein trong tóc và móng được xếp vào nhóm keratin “cứng” của tế bào sợi tóc, cả keratin cứng và keratin mềm đều được phát hiện trong mầm móng, và cả hai dạng protein này đều hiện diện trong bản móng. Keratin 1 và 10 (keratin mềm) được tìm thấy trong mầm móng cùng với keratin cứng Ha-1 (de Berker và cs., 2000); một số keratin cứng khác cũng được chứng minh là có mặt trong mầm móng, giường móng và bản móng (Perrin và cs., 2004; Perrin, 2007). Các protein liên kết với sợi trung gian và trichohyalin cũng hiện diện trong móng (Cashman và Sloan, 2010). Hàm lượng lưu huỳnh trong móng khoảng 10%, chủ yếu nằm trong các liên kết disulfide của cystine; các liên kết này góp phần tạo độ bền kéo của móng bằng cách nối các sợi keratin.
+
+Móng chứa một lượng đáng kể phospholipid, chủ yếu ở các lớp lưng và giữa, góp phần tạo độ linh hoạt. Acid glycolic và acid stearic cũng được tìm thấy trong móng. Tổng hàm lượng lipid của bản móng nằm trong khoảng 0,1–1%, khác biệt đáng kể so với lớp sừng (khoảng 10%). Chất hóa dẻo chính của móng là nước; hàm lượng nước thay đổi đáng kể tùy theo độ ẩm tương đối môi trường (Farran và cs., 2008), nhưng thường ở mức khoảng 18%. Khi hàm lượng nước dưới 16%, bản móng trở nên giòn; khi được hydrat hóa đến mức khoảng 25%, móng trở nên mềm. Khoáng chất cũng là những thành phần quan trọng của móng. Sự thiếu hụt selenium và magnesium có thể ảnh hưởng sâu sắc đến sức khỏe của bản móng (Bauer và Stevens, 1983; Kien và Ganther, 1983).
+
+---
+
+<a id="5.3.biophysical-characterisation-of-the-nail-plate"></a>
+
+## 5.3 Đặc trưng lý sinh của bản móng
+
+Nhiều kỹ thuật lý sinh và kỹ thuật sinh học vốn được phát triển để nghiên cứu da về sau đã được khảo sát về khả năng ứng dụng trong thăm dò móng và các thành phần của móng. Ở cấp độ phân tử, các đặc điểm thường được khảo sát gồm thành phần, cấu trúc và kiểu đóng gói keratin, hàm lượng nước và ảnh hưởng của quá trình hydrat hóa. Một số kỹ thuật cũng được dùng để khảo sát thành phần nguyên tố của móng, với các ứng dụng được đề xuất trong việc sử dụng mô này để chẩn đoán những tình trạng bệnh lý tiềm ẩn khác.
+
+---
+
+<a id="5.3.1.near-infrared-raman-spectroscopy"></a>
+
+### 5.3.1 Quang phổ Raman cận hồng ngoại
+
+Quang phổ Raman biến đổi Fourier cận hồng ngoại (NIR-FT Raman) khai thác hiện tượng trong đó một phần nhỏ ánh sáng đơn sắc bị một chất làm tán xạ có tần số khác với chùm tới một lượng bằng tần số dao động của liên kết hóa học. Độ dịch tần của ánh sáng tán xạ có thể được phân tích và biểu diễn dưới dạng phổ. Các dải phổ đại diện cho những dao động đặc trưng của liên kết hóa học trong các phân tử của mẫu được khảo sát. Quang phổ NIR-FT Raman đặc biệt phù hợp để phân tích vật liệu sinh học vì có thể sử dụng cho các mẫu phức tạp, không tinh khiết và chỉ cần một lượng mô rất nhỏ.
+
+Các dao động Raman quan trọng, nhạy với cấu dạng protein, là dao động của liên kết peptide; trong số đó, hai dao động được gọi là amide I và amide III thể hiện rõ ở móng cũng như ở da, tóc và lớp sừng (Hình 5.2) (Gniadecka và cs., 1997).
+
+![Hình 5.2. Liên kết peptide trong protein](translations/assets/images/figure-5.2-peptide-bond-proteins.png)
+
+Gniadecka và cs. (1998) sử dụng quang phổ Raman biến đổi Fourier cận hồng ngoại để khảo sát các mẫu da, tóc và móng thu thập từ 10 người. Khoảng phổ từ 0 đến 3500 cm<sup>−1</sup>. Việc kết hợp tần số tại cực đại cường độ của amide I và amide III cho thấy phần lớn protein trong móng ở cấu dạng xoắn α, tương tự da toàn phần, tóc và lớp sừng. Một dải kéo giãn C–C mạnh ở khoảng 935 cm<sup>−1</sup>, đặc trưng cho cấu dạng xoắn α, cũng hiện diện trong các phổ này. Dải S–S của mô móng thể hiện rõ ở khoảng 510 cm<sup>−1</sup>, cho thấy các liên kết này chủ yếu ở cấu dạng gauche–gauche–gauche; tuy nhiên, một vai phổ tại 520 cm<sup>−1</sup> cho thấy một số liên kết S–S ở cấu dạng gauche–gauche–trans. Số sóng trung bình của dải bất đối xứng CH<sub>3</sub> ở móng so với da toàn phần cho thấy protein trong móng có mức độ gấp cuộn cao và chỉ tương tác rất ít với môi trường xung quanh. Dải ở 1447 cm<sup>−1</sup>, đại diện cho dao động biến dạng kiểu cắt kéo, cũng hiện diện trong phổ móng.
+
+Các đỉnh lipid nổi bật quan sát được ở móng nằm tại 1130 cm<sup>−1</sup> và 1030 cm<sup>−1</sup>, cho thấy cấu trúc lipid trong móng có mức độ trật tự cao. Tỷ số S<sub>lat</sub> của dao động nhóm CH trong vùng 2850–2890 cm<sup>−1</sup> bằng 1, cho thấy phần lớn lipid ở trạng thái tinh thể; các tác giả cho rằng đây là dạng tinh thể lỏng kiểu phiến. Kết quả này cũng gợi ý mức độ tương tác liên phân tử thấp giữa lipid và protein trong móng. Ước tính tốt nhất về tổng lượng nước liên kết hydro được tính từ I<sub>2940</sub>/I<sub>3250</sub> và được báo cáo ở mức hơi dưới 20%. Hàm lượng nước liên kết hydro trong móng tương đương với lớp sừng. Dải nước ở 180 cm<sup>−1</sup> không xuất hiện, cho thấy phần lớn phân tử nước trong móng liên kết với các thành phần khác và không tạo cấu trúc tứ diện.
+
+Trong một nghiên cứu sau đó của cùng nhóm (Wessel và cs., 1999), quang phổ NIR-FT Raman được dùng để khảo sát ảnh hưởng của hydrat hóa lên móng người. Phổ Raman được thu cả *in vitro* từ mẫu móng và *in vivo*, trước và sau khi ngâm nước. Không quan sát thấy khác biệt lớn giữa phổ đo ở phần xa của móng *in vivo* và *in vitro*. Mức hấp thu nước của móng tay *in vitro* thấp hơn (27%) so với móng chân *in vitro* (45%). Trong các nghiên cứu *in vivo*, phần bản móng còn bám dính có phổ Raman hơi khác so với phần xa không bám dính. Không bất ngờ khi hàm lượng nước tương đối của bản móng còn bám dính (bao gồm cả mô bên dưới) cao hơn nhiều so với phần tự do. Nhìn chung, kết quả cho thấy móng có khả năng giữ nước hạn chế và nước được hấp phụ làm thay đổi hình học của protein.
+
+---
+
+<a id="5.3.2.near-infrared-diffuse-reflectance-nir-dr-spectroscopy"></a>
+
+### 5.3.2 Quang phổ phản xạ khuếch tán cận hồng ngoại (NIR-DR)
+
+Các nghiên cứu sơ bộ về phản xạ khuếch tán cận hồng ngoại (NIR-DR) trên móng lần đầu được Sowa và cộng sự báo cáo năm 1995. Egawa và cộng sự (2003) khảo sát tiềm năng của kỹ thuật này trong xác định hàm lượng nước của bản móng người. Khả năng giữ nước của các bản móng đã cắt được xác định bằng cách ngâm mẫu trong nước cất đến 60 phút và đo phổ NIR. Phổ NIR-DR được đo *in vivo* tại bờ tự do của móng tay, trước và ngay sau khi rửa, ở ba phụ nữ 26–32 tuổi (trung bình 29,7 tuổi). Hàm lượng nước của các bản móng đã cắt thay đổi từ 1,4% khối lượng đến 33,9% khối lượng trong khoảng độ ẩm tương đối 1–99%. Hàm lượng nước tăng rõ rệt khi độ ẩm tương đối của môi trường vượt quá 80%. Độ dày móng dường như ảnh hưởng rất ít đến lượng nước trong móng. Các tác giả quan sát thấy một đặc điểm phổ rộng trong vùng 1500–1530 nm và cho rằng đặc điểm này có thể bắt nguồn từ nước liên kết hydro và keratin. Khi hàm lượng nước cao hơn, cường độ của dải ở 1420 nm, liên quan đến nước tự do, tăng lên. Ở độ ẩm tương đối rất cao, một đỉnh mới tại 1488 nm được phát hiện và có thể phản ánh sự thay đổi trạng thái của các liên kết hydro trong bản móng đã cắt dưới những điều kiện này. Bản móng đã cắt có hàm lượng nước khoảng 7–9% khối lượng trước khi ngâm đạt tới 24–33% khối lượng ngay sau khi kết thúc thời gian ngâm. Hàm lượng nước *in vivo* dao động từ khoảng 15% đến 21%. Đối với hàm lượng nước *in vitro*, phương pháp NIR cho tương quan tốt với phân tích Karl Fischer và phép đo cộng hưởng từ hạt nhân.
+
+Cũng nhóm tác giả này (Egawa và cs., 2005) đã khảo sát biến thiên hàm lượng nước của móng theo mùa. Phổ được thu *in vivo* vào cả mùa hè và mùa đông trong điều kiện nhiệt độ và độ ẩm được kiểm soát (23,8–25,0°C; RH 40–41%). Hàm lượng nước của bản móng khác nhau giữa các đối tượng nhưng không khác nhau giữa các móng của cùng một người. Hàm lượng nước trung bình vào mùa đông thấp hơn đáng kể (*p* < 0,05) so với mùa hè. Không quan sát thấy khác biệt phổ đáng kể giữa móng tay và móng chân.
+
+---
+
+<a id="5.3.3.dynamic-vapour-sorption-and-near-infrared-dvs-nir-spectroscopy"></a>
+
+### 5.3.3 Quang phổ hấp phụ hơi động và cận hồng ngoại (DVS-NIR)
+
+Hấp phụ hơi động là một phương pháp trọng lượng dùng để nghiên cứu đặc tính hấp phụ của vật liệu trong điều kiện nhiệt độ và độ ẩm được kiểm soát. Gần đây, chúng tôi đánh giá đặc tính hấp phụ của móng người bằng một thiết bị DVS chuyên dụng có gắn thêm đầu dò NIR (Walters và cs., 2012). Mẫu móng cắt từ sáu tình nguyện viên được đặt ở nhiệt độ cố định 32°C và một dải độ ẩm tương đối từ 40% đến 90%, với bước tăng 10%. Sự tăng độ ẩm tương đối (40–90%) đi kèm với biến thiên tuyến tính của khối lượng. Phổ NIR cũng cho thấy độ hấp thụ của các dải (phổ đạo hàm bậc hai) tại 1422 nm và 1908 nm tăng lên. Tương quan tốt (Hình 5.3) được ghi nhận giữa biến thiên khối lượng theo phép đo trọng lượng và độ hấp thụ của các dải tại 1422 nm và 1908 nm.
+
+![Hình 5.3. Tương quan giữa mức tăng biến thiên khối lượng khi RH tăng từ 40% lên 90% với cường độ dải tại (a) 1422 nm, nước tự do; và (b) 1908 nm, nước liên kết](translations/assets/images/figure-5.3-dvs-nir-mass-change-band-intensity.png)
+
+---
+
+<a id="5.3.4.attenuated-total-reflectance-fourier-transform-infrared-atr-ftir-spectroscopy"></a>
+
+### 5.3.4 Quang phổ hồng ngoại biến đổi Fourier phản xạ toàn phần suy giảm (ATR FTIR)
+
+Sowa và cs. (1995) khảo sát móng *in vivo* bằng ATR FTIR. Sự hiện diện của lipid trên bề mặt móng được xác nhận qua đỉnh carbonyl ester của lipid ở 1745 cm<sup>−1</sup> và các dao động kéo giãn methylene của lipid ở 2924 và 2853 cm<sup>−1</sup>, vốn đặc trưng cho chuỗi acyl lipid không có trật tự. Các dải hấp thụ đặc trưng của protein cũng được xác định tại 1650, 1540 và 1250 cm<sup>−1</sup>. Trong một ứng dụng gần đây hơn, ATR FTIR được dùng để nghiên cứu cấu trúc bậc hai của protein ở 41 người hiến khỏe mạnh và 65 bệnh nhân mắc hội chứng mệt mỏi mạn tính (CFS) (Sakudo và cs., 2009). Phổ trong vùng 4000–6000 cm<sup>−1</sup> được thu với độ phân giải 4 cm<sup>−1</sup>. Hàm lượng xoắn α, phiến β, đoạn ngoặt β và cuộn ngẫu nhiên của móng được ước tính từ vùng amide I của phổ ATR FTIR sau khi hiệu chỉnh chiết suất vật liệu, giải chập Fourier và khớp đường cong. Cấu trúc bậc hai của protein trong móng tay khỏe mạnh gồm 11,74% xoắn α, 37,58% phiến β, 25,01% đoạn ngoặt β và 25,67% cuộn ngẫu nhiên. Mẫu móng của bệnh nhân CFS chứa ít xoắn α hơn và hàm lượng phiến β cao hơn; điều này được quy cho sự suy giảm các thành phần bình thường của bản móng, tuy nhiên không có bằng chứng được cung cấp cho nhận định này.
+
+---
+
+<a id="5.3.5.confocal-raman-spectroscopy-crs"></a>
+
+### 5.3.5 Quang phổ Raman đồng tiêu (CRS)
+
+CRS *in vivo* kết hợp quang phổ Raman với hiển vi quét laser đồng tiêu (CLSM) để xác định chính xác độ sâu trong da nơi tín hiệu Raman được thu nhận (Caspers và cs., 1998, 2001). Tuy nhiên, ứng dụng của kỹ thuật này trên móng chưa được khảo sát. Gần đây, chúng tôi báo cáo nghiên cứu đầu tiên về việc ứng dụng kỹ thuật này để đo độ hydrat hóa của móng (Walters và cs., 2012). Nghiên cứu được thực hiện trên người khỏe mạnh, không có tiền sử bệnh móng hoặc sử dụng mỹ phẩm trên móng. Móng tay được ngâm nước trong 0; 2,5; 5; 10 và 15 phút trước khi đo. Móng tay cũng được hydrat hóa bằng nước trong 2 giờ và phép đo được thực hiện tại thời điểm 0, 10, 30 và 60 phút. Phép đo *in vivo* được tiến hành bằng kính hiển vi CRS hoạt động ở hai bước sóng: 671 nm (vùng số sóng cao) và 785 nm (vùng dấu vân tay). Hàm lượng nước của móng được đo bằng laser 671 nm. Hàm lượng nước nền tại độ sâu 0 µm trong móng khoảng 8% khối lượng/khối lượng (Hình 5.4). Giá trị này tăng theo độ sâu đến khoảng 21% khối lượng/khối lượng ở độ sâu 30 µm trong móng, sau đó đạt pha bình nguyên. Hydrat hóa móng trong 2,5 phút làm hàm lượng nước trong móng tăng lên khoảng 15% khối lượng/khối lượng tại 0 µm và khoảng 24% khối lượng/khối lượng tại 30 µm. Thời gian hydrat hóa càng dài thì hàm lượng nước trong móng càng cao, cho đến 15 phút; sau đó không tăng thêm ngay cả khi hydrat hóa trong 2 giờ. Hàm lượng nước trong móng trở về mức nền sau 30 phút kể từ khi hoàn tất quá trình hydrat hóa 2 giờ. Các giá trị này tương đối phù hợp với kết quả đo bằng quang phổ vNIR-FT Raman (Gniadecka và cs., 1998) và NIR-DR (Egawa và cs., 2003) đã trình bày ở trên.
+
+![Hình 5.4. (a) Hàm lượng nước ở độ sâu 0, 14 và 30 µm sau khi ngâm nước 2,5; 5; 10 và 15 phút. (b) Hàm lượng nước của móng đo in vivo 2 giờ sau khi hydrat hóa bằng cách ngâm nước trong 0; 2,5; 5; 10 và 15 phút (n = 6; trung bình ± SD)](translations/assets/images/figure-5.4-nail-water-content-hydration.png)
+
+---
+
+<a id="5.3.6.atomic-absorption-spectrometry-aas"></a>
+
+### 5.3.6 Phổ hấp thụ nguyên tử (AAS)
+
+Do có giả thuyết về mối tương quan giữa nồng độ nguyên tố vi lượng toàn thân và nồng độ trong móng, nhiều báo cáo về ứng dụng AAS trên móng đã xuất hiện trong tài liệu. Harrison và Tyree (1971) là những người đầu tiên báo cáo việc ứng dụng hấp thụ nguyên tử ngọn lửa để xác định năm nguyên tố (Ca, Zn, Mg, Cu và Fe) trong mẫu móng tay cắt từ bảy nữ và mười nam. Barnett và Kahn (1972) cũng báo cáo một phương pháp xác định hàm lượng đồng trong mẫu móng tay cắt của trẻ sơ sinh. Tuy nhiên, bất chấp sự lạc quan ban đầu và nhiều công bố về ứng dụng này, lấy mẫu móng chưa trở thành phương pháp không xâm lấn thường quy để đánh giá tình trạng khoáng chất của cá nhân, có thể do mức nguyên tố vi lượng khác biệt rất lớn giữa các đối tượng.
+
+---
+
+<a id="5.3.7.inductively-coupled-plasma-mass-spectrometry-icp-ms"></a>
+
+### 5.3.7 Khối phổ plasma cảm ứng cao tần (ICP-MS)
+
+ICP-MS sử dụng một chất khí chứa nồng độ ion và electron đủ cao để làm cho pha hơi dẫn điện. Plasma dùng trong ICP-MS được tạo ra bằng cách ion hóa một phần khí argon bằng dòng điện. Sau khi mẫu được đưa vào plasma, nhiệt độ cực cao làm mẫu phân tách thành các nguyên tử riêng lẻ. Để ghép nối với khối phổ, các ion từ plasma được chiết qua một chuỗi côn vào khối phổ kế. Goullé và cs. (2009) đã báo cáo việc sử dụng kỹ thuật này để phân tích đa nguyên tố trên mẫu móng tay và móng chân cắt từ những tình nguyện viên khỏe mạnh. Các nguyên tố Li, Be, B, Al, V, Cr, Mn, Co, Ni, Cu, Zn, Ga, Ge, As, Se, Rb, Sr, Mo, Pd, Ag, Cd, Sn, Sb, Te, Ba, La, Gd, W, Pt, Hg, Tl, Pb, Bi và U được phát hiện bằng các phép đo đã thẩm định. Các tác giả đề xuất ứng dụng ICP-MS như một kỹ thuật không xâm lấn để phát hiện phơi nhiễm kim loại trong công nghiệp, gia đình hoặc môi trường. Button và cs. (2009) sử dụng kỹ thuật này để đánh giá sự hấp thu arsenic trong mẫu móng chân cắt và đề xuất cách tiếp cận này như một chỉ dấu sinh học của phơi nhiễm với môi trường có nồng độ arsenic cao.
+
+---
+
+<a id="5.3.8.opto-thermal-transient-emission-radiometry-otter"></a>
+
+### 5.3.8 Đo bức xạ phát xạ quá độ quang nhiệt (OTTER)
+
+OTTER sử dụng kích thích laser xung để tạo ra các bước nhảy nhiệt độ cỡ vài độ Celsius trong vài micromet trên cùng của vật liệu được khảo sát. Các bước nhảy nhiệt độ này suy giảm trong vòng vài microsecond và không làm tăng đáng kể nhiệt độ trung bình của nền hoặc tốc độ khuếch tán đang được nghiên cứu. Chúng được quan sát bằng đầu dò hồng ngoại tốc độ cao, nhạy với bức xạ nhiệt phát ra từ bề mặt (Bindra và cs., 1992). Đối với mô sinh học, bức xạ này mạnh nhất trong dải bước sóng hồng ngoại trung 6–13 µm. Phép đo ghi nhận động học suy giảm của thành phần quá độ trong bức xạ nhiệt và liên hệ thành phần này với các tính chất vật lý của những lớp gần bề mặt thông qua các mô hình toán học phù hợp. Trong các mô hình này, độ phân giải theo chiều sâu liên quan đến tham số thời gian của tín hiệu quá độ, còn tính đặc hiệu hóa học liên quan đến phổ hấp thụ của các phân tử cần khảo sát (Imhof và cs., 1994). OTTER đã được dùng để đo hàm lượng nước của móng, profile nồng độ nước theo chiều sâu trong móng và sự thấm qua móng của dung môi bôi tại chỗ (Hình 5.5) (Xiao và cs., 2010, 2011). Kết hợp kết quả hàm lượng nước với flux nước xuyên móng (TOWL) cũng cho phép tính hệ số khuếch tán nước của móng (xem phần “Mất nước xuyên móng (TOWL)”).
+
+![Hình 5.5. Profile glycerol theo chiều sâu trong móng người in vivo, biểu thị bằng đơn vị tùy ý](translations/assets/images/figure-5.5-glycerol-depth-profiles.png)
+
+---
+
+<a id="5.3.9.optical-coherence-tomography-oct"></a>
+
+### 5.3.9 Chụp cắt lớp kết hợp quang học (OCT)
+
+OCT là công nghệ tạo ảnh quang học không xâm lấn, cung cấp hình ảnh cắt ngang dạng chụp cắt lớp của mô *in situ* và theo thời gian thực (Fujimoto, 2003). Trong kỹ thuật này, độ phản xạ của ánh sáng hồng ngoại từ mô cần khảo sát được đo và cường độ được tạo ảnh theo vị trí. Có thể thu được hình ảnh mô *in situ* với độ phân giải trục cao. Hình ảnh đại diện của móng và mô phía gần được trình bày trong Hình 5.6. Mogensen và cs. (2007) khảo sát hình thái và độ dày móng ở người tình nguyện khỏe mạnh bằng ảnh OCT, rồi so sánh kết quả với ảnh siêu âm tần số cao (HFUS), phép đo bằng thước cặp và OCT nhạy phân cực (PS-OCT). Trong OCT tiêu chuẩn, bản móng hiện ra như một cấu trúc phân lớp chứa số lượng thay đổi các dải đồng nhất nằm ngang, có cường độ và độ dày khác nhau. Ảnh PS-OCT của bản móng cũng cho thấy cấu trúc phân lớp. Có thể đo độ dày móng bằng OCT và OCT phân biệt được những thay đổi tinh tế mà HFUS không phát hiện được.
+
+![Hình 5.6. (a) Ảnh quét OCT đại diện của móng và mô phía gần. (b) Ảnh quét OCT móng tay với trục quét vuông góc với hướng phát triển của móng (máy quét VivoSight OCT, Michelson Diagnostics, Vương quốc Anh)](translations/assets/images/figure-5.6-oct-nail-proximal-tissue.png)
+
+Gần đây hơn, Sattler và cộng sự (2011) so sánh OCT, CLSM và TOWL như các công cụ nghiên cứu móng. Móng khỏe mạnh được khảo sát bằng OCT và CLSM. Trong một nghiên cứu riêng, các tình nguyện viên khỏe mạnh rửa ngón giữa trong 30 phút ở 38°C trong 2 tuần. Các phép đo OCT, TOWL và CLSM được thực hiện trước và sau giai đoạn rửa. Độ sâu thâm nhập khoảng 2 mm với độ phân giải 10 µm. OCT xác nhận độ dày móng ở ngón giữa của tay thuận cao hơn đáng kể (giá trị trung bình 465,8 µm). Tương tự nghiên cứu OCT trước đó, cấu trúc dạng dải của bản móng khỏe mạnh được xác nhận. Thử nghiệm rửa không làm độ dày móng đo bằng OCT tăng đáng kể.
+
+---
+
+<a id="5.3.10.confocal-laser-scanning-microscopy-clsm"></a>
+
+### 5.3.10 Hiển vi quét laser đồng tiêu (CLSM)
+
+CLSM sử dụng laser và một cặp khẩu độ lỗ kim để tạo ảnh và phân lớp quang học mô ở độ phân giải cao. Một trong những ứng dụng đầu tiên của kỹ thuật này trong nghiên cứu móng được Hongcharu và cs. (2000) mô tả. Cả phân tích *in vivo* và *in vitro* đều được thực hiện trên móng của một bệnh nhân bị nấm móng. Các mẫu móng cắt toàn bộ chiều dày được thu thập và tạo ảnh. Các lát cắt ảo được thu *in vivo* bằng cách lấy nét kính hiển vi đồng tiêu vào bên trong bản móng. Ảnh đồng tiêu *in vivo* ngay bên dưới bề mặt bản móng cho thấy một mạng lưới sợi nấm phân nhánh. Các tác giả giả thuyết rằng CLSM có thể là phương pháp chẩn đoán nấm móng nhanh và chính xác hơn so với nuôi cấy nấm, kính hiển vi thông thường hoặc thủy phân hóa học.
+
+Sattler và cộng sự (2011) sử dụng CLSM cùng các phương pháp khác để đánh giá móng khỏe mạnh. Ưu điểm chính của CLSM so với OCT là khả năng khảo sát cấu trúc vi mô của móng, vì có thể quan sát được ranh giới tế bào sừng và đánh giá tính toàn vẹn của chúng. Các tác giả đạt được độ sâu 400–500 µm. Khả năng chẩn đoán móng trắng và nhiễm nấm cũng được chứng minh qua các hình ảnh riêng lẻ của móng bệnh.
+
+---
+
+<a id="5.3.11.transonychial-water-loss-towl"></a>
+
+### 5.3.11 Mất nước xuyên móng (TOWL)
+
+TOWL là phép đo flux nước qua móng và thường được sử dụng cùng các kỹ thuật lý sinh khác để đặc trưng hóa chức năng hàng rào hoặc tính thấm của móng. Jemec và cộng sự (1989) đo TOWL ở những tình nguyện viên khỏe mạnh bằng thiết bị đo bay hơi nhằm xác lập tính hữu ích của kỹ thuật này và nghiên cứu các thông số khác nhau như giới tính, tuổi và độ dày bản móng. Trung vị TOWL cao hơn mất nước qua biểu bì và giảm khi tuổi của đối tượng tăng. Không phát hiện mối tương quan đáng kể với độ dày bản móng đo bằng siêu âm. Krönauer và cs. (2001) khảo sát giá trị TOWL ở người khỏe mạnh và bệnh nhân bị chàm thể tạng, vảy nến và nấm móng. Giá trị TOWL ở người khỏe mạnh cao hơn đáng kể (*p* < 0,05) so với bệnh nhân chàm thể tạng và nấm móng; chỉ bệnh nhân vảy nến móng có TOWL thấp hơn đáng kể so với người khỏe mạnh.
+
+---
+
+<a id="5.4.exploiting-the-permeability-characteristics-of-the-nail-plate"></a>
+
+## 5.4 Khai thác đặc tính thấm của bản móng
+
+Hiểu biết ngày càng tăng về đặc tính thấm của bản móng đã củng cố niềm tin rằng các bệnh ở móng có thể được điều trị tại chỗ. Những hệ đưa thuốc qua móng mới và hiệu quả được trình bày trong phần này. Để tìm hiểu các mô hình thực tế dùng trong đánh giá những kỹ thuật thử nghiệm như vậy, độc giả có thể tham khảo bài tổng quan toàn diện của Nair và cs. (2012) cùng các công bố gần đây trong lĩnh vực này (Palliyil và cs., 2014; Baraldi và cs., 2015).
+
+---
+
+<a id="5.4.1.current-approaches-and-clinical-evidence"></a>
+
+### 5.4.1 Các cách tiếp cận hiện nay và bằng chứng lâm sàng
+
+Trong nhiều năm, các bác sĩ da liễu cho rằng điều trị tại chỗ là vô ích đối với mọi tình trạng ngoài những nhiễm trùng nông nhất của bản móng (Zaias và Serrano, 1989). Bản móng thường được xem là một hàng rào không thể thấm qua; cách duy nhất để điều trị bệnh ở đơn vị móng là đưa thuốc theo nguồn cấp máu đến mầm móng hoặc loại bỏ móng bệnh trước khi bôi liệu pháp tại chỗ. Cách thứ nhất đòi hỏi dùng đường uống kéo dài các thuốc kháng nấm mạnh và những thuốc khác (xem ví dụ Roberton và Hosking, 1983); cách thứ hai chỉ được cân nhắc khi chỉ có một vài móng bị bệnh hoặc khi chống chỉ định điều trị đường uống (Hettinger và Valinsky, 1991). Kho phương tiện điều trị của bác sĩ da liễu đã được bổ sung các loại sơn móng điều trị và những công thức khác, bao gồm các công thức chứa efinaconazole, tioconazole, tavaborole, amorolfine, ciclopirox, clobetasol 17-propionate, calcipotriol và tazarotene. Tuy nhiên, ai cũng biết rằng phép thử thực sự của bất kỳ phác đồ điều trị tiềm năng nào là khả năng chữa khỏi bệnh và ngăn bệnh tái phát.
+
+Nakano và cs. (2006) thực hiện một nghiên cứu thăm dò để đánh giá tính an toàn và hiệu quả của liệu pháp terbinafine đường uống theo đợt ở 66 bệnh nhân nấm móng. Mỗi đợt gồm terbinafine đường uống (500 mg/ngày) trong 1 tuần, sau đó nghỉ 3 tuần. Kem terbinafine 1% được bôi hằng ngày. Hiệu quả được đánh giá 1 năm sau khi bắt đầu điều trị. Có 51 bệnh nhân khỏi hoàn toàn (khoảng 77%). Các tác giả kết luận rằng liệu pháp terbinafine theo đợt kết hợp với bôi kem terbinafine tại chỗ an toàn và hiệu quả, nhưng không thể xác định việc bôi tại chỗ có cải thiện kết quả hay không. Một nghiên cứu trước đó (Alpsov và cs., 1996) sử dụng phác đồ đường uống tương tự nhưng không bổ sung liệu pháp tại chỗ đã báo cáo tỷ lệ khỏi bệnh 74%, cho thấy bôi tại chỗ chỉ mang lại rất ít lợi ích bổ sung. Tuy nhiên, cần nhận thức rằng chất dẫn có vai trò rất quan trọng đối với việc đưa thuốc thành công vào bản móng, và có thể loại kem trong nghiên cứu của Nakano chưa được tối ưu hóa về mặt này. Hơn nữa, bản chất rất ưa lipid của terbinafine cho thấy thuốc khó thấm đáng kể vào móng. Có lẽ việc sử dụng một chất dẫn cải tiến hơn sẽ cho thấy rõ hơn hiệu quả của liệu pháp kép. Chẳng hạn, Ghannoum và cs. (2011) đã tích hợp terbinafine vào transfersome, được họ mô tả là “chất dẫn gồm các tập hợp lipid phức hợp có tính đáp ứng, biến dạng rất cao và có bề mặt rất ưa nước”, đồng thời chứng minh rằng ở nồng độ hoạt chất 1,5% khối lượng/thể tích, các chất dẫn này mạnh hơn đáng kể so với thuốc xịt terbinafine 1% *in vitro*; giá trị MIC<sub>50</sub> đối với *Trichophyton rubrum* và *Trichophyton mentagrophytes* lần lượt thấp hơn 30 lần và 60 lần.
+
+Tính hữu ích của việc bổ sung điều trị tại chỗ cho liệu pháp đường uống cũng được Rigopoulos và cs. (2003) khảo sát khi đánh giá sự kết hợp thuốc kháng nấm toàn thân và tại chỗ nhằm tăng tỷ lệ khỏi bệnh và rút ngắn thời gian điều trị toàn thân cho bệnh nấm móng. Liệu pháp itraconazole theo đợt được kết hợp với sơn móng amorolfine và so sánh với itraconazole đơn độc trong điều trị nhiễm *Candida* ở móng. Mặc dù phân tích thống kê không cho thấy khác biệt có ý nghĩa thống kê về hiệu quả điều trị (*P* > 0,1) giữa hai nhóm, sự kết hợp amorolfine tại chỗ và itraconazole đường uống cho thấy tác dụng hiệp đồng đáng kể.
+
+Trong một nghiên cứu đa trung tâm, ngẫu nhiên, nhãn mở, nhóm song song, Baran và cs. (2007) đánh giá sơn móng amorolfine HCl 5% bôi mỗi tuần một lần trong 12 tháng kết hợp terbinafine 250 mg mỗi ngày một lần trong 3 tháng (nhóm AT), so với terbinafine đơn độc mỗi ngày một lần trong 3 tháng (nhóm T). Sau 18 tháng, tỷ lệ thành công ở nhóm AT cao hơn đáng kể so với nhóm T. Những kết quả này chứng minh sơn móng amorolfine kết hợp terbinafine đường uống hiệu quả hơn trong điều trị nấm móng chân có tổn thương mầm móng. Mặt khác, một nghiên cứu dùng quy trình tương tự Baran và cs. (2007) cho rằng liệu pháp terbinafine theo đợt có hiệu quả và an toàn trong điều trị nấm móng, còn việc bổ sung ciclopirox olamine (8%) hoặc amorolfine HCl (5%) tại chỗ không tạo ra khác biệt đáng kể về hiệu quả so với đơn trị liệu bằng terbinafine đường uống (Jaiswal và cs., 2007).
+
+Đơn trị liệu tại chỗ cũng cho thấy một số thành công. Baran và Coquard (2005) điều trị bệnh nhân nấm móng bằng dung dịch fluconazole 1% và urea 20% trong hỗn hợp ethanol–nước, bôi mỗi ngày một lần. Bệnh khỏi hoàn toàn ở bốn trường hợp và bốn bệnh nhân khác cải thiện 90%. Gupta và cs. (2000) tổng quan hiệu quả và tính an toàn của sơn móng ciclopirox 8% trong điều trị nấm móng, và nhận thấy dữ liệu cho thấy sơn móng ciclopirox hiệu quả hơn đáng kể so với giả dược. Loại sơn này có phổ hoạt tính rộng, thể hiện hiệu quả đối với các loài *Candida* và một số loài nấm không thuộc nhóm dermatophyte. Hiệu quả của ciclopirox tại chỗ tiếp tục được xác nhận trong các nghiên cứu sau đó (Sardana và cs., 2006).
+
+Như đã nêu, không phải mọi bệnh móng đều là nhiễm nấm hoặc nhiễm khuẩn. Vảy nến có thể ảnh hưởng đến toàn bộ bản móng và là một biểu hiện thường gặp ở bệnh nhân vảy nến. Hiệu quả và tính an toàn của công thức sơn móng chứa clobetasol 17-propionate 8% đã được đánh giá (Sanchez Regana và cs., 2005). Bệnh nhân bị vảy nến cả giường móng và mầm móng được bôi sơn móng mỗi ngày một lần trong 21 ngày, sau đó bôi hai lần mỗi tuần trong 9 tháng. Tất cả biến đổi ở móng, bao gồm đau móng, đều giảm trong vòng 4 tuần kể từ khi bắt đầu điều trị, và đáp ứng liên quan trực tiếp đến thời gian điều trị. Gel tazarotene cũng được đánh giá trong điều trị vảy nến móng (Scher và cs., 2001). Điều trị bằng tazarotene làm giảm tình trạng tách móng (mối liên kết giữa bản móng và giường móng bị lỏng) nhiều hơn đáng kể ở cả móng được băng kín và không băng kín, đồng thời làm giảm rỗ móng nhiều hơn đáng kể ở móng được băng kín. Vảy nến móng cũng được cải thiện sau khi bôi tại chỗ thuốc mỡ calcipotriol và betamethasone dipropionate mỗi ngày một lần trong 12 tuần (Rigopoulos và cs., 2009).
+
+Hội chứng móng giòn là một vấn đề thường gặp, chỉ các móng có bề mặt thô ráp, bờ nham nhở và bong tách. Sherber và cs. (2011) đánh giá tính hữu ích của kem tazarotene (0,1%) trong điều trị móng giòn. Bệnh nhân bôi kem tazarotene lên móng hai lần mỗi ngày trong 24 tuần. Nghiên cứu cho thấy tazarotene làm giảm triệu chứng của hội chứng móng giòn với mức kích ứng rất ít hoặc không có. Tuy nhiên, khó lý giải vì sao tazarotene, một retinoid, lại có hiệu quả trong hội chứng móng giòn; có thể một thành phần khác trong công thức kem mới chịu trách nhiệm cho các tác dụng có lợi. Dù vậy, nghiên cứu không báo cáo dữ liệu giả dược.
+
+---
+
+<a id="5.4.2.experimental-approaches"></a>
+
+### 5.4.2 Các cách tiếp cận thực nghiệm
+
+Các cách tiếp cận thực nghiệm chính nhằm tăng cường khả năng thấm tập trung vào các hợp chất phá vỡ hàng rào móng hoặc các chất dẫn như sơn móng có thời gian lưu trên móng được cải thiện (Bảng 5.1).
+
+**Bảng 5.1. Các tác nhân hóa học làm phá vỡ hoặc gây tổn thương hàng rào móng**
+
+| Phân loại hóa học/sinh hóa | Hợp chất | Cơ chế tác dụng |
+|---|---|---|
+| Acid beta hydroxy | Acid salicylic, natri salicylate | Tiêu sừng |
+| Carbamide | Urea | Làm biến tính protein |
+| Imine | Guanidine hydrochloride | Làm biến tính protein |
+| Mercaptan, thiol | *N*-acetyl cysteine; dithiothreitol; mercaptoethanol; 8-mercaptomenthone; *N*-[2-mercaptopropionyl] glycine; acid meso-2,3-dimercaptosuccinic; natri pyrithione, kẽm pyrithione; acid thioglycolic | Khử các liên kết disulfide trong ma trận keratin của móng |
+| Enzyme | Papain | Protease |
+| Sulfite, bisulfite | Natri metabisulfite, natri sulfite | Khử các liên kết disulfide trong ma trận keratin của móng |
+
+---
+
+<a id="5.4.3.chemical-enhancement-barrier-disruption"></a>
+
+### 5.4.3 Tăng cường bằng hóa chất: phá vỡ hàng rào
+
+Palliyil và cs. (2013) đã trình bày một chiến lược tiền công thức để lựa chọn chất tăng cường thấm qua móng. Quy trình sàng lọc của họ bao gồm đánh giá khả năng của các chất tăng thấm tiềm năng trong việc cải thiện độ tan và sự thâm nhập *in vitro* của ciclopirox olamine vào bản móng. Sự thâm nhập và thấm qua da *in vitro* cũng được đánh giá. Trong số các chất tăng cường được khảo sát, thiourea là chất tăng cường thấm qua móng được ưu tiên.
+
+Trong các nghiên cứu trước đó, Quintanar-Guerrero và cs. (1998) khảo sát ảnh hưởng của ba chất tiêu sừng (papain, urea, acid salicylic) lên tính thấm của ba thuốc kháng nấm nhóm imidazole (miconazole nitrate, ketoconazole, itraconazole) qua các mẫu móng người khỏe mạnh được gắn trong tế bào khuếch tán hai ngăn đối diện. Chỉ tác động kết hợp của papain (15% trong 1 ngày) và acid salicylic (20% trong 10 ngày) mới có khả năng làm tăng tính thấm của các thuốc kháng nấm.
+
+Kobayashi và cs. (1998) đánh giá tác dụng tăng cường của urea và natri salicylate đối với việc đưa một thuốc mô hình ưa nước (5-fluorouracil) qua móng, sử dụng mẫu móng người trong các tế bào khuếch tán hai ngăn đối diện đã cải biến. Hỗn dịch nước chứa urea hoặc natri salicylate làm giảm flux thuốc so với hỗn dịch không chứa chất tiêu sừng. Các chất khử disulfide là acetyl cysteine và mercaptoethanol cũng được đánh giá về ảnh hưởng lên sự thấm của 5-FU và tolnaftate. Hỗn dịch thuốc được phối chế với acetyl cysteine hoặc mercaptoethanol trong chất dẫn ethanol:nước hoặc ethanol:isopropyl myristate. Chất dẫn ethanol:nước làm flux 5-FU tăng đến 16 lần so với hỗn dịch nước, còn chất dẫn ethanol:isopropyl myristate làm sự thấm của 5-FU tăng đến 8 lần. Sự thấm của tolnaftate cũng tăng trong các chất dẫn này nhưng ở mức thấp hơn nhiều.
+
+Sử dụng mẫu móng người trong hệ tế bào Franz, Malhotra và Zatz (2002b) sàng lọc một loạt phân tử đã biết có khả năng tương tác với keratin. Các hợp chất được nghiên cứu gồm mercaptan (*N*-[2-mercaptopropionyl] glycine, kẽm pyrithione và natri pyrithione, 8-mercaptomenthone, acid meso-2,3-dimercaptosuccinic), natri metabisulfite và các chất tiêu sừng (acid salicylic, urea, guanidine hydrochloride). Gel được bào chế với các chất tăng cường dùng riêng lẻ hoặc phối hợp với nhau trong chất dẫn nước, hydroalcohol hoặc chất dẫn chứa dimethyl sulfoxide (DMSO). Kết quả cho thấy cấu trúc hóa học của chất biến đổi là yếu tố quan trọng nhất quyết định khả năng tăng cường thâm nhập. Hiệu quả tăng cường tốt nhất đạt được khi dùng *N*-(2-mercaptopropionyl) glycine kết hợp urea. Các hợp chất mercaptan chứa nhóm sulfhydryl (SH), vì vậy cơ chế chính làm tăng thâm nhập vào móng là khử các liên kết disulfide trong ma trận keratin của móng. Nhìn chung, tính toàn vẹn của hàng rào móng bị tổn hại không hồi phục sau khi xử lý bằng các chất biến đổi hóa học có hiệu quả.
+
+Hui và cs. (2004) bào chế một công thức gel ethanol mới chứa ciclopirox, urea và propylene glycol, sau đó đánh giá sự thấm của thuốc qua mẫu móng cùng lượng thuốc khu trú trong mẫu móng khi kết thúc thí nghiệm. Một gel thương mại và một công thức sơn móng (không chứa chất tiêu sừng) cũng được khảo sát. Lượng ciclopirox được đưa vào và qua móng từ gel thương mại cao hơn đáng kể so với cả gel thử nghiệm và sơn móng.
