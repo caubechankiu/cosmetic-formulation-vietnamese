@@ -56,19 +56,19 @@
 | 4.2.3 | 3 | [Keratinocytes in Adaptive Immunity](4.2.3.keratinocytes-in-adaptive-immunity.md) | 80 |
 | 4.2.4 | 3 | [Melanocytes](4.2.4.melanocytes.md) | 80 |
 | 4.2.5 | 3 | [Langerhans Cells (LCs)](4.2.5.langerhans-cells-lcs.md) | 81 |
-| 4.3 | 2 | Immunological Composition of the Dermis | 81 |
-| 4.3.1 | 3 | Dermal Dendritic Cells (dDCs) | 81 |
-| 4.3.2 | 3 | Mast Cells (MCs) | 82 |
-| 4.3.3 | 3 | T Cells | 82 |
-| 4.3.4 | 3 | Macrophages | 83 |
-| 4.3.5 | 3 | Innate Lymphoid Cells | 83 |
-| 4.4 | 2 | Implications of the Skin Immune System in Cosmetic Science | 83 |
-| 4.4.1 | 3 | Contact Dermatitis | 84 |
-| 4.4.2 | 3 | Pathogenesis of Dermatitis | 85 |
-| 4.5 | 2 | Cosmeceuticals Targeting Components of the Skin Immune System | 86 |
-| 4.5.1 | 3 | Hyperpigmentation | 86 |
-| 4.5.2 | 3 | Photoprotection | 87 |
-| 4.6 | 2 | Conclusion | 87 |
+| 4.3 | 2 |[Immunological Composition of the Dermis](4.3.immunological-composition-of-the-dermis.md)| 81 |
+| 4.3.1 | 3 |[Dermal Dendritic Cells (dDCs)](4.3.1.dermal-dendritic-cells-ddcs.md)| 81 |
+| 4.3.2 | 3 |[Mast Cells (MCs)](4.3.2.mast-cells-mcs.md)| 82 |
+| 4.3.3 | 3 |[T Cells](4.3.3.t-cells.md)| 82 |
+| 4.3.4 | 3 |[Macrophages](4.3.4.macrophages.md)| 83 |
+| 4.3.5 | 3 |[Innate Lymphoid Cells](4.3.5.innate-lymphoid-cells.md)| 83 |
+| 4.4 | 2 |[Implications of the Skin Immune System in Cosmetic Science](4.4.implications-of-the-skin-immune-system-in-cosmetic-science.md)| 83 |
+| 4.4.1 | 3 |[Contact Dermatitis](4.4.1.contact-dermatitis.md)| 84 |
+| 4.4.2 | 3 |[Pathogenesis of Dermatitis](4.4.2.pathogenesis-of-dermatitis.md)| 85 |
+| 4.5 | 2 |[Cosmeceuticals Targeting Components of the Skin Immune System](4.5.cosmeceuticals-targeting-components-of-the-skin-immune-system.md)| 86 |
+| 4.5.1 | 3 |[Hyperpigmentation](4.5.1.hyperpigmentation.md)| 86 |
+| 4.5.2 | 3 |[Photoprotection](4.5.2.photoprotection.md)| 87 |
+| 4.6 | 2 |[Conclusion](4.6.conclusion.md)| 87 |
 | 4.7 | 2 | References | 88 |
 | 5 | 1 | The Human Nail: Structure, Properties, Therapy and Grooming | 94 |
 | 5.1 | 2 | Introduction | 94 |

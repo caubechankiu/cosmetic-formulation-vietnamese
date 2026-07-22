@@ -218,6 +218,16 @@
 | Innate immunity | Miễn dịch bẩm sinh |
 | Adaptive immunity | Miễn dịch thích ứng |
 | Immunological composition | Thành phần miễn dịch |
+| Dermal dendritic cell (dDC) | Tế bào tua trung bì (dDC) |
+| Mast cell (MC) | Dưỡng bào (MC) |
+| Tissue-resident memory T cell (T<sub>RM</sub>) | Tế bào T nhớ cư trú mô (T<sub>RM</sub>) |
+| Innate lymphoid cell (ILC) | Tế bào lympho bẩm sinh (ILC) |
+| Contact dermatitis | Viêm da tiếp xúc |
+| Allergic contact dermatitis (ACD) | Viêm da tiếp xúc dị ứng (ACD) |
+| Irritant contact dermatitis (ICD) | Viêm da tiếp xúc kích ứng (ICD) |
+| Photocontact dermatitis | Viêm da do tiếp xúc ánh sáng |
+| Cosmeceutical | Cosmeceutical; mỹ phẩm có lợi ích giống thuốc |
+| Photoprotection | Bảo vệ quang |
 | Cosmeceutical | Dược mỹ phẩm |
 | Contact dermatitis | Viêm da tiếp xúc |
 | Pathogenesis | Cơ chế bệnh sinh |
