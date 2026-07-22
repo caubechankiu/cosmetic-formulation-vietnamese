@@ -197,3 +197,37 @@
 | Hexagonal packing | Kiểu đóng gói lục giác |
 | Phase transition | Chuyển pha |
 | Enthalpy of evaporation | Enthalpy bay hơi |
+| Autosomal recessive congenital ichthyosis | Bệnh vảy cá bẩm sinh di truyền lặn trên nhiễm sắc thể thường |
+| Lesional skin | Vùng da tổn thương |
+| Non-lesional skin | Vùng da không tổn thương |
+| Monounsaturated fatty acid (MUFA) | Acid béo không bão hòa đơn (MUFA) |
+| Ceramide synthase 3 | Ceramide synthase 3 |
+| Cholesterol sulfate | Cholesterol sulfate |
+| Cholesterol sulfatase | Cholesterol sulfatase |
+| Neutron diffraction | Nhiễu xạ neutron |
+| Synthetic ceramide | Ceramide tổng hợp |
+| Degree of unsaturation | Mức độ không bão hòa |
+| Phase-separated crystalline cholesterol domain | Miền cholesterol tinh thể tách pha |
+| Diffusion cell | Tế bào khuếch tán |
+| In vitro permeation study | Phép thử thấm in vitro |
+| Steady-state flux | Flux ở trạng thái ổn định |
+| Permeability | Tính thấm |
+| Polycarbonate filter membrane | Màng lọc polycarbonate |
+| Immunology | Miễn dịch học |
+| Skin immune network | Mạng lưới miễn dịch của da |
+| Innate immunity | Miễn dịch bẩm sinh |
+| Adaptive immunity | Miễn dịch thích ứng |
+| Immunological composition | Thành phần miễn dịch |
+| Cosmeceutical | Dược mỹ phẩm |
+| Contact dermatitis | Viêm da tiếp xúc |
+| Pathogenesis | Cơ chế bệnh sinh |
+| Hyperpigmentation | Tăng sắc tố |
+| Photoprotection | Bảo vệ quang học |
+| Hematopoietic origin | Nguồn gốc tạo máu |
+| Non-hematopoietic origin | Nguồn gốc không tạo máu |
+| Fibroblast | Nguyên bào sợi |
+| Endothelial cell | Tế bào nội mô |
+| Natural killer cell | Tế bào sát thủ tự nhiên |
+| Eosinophil | Bạch cầu ái toan |
+| Monocyte | Bạch cầu đơn nhân |
+| Immune homeostasis | Cân bằng nội môi miễn dịch |

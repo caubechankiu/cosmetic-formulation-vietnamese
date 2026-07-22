@@ -43,13 +43,13 @@
 | 3.1 | 2 | [The Structure and Function of the Stratum Corneum](3.1.the-structure-and-function-of-the-stratum-corneum.md) | 64 |
 | 3.2 | 2 | [Lipid Composition in Human Stratum Corneum](3.2.lipid-composition-in-human-stratum-corneum.md) | 65 |
 | 3.3 | 2 | [The Lipid Organization in Human Stratum Corneum](3.3.the-lipid-organization-in-human-stratum-corneum.md) | 65 |
-| 3.4 | 2 | Lipid Composition and Organization in the Diseased Skin and Dry Skin | 68 |
-| 3.5 | 2 | Lipid Model Systems as a Tool to Examine the Relation between Lipid Composition and Organization in More Detail | 69 |
-| 3.5.1 | 3 | Lipid Model Systems to Elucidate the Lipid Phase Behaviour | 69 |
-| 3.5.2 | 3 | The Stratum Corneum Substitute (SCS) as a Tool to Investigate the Lipid Barrier Function | 70 |
+| 3.4 | 2 | [Lipid Composition and Organization in the Diseased Skin and Dry Skin](3.4.lipid-composition-and-organization-in-the-diseased-skin-and-dry-skin.md) | 68 |
+| 3.5 | 2 | [Lipid Model Systems as a Tool to Examine the Relation between Lipid Composition and Organization in More Detail](3.5.lipid-model-systems-as-a-tool-to-examine-the-relation-between-lipid-composition-and-organization-in-more-detail.md) | 69 |
+| 3.5.1 | 3 | [Lipid Model Systems to Elucidate the Lipid Phase Behaviour](3.5.1.lipid-model-systems-to-elucidate-the-lipid-phase-behaviour.md) | 69 |
+| 3.5.2 | 3 | [The Stratum Corneum Substitute (SCS) as a Tool to Investigate the Lipid Barrier Function](3.5.2.the-stratum-corneum-substitute-scs-as-a-tool-to-investigate-the-lipid-barrier-function.md) | 70 |
 | 3.6 | 2 | References | 72 |
-| 4 | 1 | Immunology of Skin and Reactivity | 78 |
-| 4.1 | 2 | Skin Immune Network | 78 |
+| 4 | 1 | [Immunology of Skin and Reactivity](4.immunology-of-skin-and-reactivity.md) | 78 |
+| 4.1 | 2 | [Skin Immune Network](4.1.skin-immune-network.md) | 78 |
 | 4.2 | 2 | Immunological Composition of the Epidermis | 79 |
 | 4.2.1 | 3 | Keratinocytes | 79 |
 | 4.2.2 | 3 | Keratinocytes in Innate Immunity | 79 |
