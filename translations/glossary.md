@@ -101,6 +101,14 @@
 | Apocrine sweat gland | Tuyến mồ hôi apocrine |
 | Sebum | Bã nhờn |
 | Nail plate | Bản móng |
+| Nail fold | Nếp móng |
+| Nail bed | Giường móng |
+| Nail polish | Sơn móng |
+| Nail polish remover | Nước tẩy sơn móng |
+| Nail permeability | Tính thấm của móng |
+| Nail grooming | Chăm sóc móng |
+| Biophysical characterisation | Đặc trưng lý sinh |
+| Light-cured gel | Gel đóng rắn bằng ánh sáng |
 | Keratinocyte | Tế bào sừng; có thể giữ keratinocyte khi cần phân biệt với corneocyte |
 | Lipophilic | Ưa lipid |
 | Terminal differentiation | Biệt hóa tận cùng |

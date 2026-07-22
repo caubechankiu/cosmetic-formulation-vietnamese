@@ -70,7 +70,7 @@
 | 4.5.2 | 3 |[Photoprotection](4.5.2.photoprotection.md)| 87 |
 | 4.6 | 2 |[Conclusion](4.6.conclusion.md)| 87 |
 | 4.7 | 2 | References | 88 |
-| 5 | 1 | The Human Nail: Structure, Properties, Therapy and Grooming | 94 |
+| 5 | 1 | [The Human Nail: Structure, Properties, Therapy and Grooming](5.the-human-nail-structure-properties-therapy-and-grooming.md) | 94 |
 | 5.1 | 2 | Introduction | 94 |
 | 5.2 | 2 | Nail Structure and Physiology | 95 |
 | 5.3 | 2 | Biophysical Characterisation of the Nail Plate | 96 |

@@ -77,7 +77,7 @@
 | 4.5.2 | 3 |[Photoprotection](#4.5.2.photoprotection)| 87 |
 | 4.6 | 2 |[Conclusion](#4.6.conclusion)| 87 |
 | 4.7 | 2 | References | 88 |
-| 5 | 1 | The Human Nail: Structure, Properties, Therapy and Grooming | 94 |
+| 5 | 1 | [The Human Nail: Structure, Properties, Therapy and Grooming](#5.the-human-nail-structure-properties-therapy-and-grooming) | 94 |
 | 5.1 | 2 | Introduction | 94 |
 | 5.2 | 2 | Nail Structure and Physiology | 95 |
 | 5.3 | 2 | Biophysical Characterisation of the Nail Plate | 96 |
@@ -1867,3 +1867,40 @@ Khoa học mỹ phẩm được thúc đẩy bởi khám phá sinh học, hợp 
 Hiểu rõ miễn dịch da là điều thiết yếu khi thiết kế công thức. Miễn dịch bẩm sinh và thích ứng tạo hàng rào cấu trúc, hóa học và miễn dịch chống tác nhân ngoại lai, với các vai trò khác nhau của bạch cầu ở biểu bì và trung bì. Hệ vi sinh da góp phần duy trì cân bằng da–miễn dịch và có thể trở thành “áp kế vi sinh” theo dõi eczema, vảy nến, rosacea, mụn và lão hóa.
 
 Mọi mỹ phẩm bôi da đều có thể gây viêm da kích ứng hoặc dị ứng; nhà formulation cần lưu ý dị nguyên mới nổi trong thuốc nhuộm, chất bảo quản và hương liệu (năm 2017, alkyl glucoside được bình chọn là Dị nguyên của năm). Miễn dịch da cũng mở ra đích đổi mới cho tăng sắc tố và bảo vệ quang; các nghiên cứu tương lai sẽ tiếp tục nhắm đến ban đỏ, dyschromia và lão hóa do ánh sáng.
+
+---
+
+<a id="5.the-human-nail-structure-properties-therapy-and-grooming"></a>
+
+# 5. Móng người: Cấu trúc, tính chất, điều trị và chăm sóc
+
+Kenneth A. Walters và Majella E. Lane
+
+## Nội dung
+
+- Giới thiệu
+- Cấu trúc và sinh lý móng
+- Đặc trưng lý sinh của bản móng
+  - Quang phổ Raman cận hồng ngoại
+  - Quang phổ phản xạ khuếch tán cận hồng ngoại (NIR-DR)
+  - Quang phổ hấp phụ hơi động và cận hồng ngoại (DVS-NIR)
+  - Quang phổ hồng ngoại biến đổi Fourier với phản xạ toàn phần suy giảm (ATR FTIR)
+  - Quang phổ Raman đồng tiêu (CRS)
+  - Quang phổ hấp thụ nguyên tử (AAS)
+  - Khối phổ plasma cảm ứng (ICP-MS)
+  - Đo bức xạ phát xạ quá độ quang-nhiệt (OTTER)
+  - Chụp cắt lớp quang học kết hợp (OCT)
+  - Kính hiển vi quét laser đồng tiêu (CLSM)
+  - Mất nước qua móng (TOWL)
+- Khai thác đặc tính tính thấm của bản móng
+  - Các phương pháp hiện tại và bằng chứng lâm sàng
+  - Các phương pháp thực nghiệm
+  - Tăng cường hóa học: phá vỡ hàng rào
+  - Tăng cường hóa học: ảnh hưởng của chất dẫn
+- Công thức mỹ phẩm cho móng
+  - Sơn móng
+  - Chế phẩm nhựa acrylate
+  - Gel đóng rắn bằng ánh sáng
+  - Nước tẩy sơn móng
+- Triển vọng và tóm tắt
+- Tài liệu tham khảo
