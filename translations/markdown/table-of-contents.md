@@ -33,16 +33,16 @@
 | 2.3.3 | 3 | [Stratum Corneum Intercellular Lipids](2.3.3.stratum-corneum-intercellular-lipids.md) | 56 |
 | 2.3.4 | 3 | [Stratum Corneum Proteins](2.3.4.stratum-corneum-proteins.md) | 56 |
 | 2.3.5 | 3 | [Desquamation](2.3.5.desquamation.md) | 56 |
-| 2.4 | 2 | Epidermal Repair Mechanisms | 57 |
-| 2.4.1 | 3 | The Effects of Hydration | 57 |
-| 2.4.2 | 3 | Chemical Damage | 58 |
-| 2.4.3 | 3 | Biochemical Abnormalities | 59 |
-| 2.5 | 2 | Concluding Remarks | 59 |
+| 2.4 | 2 | [Epidermal Repair Mechanisms](2.4.epidermal-repair-mechanisms.md) | 57 |
+| 2.4.1 | 3 | [The Effects of Hydration](2.4.1.the-effects-of-hydration.md) | 57 |
+| 2.4.2 | 3 | [Chemical Damage](2.4.2.chemical-damage.md) | 58 |
+| 2.4.3 | 3 | [Biochemical Abnormalities](2.4.3.biochemical-abnormalities.md) | 59 |
+| 2.5 | 2 | [Concluding Remarks](2.5.concluding-remarks.md) | 59 |
 | 2.6 | 2 | References | 59 |
-| 3 | 1 | Stratum Corneum Lipid Composition and Organization | 64 |
-| 3.1 | 2 | The Structure and Function of the Stratum Corneum | 64 |
-| 3.2 | 2 | Lipid Composition in Human Stratum Corneum | 65 |
-| 3.3 | 2 | The Lipid Organization in Human Stratum Corneum | 65 |
+| 3 | 1 | [Stratum Corneum Lipid Composition and Organization](3.stratum-corneum-lipid-composition-and-organization.md) | 64 |
+| 3.1 | 2 | [The Structure and Function of the Stratum Corneum](3.1.the-structure-and-function-of-the-stratum-corneum.md) | 64 |
+| 3.2 | 2 | [Lipid Composition in Human Stratum Corneum](3.2.lipid-composition-in-human-stratum-corneum.md) | 65 |
+| 3.3 | 2 | [The Lipid Organization in Human Stratum Corneum](3.3.the-lipid-organization-in-human-stratum-corneum.md) | 65 |
 | 3.4 | 2 | Lipid Composition and Organization in the Diseased Skin and Dry Skin | 68 |
 | 3.5 | 2 | Lipid Model Systems as a Tool to Examine the Relation between Lipid Composition and Organization in More Detail | 69 |
 | 3.5.1 | 3 | Lipid Model Systems to Elucidate the Lipid Phase Behaviour | 69 |

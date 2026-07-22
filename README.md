@@ -40,16 +40,16 @@
 | 2.3.3 | 3 | [Stratum Corneum Intercellular Lipids](#2.3.3.stratum-corneum-intercellular-lipids) | 56 |
 | 2.3.4 | 3 | [Stratum Corneum Proteins](#2.3.4.stratum-corneum-proteins) | 56 |
 | 2.3.5 | 3 | [Desquamation](#2.3.5.desquamation) | 56 |
-| 2.4 | 2 | Epidermal Repair Mechanisms | 57 |
-| 2.4.1 | 3 | The Effects of Hydration | 57 |
-| 2.4.2 | 3 | Chemical Damage | 58 |
-| 2.4.3 | 3 | Biochemical Abnormalities | 59 |
-| 2.5 | 2 | Concluding Remarks | 59 |
+| 2.4 | 2 | [Epidermal Repair Mechanisms](#2.4.epidermal-repair-mechanisms) | 57 |
+| 2.4.1 | 3 | [The Effects of Hydration](#2.4.1.the-effects-of-hydration) | 57 |
+| 2.4.2 | 3 | [Chemical Damage](#2.4.2.chemical-damage) | 58 |
+| 2.4.3 | 3 | [Biochemical Abnormalities](#2.4.3.biochemical-abnormalities) | 59 |
+| 2.5 | 2 | [Concluding Remarks](#2.5.concluding-remarks) | 59 |
 | 2.6 | 2 | References | 59 |
-| 3 | 1 | Stratum Corneum Lipid Composition and Organization | 64 |
-| 3.1 | 2 | The Structure and Function of the Stratum Corneum | 64 |
-| 3.2 | 2 | Lipid Composition in Human Stratum Corneum | 65 |
-| 3.3 | 2 | The Lipid Organization in Human Stratum Corneum | 65 |
+| 3 | 1 | [Stratum Corneum Lipid Composition and Organization](#3.stratum-corneum-lipid-composition-and-organization) | 64 |
+| 3.1 | 2 | [The Structure and Function of the Stratum Corneum](#3.1.the-structure-and-function-of-the-stratum-corneum) | 64 |
+| 3.2 | 2 | [Lipid Composition in Human Stratum Corneum](#3.2.lipid-composition-in-human-stratum-corneum) | 65 |
+| 3.3 | 2 | [The Lipid Organization in Human Stratum Corneum](#3.3.the-lipid-organization-in-human-stratum-corneum) | 65 |
 | 3.4 | 2 | Lipid Composition and Organization in the Diseased Skin and Dry Skin | 68 |
 | 3.5 | 2 | Lipid Model Systems as a Tool to Examine the Relation between Lipid Composition and Organization in More Detail | 69 |
 | 3.5.1 | 3 | Lipid Model Systems to Elucidate the Lipid Phase Behaviour | 69 |
@@ -1438,3 +1438,128 @@ Trong lớp hạt, desmosome được chuyển đổi thành corneodesmosome hay
 Các bệnh da có vảy và suy giảm chức năng hàng rào có thể là hậu quả của quá trình bong vảy bị rối loạn. Từ lâu, người ta đã biết sự bong vảy liên quan đến quá trình chuyển cholesterol sulfate thành cholesterol (Long và cs., 1985). Bệnh vảy cá liên kết nhiễm sắc thể X, một bệnh có vảy đặc trưng bởi quá trình bong vảy bị rối loạn, được xác định là có liên quan đến sự thiếu hụt enzyme cholesterol sulfatase (Koppe và cs., 1978). Nghiên cứu sau đó của Sato và cs. (1998) cho thấy chứng tăng sừng do desmosome có liên quan đến sự gia tăng hàm lượng cholesterol sulfate ở bệnh nhân vảy cá liên kết nhiễm sắc thể X. Rõ ràng, cholesterol sulfate làm chậm quá trình bong vảy bằng cách hoạt động như một chất ức chế protease serine.
 
 Đột biến gene corneodesmosin có thể dẫn đến hội chứng bong da (Israeli và cs., 2011), còn đột biến gene mã hóa một chất ức chế protease serine có thể gây hội chứng Netherton, với biểu hiện cơ địa dị ứng và bong vảy sớm (Deraison và cs., 2007; Igawa và cs., 2013).
+
+---
+
+<a id="2.4.epidermal-repair-mechanisms"></a>
+
+## 2.4. Cơ chế sửa chữa biểu bì
+
+---
+
+<a id="2.4.1.the-effects-of-hydration"></a>
+
+### 2.4.1. Ảnh hưởng của sự hydrat hóa
+
+Từ lâu, người ta đã biết mức độ hydrat hóa của lớp sừng có thể ảnh hưởng sâu sắc đến các đặc tính hàng rào của lớp này (tổng quan trong Rawlings và Harding, 2004). Các cơ chế tham gia vào quá trình hydrat hóa da vẫn chưa được xác định đầy đủ, mặc dù nhiều khả năng đây là kết quả của sự kết hợp giữa sự hiện diện của các tác nhân hút ẩm — gọi chung là yếu tố giữ ẩm tự nhiên — và sự sắp xếp có trật tự của lipid gian bào (Verdier-Sévrain và Bonté, 2007). Yếu tố giữ ẩm tự nhiên được tạo thành từ quá trình phân giải monomer filaggrin và bao gồm một tập hợp amino acid cùng các dẫn xuất của chúng. Các hợp chất hút ẩm glycerol và urê cũng được tìm thấy trong lớp sừng và đóng vai trò là các chất hút ẩm tự nhiên (Björklund và cs., 2013a,b).
+
+Ở trạng thái bình thường, lớp sừng chứa lượng nước bằng 15–20% khối lượng khô, phần lớn dường như liên kết với keratin nội bào. Sau khi ngâm quá mức, hàm lượng nước trong lớp sừng có thể tăng tới khoảng 400% khối lượng khô. Tế bào sừng trương lên có thể là do hấp thu nhiều nước hơn; lượng nước này sau đó tương tác với keratin và làm giãn rộng cấu trúc không gian của protein. Việc các tế bào sừng của bản móng và tóc không trương lên nhiều như tế bào sừng của lớp sừng sau khi hydrat hóa quá mức cho thấy mức độ tương tác giữa nước và keratin phụ thuộc vào vị trí và độ bền của các liên kết disulfide trong peptide. Vì vậy, khi các sợi keratin xoắn α được sắp xếp lỏng lẻo và linh hoạt hơn, như ở các keratinocyte của lớp sừng, chúng có khả năng thay đổi cấu dạng tốt hơn để dung nạp nước.
+
+Trong lớp sừng được hydrat hóa hoàn toàn, các tế bào sừng trương lên, với các vùng nước chiếm chỗ và tách các sợi keratin khỏi nhau (van Hal và cs., 1996).
+
+Như đã đề cập, các yếu tố giữ ẩm tự nhiên (NMF) có thể chiếm tới 10% khối lượng khô của tế bào sừng và có khả năng hấp thu một lượng lớn nước. Rawlings và cs. (1994) chỉ ra rằng các amino acid được tạo thành khi filaggrin bị phân giải protein cũng chính là tiền chất của yếu tố giữ ẩm tự nhiên. Glutamine được chuyển thành acid pyrrolidone carboxylic — một chất hút ẩm mạnh và là thành phần chính của NMF — trong khi histidine được chuyển thành acid urocanic. Điều thú vị là filaggrin chỉ được chuyển thành NMF khi hoạt độ nước nằm trong khoảng 0,70–0,95; filaggrin ổn định ở hoạt độ nước cao hơn, còn quá trình phân giải protein bị cản trở khi hoạt độ nước thấp. Do đó, trong điều kiện bít kín, mức NMF của lớp sừng giảm xuống gần bằng không và tất cả các tế bào sừng đều chứa filaggrin. Nhờ cơ chế cân bằng nội môi này, da có thể ngăn bản thân bị “hydrat hóa quá mức”.
+
+NMF dường như không hiện diện trong tình trạng da bong vảy khô nghiêm trọng, cũng như trong cả bệnh vảy nến và bệnh vảy cá thông thường. Đột biến gene mã hóa filaggrin đã được chứng minh rõ ràng là nguyên nhân gây ra các bệnh da phổ biến như bệnh vảy cá thông thường (Smith và cs., 2006; Sandilands và cs., 2009). Mối liên hệ giữa các đột biến mất chức năng này — có thể hiện diện ở tới 10% dân số — với chàm cơ địa cũng đã được xác lập (McLean, 2016).
+
+Tóm lại, các quan sát hiện nay cho thấy sự hydrat hóa lớp sừng không làm giảm tổng thể mức độ trật tự của lipid gian bào và chỉ có một lượng nhỏ nước hiện diện trong các vùng đầu phân cực gian bào. Vì vậy, có thể xem xét lại một cơ chế khả dĩ đã được nêu trong một bài tổng quan trước đây để giải thích cách hydrat hóa thúc đẩy hấp thu qua da (Roberts và Walker, 1993). Theo mô hình đó, sự trương nở của keratin tương tự như việc các “viên gạch” trương lên trong mô hình “gạch và vữa” của lớp sừng, làm lớp “vữa” lipid gian bào trở nên lỏng lẻo. Hiệu ứng tổng thể là làm tăng tính linh động của các chuỗi và tăng tính thấm mà không ảnh hưởng đến trật tự sắp xếp lipid.
+
+---
+
+<a id="2.4.2.chemical-damage"></a>
+
+### 2.4.2. Tổn thương hóa học
+
+Khi lớp sừng bị xáo trộn, một số sự kiện sinh hóa khu trú xảy ra, giúp nhanh chóng tái lập chức năng hàng rào (Taljebini và cs., 1996). Do đó, trong những trường hợp lớp sừng bị tổn thương nghiêm trọng như khử lipid do acetone hoặc lột băng dính, quá trình phục hồi dường như diễn ra theo hai pha: một pha sửa chữa nhanh, tiếp theo là một pha bình thường hóa chậm hơn. Pha phục hồi hàng rào nhanh ban đầu bao gồm sự bài tiết tức thời các thể phiến đã hình thành sẵn từ tế bào lớp hạt vào khoảng gian bào, sự gia tăng tổng hợp cholesterol và acid béo ở biểu bì, cũng như sự tăng tốc tạo thành và bài tiết các thể phiến mới vào khoảng gian bào. Pha sửa chữa hàng rào chậm hơn sau đó bao gồm sự gia tăng tổng hợp ceramide và tổng hợp acid deoxyribonucleic, dẫn đến tăng sản biểu bì. Đáng chú ý là sự xáo trộn ban đầu xảy ra ở các lớp ngoài cùng của lớp sừng lại có thể nhanh chóng kích thích các sự kiện sinh hóa trong lớp hạt và các tầng thấp hơn của biểu bì.
+
+Mặc dù chưa rõ cơ chế chính xác kích thích các sự kiện này, từ lâu người ta đã biết sự thay đổi tốc độ mất nước qua biểu bì (TEWL) do những biến đổi của hàng rào gây ra có vai trò nhất định (Grubauer và cs., 1989). Sự gia tăng TEWL này có thể làm thay đổi cục bộ nồng độ của một số ion, chủ yếu là Ca²⁺ ở vùng ngoài của biểu bì (Behne và cs., 2011; Celli và cs., 2016). Ở trạng thái bình thường, lượng Ca²⁺ dự trữ trong lưới nội chất của các tế bào thuộc lớp ngoài biểu bì nhiều hơn so với các lớp trong. Sau khi hàng rào bị phá vỡ, Ca²⁺ được giải phóng, tạo ra sự thay đổi lớn về gradient. Sự thay đổi gradient Ca²⁺ có thể làm tăng bài tiết các thể phiến. Vì vậy, mặc dù vẫn còn nhiều điểm chưa chắc chắn về quá trình sinh hóa của sự sửa chữa hàng rào, nhiều bằng chứng cho thấy nồng độ ion và sự cảm ứng các enzyme tạo lipid giữ vai trò quan trọng.
+
+Sự xáo trộn chức năng hàng rào đôi khi — nhưng không phải luôn luôn — cũng gây ra đáp ứng viêm dẫn đến kích ứng. Cần hiểu rằng “kích ứng” được dùng để mô tả các phản ứng da có thể dao động từ ban đỏ nhẹ, thoáng qua và/hoặc ngứa cho đến hình thành mụn nước nghiêm trọng. Việc thoa chất hoạt động bề mặt natri dodecyl sulfate (SDS) gần như luôn gây ra đáp ứng kích ứng (Patil và cs., 1994; Angelova-Fischer và cs., 2016). SDS xen vào các phiến lipid và làm tăng tính lưu động ở vùng này, dẫn đến tăng TEWL. Hơn nữa, mặc dù các chất hoạt động bề mặt khác như natri laurat và polysorbate có thể làm tăng TEWL đến mức tương tự SDS, kích ứng do chúng gây ra lại nhẹ hơn nhiều và trong một số trường hợp không khác biệt đáng kể so với da không xử lý. Như vậy, kích ứng sau khi tiếp xúc với SDS hẳn phải bắt nguồn từ các yếu tố khác ngoài sự gia tăng vận chuyển nước và kích thích quá trình sinh lipid.
+
+Khả năng gây kích ứng da của các chất hoạt động bề mặt đã được xác lập rõ ràng từ nhiều năm trước (tổng quan trong Prottey, 1978; Basketter và cs., 2008). Người ta cũng biết rõ rằng trong khi chất hoạt động bề mặt ion có thể gây kích ứng nghiêm trọng, chất hoạt động bề mặt không ion được xem là hầu như không gây kích ứng khi sử dụng thông thường. Vì vậy, phần lớn nghiên cứu về kích ứng da do chất hoạt động bề mặt đều khảo sát SDS. Tổng hợp các dữ liệu cho thấy SDS có thể tương tác với cả cấu trúc lipid và protein trong lớp sừng. Như đã đề cập, tương tác với lipid sẽ làm tăng tính lưu động của lipid, qua đó tăng tính thấm của da. Tuy nhiên, riêng tác động này — ngoài việc làm tăng độ thấm của chính SDS — không thể giải thích được kích ứng do SDS gây ra. SDS được biết là có thể thâm nhập vào tế bào sừng và tương tác với cấu trúc protein khiến α-keratin mất cấu trúc xoắn (Imokawa và cs., 1975), nhưng rất khó liên hệ khía cạnh này với đáp ứng kích ứng.
+
+Một cách giải thích hợp lý hơn cho kích ứng do SDS gây ra là khả năng kích thích keratinocyte sản sinh các chất trung gian gây viêm như interleukin 1 và prostaglandin E2. Hiện vẫn chưa rõ sự cảm ứng này có phải là hệ quả thứ phát của một tương tác nào đó giữa SDS và màng tế bào sừng hay không.
+
+---
+
+<a id="2.4.3.biochemical-abnormalities"></a>
+
+### 2.4.3. Bất thường sinh hóa
+
+Có rất nhiều bệnh có thể ảnh hưởng đến chức năng hàng rào biểu bì, nhưng việc xem xét chi tiết từng bệnh nằm ngoài phạm vi của chương này. Một số bệnh ảnh hưởng đến sự hình thành tế bào sừng (“hội chứng gạch vỡ”), trong khi những bệnh khác ảnh hưởng đến lipid gian bào (“hội chứng vữa yếu”). Chẳng hạn, Nemes và Steinert (1999) đề cập đến hơn 10 bệnh khác nhau liên quan đến các gene mã hóa sợi trung gian keratin, trong đó có bệnh Unna–Thost và tylosis. Những bệnh di truyền khác liên quan đến khiếm khuyết ở các gene gắn với protein cấu trúc của bao tế bào sừng hóa hoặc transglutaminase. Ví dụ, một khiếm khuyết di truyền ở *TGM1*, gene mã hóa enzyme transglutaminase I, dẫn đến bệnh vảy cá dạng phiến có thể đe dọa tính mạng.
+
+Sự suy giảm hiệu quả của hàng rào lipid gian bào có thể dẫn đến các rối loạn từ khô da (cạn kiệt lipid do sử dụng chất tẩy rửa quá mức) đến tăng sinh quá mức và tạo vảy bất thường. Các nguyên nhân bao gồm thiếu acid béo thiết yếu, sự lắng đọng bất thường của nhiều loại lipid trong khoảng gian bào, sự tích tụ cholesterol sulfate trong bệnh vảy cá liên kết nhiễm sắc thể X và các khiếm khuyết di truyền về chuyển hóa lipid (ví dụ, bệnh Refsum và hội chứng Sjögren–Larsson lần lượt do thiếu hụt phytanoyl-CoA hydroxylase và aldehyde béo).
+
+---
+
+<a id="2.5.concluding-remarks"></a>
+
+## 2.5. Nhận xét kết luận
+
+Mục đích của chương này là giới thiệu cho người đọc hình thái học cơ bản của da, khái quát các giai đoạn phát triển của lớp hàng rào, xác định các protein chính của lớp sừng và minh họa các cơ chế sửa chữa sau khi hàng rào bị phá vỡ. Có thể thấy rõ rằng da không đơn thuần là một màng hàng rào sinh học mà trên đó các sản phẩm mỹ phẩm khác nhau được thoa trong thời gian dài hoặc ngắn, đồng thời các tác nhân điều trị có thể được đưa vào và vận chuyển xuyên qua màng này. Thay vào đó, da nên được xem là một màng bán thấm có tính chọn lọc rất cao, nằm phía trên một hệ miễn dịch mạnh mẽ luôn sẵn sàng đáp ứng với bất kỳ tác nhân gây tổn thương nào.
+
+---
+
+<a id="3.stratum-corneum-lipid-composition-and-organization"></a>
+
+# 3. Thành phần và tổ chức lipid của lớp sừng
+
+Enamul Haque Mojumdar và Joke A. Bouwstra
+
+## Nội dung
+
+- Cấu trúc và chức năng của lớp sừng
+- Thành phần lipid trong lớp sừng người
+- Tổ chức lipid trong lớp sừng người
+- Thành phần và tổ chức lipid ở da bệnh lý và da khô
+- Các hệ mô hình lipid như một công cụ để khảo sát chi tiết hơn mối quan hệ giữa thành phần và tổ chức lipid
+  - Các hệ mô hình lipid nhằm làm sáng tỏ ứng xử pha lipid
+  - Mô hình thay thế lớp sừng (SCS) như một công cụ để nghiên cứu chức năng hàng rào lipid
+- Tài liệu tham khảo
+
+---
+
+<a id="3.1.the-structure-and-function-of-the-stratum-corneum"></a>
+
+## 3.1. Cấu trúc và chức năng của lớp sừng
+
+Lớp sừng (SC) là một lớp không sống, gồm các tế bào sừng (tế bào chết chứa đầy keratin và nước) nằm trong một ma trận lipid có trật tự cao. Lớp này dày khoảng 10–15 µm và gồm 10–20 lớp tế bào sừng (Holbrook và Odland, 1974; Russell và cs., 2008). Các tế bào sừng có đường kính khoảng 20–30 µm, dày khoảng 0,5 µm và hấp thu nước khi da được hydrat hóa (Bouwstra và cs., 2003). Các tế bào sừng định hướng song song với bề mặt da. Về bản chất, tế bào sừng có tính thấm hạn chế đối với hầu hết các hợp chất do được bao quanh bởi bao tế bào sừng hóa — một lớp protein có mật độ liên kết chéo cao (Simonetti và cs., 1995). Khoảng gian bào giữa các tế bào sừng chứa đầy một ma trận lipid tinh thể. Do bao tế bào sừng hóa có tính thấm thấp, các phân tử được thoa tại chỗ ưu tiên khuếch tán dọc theo ma trận lipid gian bào (Boddé và cs., 1991; Talreja và cs., 2001).
+
+Vì vậy, kiến trúc của SC thường được mô tả bằng cấu trúc “gạch và vữa” giản lược, trong đó tế bào sừng là gạch còn lipid là vữa (Michaels và cs., 1975). Mặc dù các tế bào sừng trong SC là những tế bào chết, dẹt và chứa đầy keratin cùng nước, SC vẫn là một mô động nhờ hoạt tính enzyme cao có khả năng điều hòa: (1) quá trình bong vảy của các tế bào sừng ngoài cùng, (2) sự hình thành bao tế bào sừng hóa trưởng thành và (3) mức độ hydrat hóa trong SC. Mức độ hydrat hóa chịu ảnh hưởng của yếu tố giữ ẩm tự nhiên (NMF), gồm các thành phần như amino acid (đã biến đổi hóa học), glycerol, urê và muối. Một phần các hợp chất NMF là sản phẩm chuyển hóa từ quá trình phân hủy filaggrin, một protein hàng rào quan trọng (O’Regan và cs., 2010). SC đóng vai trò là hàng rào chính chống lại sự xâm nhập của tác nhân gây bệnh và sự thấm xuyên da của các chất (Blank và Scheuplein, 1969; Scheuplein và Blank, 1971; Elias và Menon, 1991; Wertz và van den Bergh, 1998).
+
+Một dược chất có thể thâm nhập qua da theo hai con đường khác nhau: đường qua phần phụ da (vận chuyển qua tuyến mồ hôi, nang tóc và tuyến bã nhờn) và đường xuyên biểu bì. Đường qua phần phụ da chiếm 0,1% tổng diện tích bề mặt da (Barry, 1983). Mặc dù tài liệu chuyên ngành vẫn còn nhiều tranh luận về mức đóng góp của nang tóc đối với sự thấm của các chất, con đường này được xem là ít quan trọng hơn đường xuyên biểu bì trong quá trình thấm qua da. Tùy theo bản chất của phân tử, đường xuyên biểu bì có thể đi theo con đường gian bào hoặc nội bào (xuyên tế bào). Như đã đề cập, bao tế bào sừng hóa hạn chế tối đa sự hấp thu của hầu hết các hợp chất vào tế bào sừng; do đó, con đường nội bào có thể ít nổi bật hơn. Vì lý do này, con đường gian bào quanh co dọc theo ma trận lipid gian bào được cho là một đường thâm nhập quan trọng của hợp chất qua da (Williams và Elias, 1987; Boddé và cs., 1991; Johnson và cs., 1997; Meuwissen và cs., 1998). Các nghiên cứu cho thấy sau khi lipid được chiết xuất, tính thấm của SC tăng lên nhiều lần (Rastogi và Singh, 2001), gợi ý rằng ma trận lipid gian bào thực sự giữ vai trò then chốt trong hàng rào da.
+
+---
+
+<a id="3.2.lipid-composition-in-human-stratum-corneum"></a>
+
+## 3.2. Thành phần lipid trong lớp sừng người
+
+Ma trận lipid gian bào trong SC gồm ba nhóm lipid chính: ceramide (CER), cholesterol (CHOL) và acid béo tự do (FFA). Tỷ lệ giữa các lipid này trong SC người xấp xỉ đồng mol (Wertz và cs., 1985; Robson và cs., 1994; Stewart và Downing, 1999; Weerheim và Ponec, 2001; Ponec và cs., 2003; Masukawa và cs., 2008). Các CER trong SC có kiến trúc phân tử đặc biệt (Hình 3.1). Chúng gồm một chuỗi acyl hydrocarbon dài liên kết với một base sphingoid thông qua liên kết amide. Phần nhóm đầu của base sphingoid có thể khác nhau về cấu trúc; sphingosine (S), phytosphingosine (P), 6-hydroxysphingosine (H) và dihydrosphingosine (dS) là bốn base sphingoid khác nhau. Phần chuỗi acyl cũng biến đổi. Các chuỗi acyl có thể không hydroxyl hóa (N), α-hydroxyl hóa (A) hoặc ω-hydroxyl hóa (O). Loại sau cùng có thể liên kết với một chuỗi acid béo khác (ví dụ linoleate [C18:2]) thông qua một liên kết ester và được gọi là acid béo ω-hydroxy ester hóa (EO). Các phân nhóm EO, còn gọi là acyl-CER, có chuỗi acyl đặc biệt dài — một đặc điểm nổi bật trong lipid của SC. Sự kết hợp giữa các biến thể về kiến trúc chuỗi acyl và các biến thể của nhóm đầu sphingoid tạo ra 12 phân nhóm CER khác nhau. Ba O-CER — tức CER EO không có chuỗi linoleate — cũng được phát hiện ở hàm lượng thấp trong SC (t’Kindt và cs., 2012), nhưng không được thể hiện trong Hình 3.1. Gần đây, hai phân nhóm mới gọi là 1-*O*-acylceramide cũng đã được xác định (Rabionet và cs., 2014). Các CER này chứa chuỗi acyl dài, bão hòa ở cả vị trí N và O, vì vậy chúng lần lượt được đặt tên là CER 1-*O*-ENS và 1-*O*-EAS (chữ E trong tên viết tắt biểu thị FFA bổ sung được ester hóa với CER). Như vậy, cho đến nay đã xác định được 17 phân nhóm CER khác nhau trong SC người (Wertz và cs., 1985; Masukawa và cs., 2008; Ponec và cs., 2003; van Smeden và cs., 2011; Rabionet và cs., 2014; t’Kindt và cs., 2012) (Hình 3.1). Ngoài sự khác biệt về phân nhóm, các CER còn có phân bố rất rộng về tổng chiều dài chuỗi; cụ thể, tổng chiều dài của chuỗi acyl và sphingoid ở người khỏe mạnh được báo cáo là từ 34 đến 72 nguyên tử carbon (Farwanah và cs., 2005a; Masukawa và cs., 2008).
+
+![Cấu trúc phân tử của các ceramide trong lớp sừng người](translations/assets/images/figure-3.1-ceramide-molecular-structures.png)
+
+**Hình 3.1.** Cấu trúc phân tử của các CER hiện diện trong SC người. Có thể phân nhóm CER dựa trên mức độ hydroxyl hóa và ester hóa ở phần acid béo và phần sphingoid như trình bày trong hình.
+
+Đối với FFA, người ta quan sát thấy chiều dài chuỗi biến thiên rất rộng. FFA được ghi nhận trong SC người chủ yếu ở dạng bão hòa, có chiều dài chuỗi từ C14 đến C34 và chiều dài chuỗi trung bình từ C20 đến C22 (Ansari và cs., 1970; Norlén và cs., 1998; Jennemann và cs., 2012; Park và cs., 2012; van Smeden và cs., 2014). Ngoài FFA bão hòa, SC còn chứa hàm lượng thấp FFA không bão hòa (ví dụ acid oleic, acid linoleic) và FFA hydroxy (Ansari và cs., 1970; Bouwstra và cs., 1996; Norlén và cs., 1998).
+
+Bên cạnh CER và FFA, CHOL là một nhóm lipid khác hiện diện với hàm lượng cao. Một số dẫn xuất khác của CHOL, cholesterol sulfate và ester cholesterol cũng hiện diện trong SC, trong đó có những chất chỉ ở hàm lượng vết (Gray và Yardley, 1975; Gray và White, 1978; Yardley và Summerly, 1981).
+
+---
+
+<a id="3.3.the-lipid-organization-in-human-stratum-corneum"></a>
+
+## 3.3. Tổ chức lipid trong lớp sừng người
+
+Ma trận lipid ngoại bào trong SC rất độc đáo và thể hiện trật tự sắp xếp ba chiều đặc biệt của lipid. Lipid được tổ chức thành các chồng phiến, gọi là tổ chức dạng phiến. Các phiến định hướng gần như song song với bề mặt da. Hai pha dạng phiến cùng tồn tại trong ma trận lipid của SC người. Khi khảo sát bằng nhiễu xạ tia X, chiều dài đơn vị lặp của các pha dạng phiến này lần lượt khoảng 13 nm và 6 nm, được gọi tương ứng là pha tuần hoàn dài (LPP) và pha tuần hoàn ngắn (SPP) (Madison và cs., 1987; White và cs., 1988; Bouwstra và cs., 1991; Hatta và cs., 2006) (Hình 3.2, phía trên bên phải). Khác với SPP được sắp xếp theo cấu trúc lớp kép (Mojumdar và cs., 2013), khoảng cách lặp của LPP rất khác thường so với các hệ lipid khác và pha này chỉ được phát hiện trong SC. Điều này gợi ý rằng LPP giữ vai trò then chốt đối với chức năng hàng rào da (Bouwstra, 2000).
+
+![Tổ chức dạng phiến và tổ chức bên của lipid lớp sừng](translations/assets/images/figure-3.2-stratum-corneum-lipid-organization.png)
+
+**Hình 3.2.** Tổ chức lipid của SC. Lipid có thể tập hợp thành hai pha dạng phiến (thể hiện ở phía trên bên phải của hình): LPP có đơn vị lặp (D) khoảng 13 nm và SPP có đơn vị lặp khoảng 6 nm. Tổ chức bên (phía dưới bên phải) mô tả cách lipid trong ma trận lipid được đóng gói trên mặt phẳng vuông góc với hướng của các phiến. Kiểu đóng gói bên có thể là trực thoi (mật độ rất cao), lục giác (mật độ thấp hơn) hoặc lỏng (đóng gói lỏng lẻo), như thể hiện trong hình.
+
+Sự hiện diện của các pha dạng phiến trong SC lần đầu tiên được theo dõi bằng hiển vi điện tử bẻ gãy đông lạnh, nhưng phương pháp này khó khảo sát hướng và sự xếp chồng của lipid (Breathnach và cs., 1973). Sau đó, các dải thấu electron rộng–hẹp–rộng được ghi nhận bằng hiển vi điện tử với bước hậu cố định bằng RuO₄ (Madison và cs., 1987; Hou và cs., 1991). Những nghiên cứu này lần đầu tiên cho thấy các chồng phiến lipid đều đặn giữa các tế bào sừng (Hình 3.3). Nhiễu xạ tia X góc nhỏ (SAXD) đã phát hiện sự hiện diện của LPP với chu kỳ khoảng 13 nm trong SC người, lợn và chuột (White và cs., 1988; Bouwstra và cs., 1991, 1994, 1995). Tổ chức dạng phiến cũng đã được quan sát bằng hiển vi điện tử lạnh. Khoảng cách lặp quan sát được khác với giá trị thu từ nhiễu xạ tia X, nhưng cũng không thể giải thích bằng một cấu trúc lớp kép thông thường (Iwai và cs., 2012).
+
+![Tổ chức dạng phiến quan sát bằng hiển vi điện tử](translations/assets/images/figure-3.3-lamellar-organization-electron-microscopy.png)
+
+**Hình 3.3.** Tổ chức dạng phiến được quan sát bằng hiển vi điện tử bẻ gãy đông lạnh kết hợp nhuộm ruthenium tetroxide.
+
+Tuy nhiên, sự sắp xếp của các pha dạng phiến mới chỉ là tổ chức theo một hướng trong không gian ba chiều. Ở hai chiều còn lại, tức trên mặt phẳng vuông góc với hướng sắp xếp của các pha dạng phiến, lipid tập hợp theo kiểu gọi là tổ chức bên. Không chỉ các pha dạng phiến mà cả tổ chức bên này trong ma trận lipid đều có tầm quan trọng thiết yếu đối với chức năng hàng rào da. Tùy theo thành phần lipid, lipid có thể tạo kiểu đóng gói trực thoi (dày đặc), lục giác (kém dày đặc hơn) hoặc lỏng (lỏng lẻo). Hình 3.2 trình bày sơ đồ ba cách sắp xếp khả dĩ này. Vào đầu thập niên 1990, kiểu đóng gói bên của da người được phát hiện bằng cả nhiễu xạ tia X góc rộng và quang phổ hồng ngoại biến đổi Fourier (FTIR). Lipid chủ yếu tồn tại ở kiểu đóng gói bên trực thoi, cùng một quần thể nhỏ lipid tạo kiểu đóng gói lục giác (Bommannan và cs., 1990; Ongpipattanakul và cs., 1994). Nhiễu xạ tia X khó xác định kiểu đóng gói bên dạng lỏng có cùng tồn tại với kiểu đóng gói tinh thể hay không, vì phản xạ rộng của kiểu đóng gói lỏng bị che khuất bởi các phản xạ từ keratin trong tế bào sừng (Bouwstra và cs., 2001). Điều thú vị là hiện tượng chuyển pha từ trực thoi sang lục giác đã được quan sát ở nhiệt độ chỉ cao hơn nhiệt độ da, trong khoảng 30–45°C và còn phụ thuộc vào hàm lượng nước trong SC. Do kiểu đóng gói lục giác đã được chứng minh là tạo ra giá trị mất nước qua biểu bì (TEWL) cao hơn kiểu đóng gói trực thoi, đây là một quan sát rất đáng chú ý (Damien và Boncheva, 2009). Nhiệt độ môi trường tăng có thể gây ra quá trình chuyển pha này, làm tăng mất nước và qua đó tiêu thụ một lượng đáng kể năng lượng tự do — chính xác hơn là enthalpy bay hơi — có thể góp phần duy trì thân nhiệt ngay cả trong môi trường nhiệt độ cao.

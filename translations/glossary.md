@@ -138,3 +138,62 @@
 | Hyperkeratosis | Chứng tăng sừng |
 | Peeling skin syndrome | Hội chứng bong da |
 | Netherton syndrome | Hội chứng Netherton |
+| Epidermal repair mechanisms | Cơ chế sửa chữa biểu bì |
+| Hydration | Sự hydrat hóa |
+| Natural moisturising factor (NMF) | Yếu tố giữ ẩm tự nhiên (NMF) |
+| Hygroscopic agent | Tác nhân hút ẩm |
+| Humectant | Chất hút ẩm |
+| Water activity | Hoạt độ nước |
+| Occlusive conditions | Điều kiện bít kín |
+| Percutaneous absorption | Hấp thu qua da |
+| Ichthyosis vulgaris | Bệnh vảy cá thông thường |
+| Chemical damage | Tổn thương hóa học |
+| Tape stripping | Lột băng dính |
+| Lamellar body | Thể phiến |
+| Transepidermal water loss (TEWL) | Mất nước qua biểu bì (TEWL) |
+| Irritation | Kích ứng |
+| Sodium dodecyl sulfate (SDS) | Natri dodecyl sulfate (SDS) |
+| Biochemical abnormalities | Bất thường sinh hóa |
+| Broken brick syndrome | Hội chứng gạch vỡ |
+| Weak mortar syndrome | Hội chứng vữa yếu |
+| Lamellar ichthyosis | Bệnh vảy cá dạng phiến |
+| Essential fatty acid deficiency | Thiếu acid béo thiết yếu |
+| Hyperproliferation | Tăng sinh quá mức |
+| Concluding remarks | Nhận xét kết luận |
+| Semipermeable membrane | Màng bán thấm |
+| Lipid organization | Tổ chức lipid |
+| Lipid model system | Hệ mô hình lipid |
+| Lipid phase behaviour | Ứng xử pha lipid |
+| Stratum corneum substitute (SCS) | Mô hình thay thế lớp sừng (SCS) |
+| Lipid barrier function | Chức năng hàng rào lipid |
+| Lipid matrix | Ma trận lipid |
+| Transappendage route | Đường qua phần phụ da |
+| Transepidermal route | Đường xuyên biểu bì |
+| Transcellular pathway | Con đường xuyên tế bào |
+| Barrier protein | Protein hàng rào |
+| Ceramide (CER) | Ceramide (CER) |
+| Cholesterol (CHOL) | Cholesterol (CHOL) |
+| Free fatty acid (FFA) | Acid béo tự do (FFA) |
+| Equimolar | Đồng mol |
+| Acyl chain | Chuỗi acyl |
+| Sphingoid base | Base sphingoid |
+| Amide linkage | Liên kết amide |
+| Esterification | Ester hóa |
+| Saturated fatty acid | Acid béo bão hòa |
+| Unsaturated fatty acid | Acid béo không bão hòa |
+| Trace amount | Hàm lượng vết |
+| Lamellar organization | Tổ chức dạng phiến |
+| Lamellar phase | Pha dạng phiến |
+| Long periodicity phase (LPP) | Pha tuần hoàn dài (LPP) |
+| Short periodicity phase (SPP) | Pha tuần hoàn ngắn (SPP) |
+| Repeat distance | Khoảng cách lặp |
+| Bilayer structure | Cấu trúc lớp kép |
+| Freeze-fracture electron microscopy | Hiển vi điện tử bẻ gãy đông lạnh |
+| Small-angle X-ray diffraction (SAXD) | Nhiễu xạ tia X góc nhỏ (SAXD) |
+| Wide-angle X-ray diffraction | Nhiễu xạ tia X góc rộng |
+| Lateral organization | Tổ chức bên |
+| Lateral packing | Kiểu đóng gói bên |
+| Orthorhombic packing | Kiểu đóng gói trực thoi |
+| Hexagonal packing | Kiểu đóng gói lục giác |
+| Phase transition | Chuyển pha |
+| Enthalpy of evaporation | Enthalpy bay hơi |
