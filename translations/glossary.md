@@ -28,3 +28,8 @@
 | Aromacology | Aromacology; lĩnh vực nghiên cứu ảnh hưởng của mùi hương lên cảm xúc/hành vi |
 | Neuromarketing | Neuromarketing; marketing thần kinh khi cần diễn giải |
 | Synesthesia | Cảm giác kèm |
+| Concordance/discordance | Tính nhất quán/không nhất quán giữa kích thích và đáp ứng |
+| Conditioning agent | Tác nhân dưỡng tóc |
+| Gaze point | Điểm nhìn |
+| Inflection point | Điểm uốn của đường cong đáp ứng |
+| Creaminess | Độ béo mịn |

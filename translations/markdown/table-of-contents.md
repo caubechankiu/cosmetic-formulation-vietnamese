@@ -17,8 +17,8 @@
 | 1.5.1 | 3 | [Explicit Evaluation vs. Implicit Evaluation](1.5.1.explicit-evaluation-vs-implicit-evaluation.md) | 32 |
 | 1.5.2 | 3 | [Neuroscience Techniques Applied in the Formulation Stage](1.5.2.neuroscience-techniques-applied-in-the-formulation-stage.md) | 33 |
 | 1.5.3 | 3 | [Examples of Eye-Tracking Application](1.5.3.examples-of-eye-tracking-application.md) | 33 |
-| 1.5.4 | 3 | Examples of Eye-Tracking and EEG Application in Hair Care Products | 40 |
-| 1.6 | 2 | Synesthesia in Design | 40 |
+| 1.5.4 | 3 | [Examples of Eye-Tracking and EEG Application in Hair Care Products](1.5.4.examples-of-eye-tracking-and-eeg-application-in-hair-care-products.md) | 40 |
+| 1.6 | 2 | [Synesthesia in Design](1.6.synesthesia-in-design.md) | 40 |
 | 1.7 | 2 | References | 44 |
 | 2 | 1 | Skin Morphology, Development and Physiology | 46 |
 | 2.1 | 2 | Introduction | 46 |

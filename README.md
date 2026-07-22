@@ -24,8 +24,8 @@
 | 1.5.1 | 3 | [Explicit Evaluation vs. Implicit Evaluation](#1.5.1.explicit-evaluation-vs-implicit-evaluation) | 32 |
 | 1.5.2 | 3 | [Neuroscience Techniques Applied in the Formulation Stage](#1.5.2.neuroscience-techniques-applied-in-the-formulation-stage) | 33 |
 | 1.5.3 | 3 | [Examples of Eye-Tracking Application](#1.5.3.examples-of-eye-tracking-application) | 33 |
-| 1.5.4 | 3 | Examples of Eye-Tracking and EEG Application in Hair Care Products | 40 |
-| 1.6 | 2 | Synesthesia in Design | 40 |
+| 1.5.4 | 3 | [Examples of Eye-Tracking and EEG Application in Hair Care Products](#1.5.4.examples-of-eye-tracking-and-eeg-application-in-hair-care-products) | 40 |
+| 1.6 | 2 | [Synesthesia in Design](#1.6.synesthesia-in-design) | 40 |
 | 1.7 | 2 | References | 44 |
 | 2 | 1 | Skin Morphology, Development and Physiology | 46 |
 | 2.1 | 2 | Introduction | 46 |
@@ -1139,3 +1139,65 @@ Phương pháp luận về sự nhất quán cũng có thể được áp dụng
 ![Hình 1.24. Ví dụ về kết quả đọc eye-tracking trong đánh giá mẫu.](translations/assets/images/figure-1.24-eye-tracking-readings-sample-evaluation.png)
 
 **Hình 1.24. Ví dụ về kết quả đọc eye-tracking trong đánh giá mẫu.** Ảnh do *Cosmetics & Toiletries* cung cấp.
+
+---
+
+<a id="1.5.4.examples-of-eye-tracking-and-eeg-application-in-hair-care-products"></a>
+
+### 1.5.4 Ví dụ ứng dụng eye-tracking và EEG trong sản phẩm chăm sóc tóc
+
+Chăm sóc tóc là một ngành hàng mà việc ứng dụng các kỹ thuật thần kinh học cũng rất thú vị. Chúng tôi đã áp dụng phương pháp luận nhất quán/không nhất quán để đánh giá hiệu năng của các tác nhân dưỡng tóc (Guzmán và Jiménez, 2016). Trong trường hợp này, tính nhất quán liên quan đến những hình ảnh cho thấy tóc ở tình trạng rất tốt và những hình ảnh cho thấy tóc ở tình trạng kém (trước đó tóc đã được gội bằng dung dịch SLS 15%), như minh họa ở Hình 1.25. Hình 1.26 trình bày một ví dụ về kết quả đọc đối với hai tác nhân dưỡng tóc khác nhau. Trong trường hợp này, hiệu năng được thể hiện qua vùng bao phủ của ánh nhìn nhỏ hơn bởi các điểm nhìn.
+
+![Hình 1.25. Hình ảnh dùng để hiệu chuẩn phép thử đánh giá sản phẩm dưỡng tóc.](translations/assets/images/figure-1.25-hair-conditioning-calibration.png)
+
+*Hình 1.25. Hình ảnh dùng để hiệu chuẩn phép thử đánh giá sản phẩm dưỡng tóc.*
+
+Trong ví dụ này, kết quả đo điện não đồ cho phép chúng ta biết những động lực mà các panelist cảm nhận khi đối diện với các kích thích. Hình 1.27 cho thấy một ví dụ về đường cong đáp ứng tại thời điểm panelist chải các lọn tóc sau khi thoa sản phẩm. Có thể thấy công thức nào trong nghiên cứu tạo ra nhiều hứng thú và mức độ gắn kết hơn, cũng như công thức nào làm giảm mức độ thất vọng của người tiêu dùng khi đánh giá hiệu năng công thức. Trong phương pháp này, việc phân tích các điểm uốn (điểm 1 và 2 trong hình) rất quan trọng, vì đây là ví dụ rõ ràng về sự thay đổi tức thời trong nhận thức. Kiểu đánh giá này giúp chúng ta hiểu sâu hơn công thức nào có hiệu năng tốt hơn, từ đó phần nào bảo đảm công thức đó sẽ được đánh giá tốt hơn trong nghiên cứu hiệu quả lâm sàng hoặc da liễu tiếp theo, hay trong phép thử với người tiêu dùng.
+
+![Hình 1.26. Ví dụ về kết quả eye-tracking đối với mẫu đối chứng.](translations/assets/images/figure-1.26-eye-tracking-hair-controls.png)
+
+*Hình 1.26. Ví dụ về kết quả eye-tracking đối với mẫu đối chứng.*
+
+![Hình 1.27. Ví dụ về đường cong EEG tại thời điểm chải tóc.](translations/assets/images/figure-1.27-eeg-combing-curve.png)
+
+*Hình 1.27. Ví dụ về đường cong EEG tại thời điểm chải tóc.*
+
+---
+
+<a id="1.6.synesthesia-in-design"></a>
+
+## 1.6 Cảm giác kèm trong thiết kế
+
+Nguồn gốc thuật ngữ *synesthesia* là sự kết hợp của hai từ Hy Lạp có nghĩa là “cùng nhau” và “cảm giác”; vì vậy, thuật ngữ này được hiểu là sự cảm nhận cùng một kích thích bằng hai giác quan khác nhau. Cảm giác kèm tìm cách hòa trộn cảm giác của các giác quan khác nhau, đôi khi cả cảm xúc, và vì thế đã được sử dụng rộng rãi trong âm nhạc, hội họa, văn học và các ẩn dụ thi ca:
+
+- Những cụm từ trong ngôn ngữ hằng ngày như “cái lạnh đắng”, “giấy dán tường ồn ào”, “nụ cười ấm áp”, “vuốt ve ngọt ngào”.
+- “Không có màu sắc, anh không nghe thấy gì. Anh lấp đầy những cuốn sổ bằng âm thanh của màu vàng và đỏ” trong tiểu thuyết *The Sound of Blue* của Holly Payne.
+- Trái tim người phụ nữ được tạo ra để “uống thứ thuốc nhợt nhạt của im lặng” trong tác phẩm *Modern Love* của George Meredith.
+- “Tên em có vị như cỏ” trong bài hát “Tu nombre me sabe a yerba” của Joan Manuel Serrat.
+
+Cảm giác kèm là một tình trạng trong đó những trải nghiệm liên quan đến nhận thức, chẳng hạn màu sắc hoặc vị giác, được gây ra bởi các kích thích vốn thường không gắn với trải nghiệm đó. Trải nghiệm cảm giác kèm có ba đặc điểm: được khơi gợi bởi một kích thích, là những nhận thức có ý thức và xảy ra tự động (Stein, 2012).
+
+Nhiều nghiên cứu thú vị về cảm giác kèm đã được thực hiện trong lĩnh vực khoa học thực phẩm. Chẳng hạn, Spence đã xây dựng một khối lượng lớn tài liệu về nhận thức đa cảm quan, đặc biệt trong ứng dụng cho thực phẩm và đồ uống (Zampini và Spence, 2012; Velasco và cs., 2018). Ông đã đánh giá vai trò của tín hiệu thị giác và thính giác trong nhận thức đa cảm quan về hương vị; ví dụ, âm thanh tần số cao và hình dạng cong có thể làm tăng độ ngọt cảm nhận của thực phẩm, và rượu vang có thể được cảm nhận ngon hơn nếu trước đó người dùng nghe tiếng mở nút chai. Việc huy động nhiều giác quan cùng lúc có lợi vì hoạt động não tăng lên, khiến trải nghiệm trở nên thỏa mãn hơn.
+
+Reinoso Carvalho và cs. (2017) nghiên cứu tác động của một số âm thanh trong việc cải thiện các thuộc tính của những hương vị cơ bản. Người tham gia (65 nữ và 51 nam) đánh giá độ béo mịn của hai mẫu sô-cô-la (không biết rằng hai mẫu giống hệt nhau) khi nghe các nhạc nền khác nhau. Họ cảm nhận sô-cô-la có độ béo mịn và độ ngọt cao hơn khi nghe nhạc nền “béo mịn” (các nốt flute dài, hòa âm thuận), được xác định là “béo mịn”, so với nhạc nền “thô ráp” (các câu violin pizzicato ngắn).
+
+Có một số ví dụ khá lạ, liên quan đến sản phẩm mỹ phẩm, về việc áp dụng các khái niệm cảm giác kèm. Chẳng hạn, Hotel Café Royal nổi tiếng từng có một thực đơn cocktail lấy cảm hứng từ và có vị giống một số nốt hương thơm nhất của nước hoa cao cấp (LuxuryLaunches, 2016); còn tại Bart’s bar ở London, cocktail được pha cùng những nốt hương đặc trưng, đồng thời các nốt hương này có thể ăn được và giúp cải thiện tâm trạng (Eysenck, 2016).
+
+Cảm giác kèm thúc đẩy chúng ta suy nghĩ khác đi. Bảng 1.13 trình bày một số ý tưởng thiết kế sản phẩm có thể khai thác theo khái niệm cảm giác kèm.
+
+| Nhóm | Ví dụ về khái niệm cảm giác kèm |
+|---|---|
+| Emulsion | Có thể phát triển kết cấu của opera không? |
+| Hương thơm | Có thể phát triển một hương thơm có mùi như nhạc rock không? |
+| Dầu gội | Có thể phát triển công thức dầu gội dựa trên một bài hát không? |
+| Hương thơm | Có thể phát triển một hương thơm ăn được, có vị như quế không? |
+| Chống lão hóa | Có thể phát triển một sản phẩm chống lão hóa gợi nhớ đến ẩm thực Pháp không? |
+| Hương thơm | Có thể chuyển nhịp điệu của một điệu nhảy Mỹ Latinh điển hình thành một nốt hương không? |
+| Chăm sóc cơ thể | Có thể phát triển kết cấu cho phép người ta chạm vào những bản nhạc phương Đông không? |
+| Chống nắng | Có thể phát triển công thức dựa trên tính cách không: công thức vui vẻ, lạc quan hay u sầu? |
+
+*Bảng 1.13. Ý tưởng sản phẩm theo cách tiếp cận cảm giác kèm.*
+
+Các phương pháp đánh giá ngầm định phù hợp nhất để thiết kế các phép thử cảm giác kèm. Trong một nghiên cứu gần đây (Guzmán và Jimenez, 2018), chúng tôi cho thấy âm nhạc, cụ thể là *Bốn mùa* của Vivaldi, có thể làm thay đổi nhận thức về một số nốt hương nhất định, vì mỗi mùa có nhịp độ khác nhau và gắn với những cảm giác, cảm xúc khác nhau. Chúng tôi cho thấy những nốt nhạc này có thể làm thay đổi nhận thức cảm quan về độ ẩm và độ mềm của các công thức kem giống hệt nhau. Khi bốn công thức khác nhau được đánh giá theo từng mùa, hệ phân tán silicone được xếp hạng tốt nhất ở mùa “Hạ” (nhịp nhanh gợi lên sự căng thẳng và sức mạnh); hệ phân tán petrolatum và một emulsion được đánh giá đồng hạng tốt nhất ở mùa “Thu” (nhịp vừa phải gợi lên sự bình thản); trong khi công thức hydrogel lỏng được đánh giá tốt nhất ở mùa “Đông” (nhịp chậm gợi sự chiêm nghiệm). Các tác giả cũng chứng minh cảm giác kèm ngửi–nghe với sáu hương thơm và âm nhạc, cùng cảm giác kèm nếm–chạm giữa sô-cô-la và các công thức dùng trên da.
+
+Việc sử dụng thiết kế cảm giác kèm trong công thức mỹ phẩm mở ra một thế giới phát triển hoàn toàn mới. Việc áp dụng các phương pháp thần kinh học sẽ tiếp tục giữ vai trò quan trọng trong phát triển những phương pháp đánh giá mới cho sản phẩm mỹ phẩm, cho phép nhà khoa học mỹ phẩm thiết kế sản phẩm hướng đến trải nghiệm đa cảm quan và định lượng trải nghiệm đó. Sau cùng, điều này sẽ tối ưu hóa trải nghiệm người tiêu dùng và tiếp tục thúc đẩy đổi mới cũng như thành công trong phát triển sản phẩm mỹ phẩm.
