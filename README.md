@@ -1152,11 +1152,11 @@ Chăm sóc tóc là một ngành hàng mà việc ứng dụng các kỹ thuật
 
 *Hình 1.25. Hình ảnh dùng để hiệu chuẩn phép thử đánh giá sản phẩm dưỡng tóc.*
 
-Trong ví dụ này, kết quả đo điện não đồ cho phép chúng ta biết những động lực mà các panelist cảm nhận khi đối diện với các kích thích. Hình 1.27 cho thấy một ví dụ về đường cong đáp ứng tại thời điểm panelist chải các lọn tóc sau khi thoa sản phẩm. Có thể thấy công thức nào trong nghiên cứu tạo ra nhiều hứng thú và mức độ gắn kết hơn, cũng như công thức nào làm giảm mức độ thất vọng của người tiêu dùng khi đánh giá hiệu năng công thức. Trong phương pháp này, việc phân tích các điểm uốn (điểm 1 và 2 trong hình) rất quan trọng, vì đây là ví dụ rõ ràng về sự thay đổi tức thời trong nhận thức. Kiểu đánh giá này giúp chúng ta hiểu sâu hơn công thức nào có hiệu năng tốt hơn, từ đó phần nào bảo đảm công thức đó sẽ được đánh giá tốt hơn trong nghiên cứu hiệu quả lâm sàng hoặc da liễu tiếp theo, hay trong phép thử với người tiêu dùng.
-
 ![Hình 1.26. Ví dụ về kết quả eye-tracking đối với mẫu đối chứng.](translations/assets/images/figure-1.26-eye-tracking-hair-controls.png)
 
 *Hình 1.26. Ví dụ về kết quả eye-tracking đối với mẫu đối chứng.*
+
+Trong ví dụ này, kết quả đo điện não đồ cho phép chúng ta biết những động lực mà các panelist cảm nhận khi đối diện với các kích thích. Hình 1.27 cho thấy một ví dụ về đường cong đáp ứng tại thời điểm panelist chải các lọn tóc sau khi thoa sản phẩm. Có thể thấy công thức nào trong nghiên cứu tạo ra nhiều hứng thú và mức độ gắn kết hơn, cũng như công thức nào làm giảm mức độ thất vọng của người tiêu dùng khi đánh giá hiệu năng công thức. Trong phương pháp này, việc phân tích các điểm uốn (điểm 1 và 2 trong hình) rất quan trọng, vì đây là ví dụ rõ ràng về sự thay đổi tức thời trong nhận thức. Kiểu đánh giá này giúp chúng ta hiểu sâu hơn công thức nào có hiệu năng tốt hơn, từ đó phần nào bảo đảm công thức đó sẽ được đánh giá tốt hơn trong nghiên cứu hiệu quả lâm sàng hoặc da liễu tiếp theo, hay trong phép thử với người tiêu dùng.
 
 ![Hình 1.27. Ví dụ về đường cong EEG tại thời điểm chải tóc.](translations/assets/images/figure-1.27-eeg-combing-curve.png)
 
