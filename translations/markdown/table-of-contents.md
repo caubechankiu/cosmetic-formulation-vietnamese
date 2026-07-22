@@ -20,19 +20,19 @@
 | 1.5.4 | 3 | [Examples of Eye-Tracking and EEG Application in Hair Care Products](1.5.4.examples-of-eye-tracking-and-eeg-application-in-hair-care-products.md) | 40 |
 | 1.6 | 2 | [Synesthesia in Design](1.6.synesthesia-in-design.md) | 40 |
 | 1.7 | 2 | References | 44 |
-| 2 | 1 | Skin Morphology, Development and Physiology | 46 |
-| 2.1 | 2 | Introduction | 46 |
-| 2.2 | 2 | Structure of the Skin | 47 |
-| 2.2.1 | 3 | The Epidermis | 48 |
-| 2.2.2 | 3 | The Dermis | 52 |
-| 2.2.3 | 3 | The Subcutis | 53 |
-| 2.2.4 | 3 | Skin Appendages | 53 |
-| 2.3 | 2 | Development of the Stratum Corneum | 54 |
-| 2.3.1 | 3 | Epidermal Differentiation | 54 |
-| 2.3.2 | 3 | Cornified Cell Envelope | 55 |
-| 2.3.3 | 3 | Stratum Corneum Intercellular Lipids | 56 |
-| 2.3.4 | 3 | Stratum Corneum Proteins | 56 |
-| 2.3.5 | 3 | Desquamation | 56 |
+| 2 | 1 | [Skin Morphology, Development and Physiology](2.skin-morphology-development-and-physiology.md) | 46 |
+| 2.1 | 2 | [Introduction](2.1.introduction.md) | 46 |
+| 2.2 | 2 | [Structure of the Skin](2.2.structure-of-the-skin.md) | 47 |
+| 2.2.1 | 3 | [The Epidermis](2.2.1.the-epidermis.md) | 48 |
+| 2.2.2 | 3 | [The Dermis](2.2.2.the-dermis.md) | 52 |
+| 2.2.3 | 3 | [The Subcutis](2.2.3.the-subcutis.md) | 53 |
+| 2.2.4 | 3 | [Skin Appendages](2.2.4.skin-appendages.md) | 53 |
+| 2.3 | 2 | [Development of the Stratum Corneum](2.3.development-of-the-stratum-corneum.md) | 54 |
+| 2.3.1 | 3 | [Epidermal Differentiation](2.3.1.epidermal-differentiation.md) | 54 |
+| 2.3.2 | 3 | [Cornified Cell Envelope](2.3.2.cornified-cell-envelope.md) | 55 |
+| 2.3.3 | 3 | [Stratum Corneum Intercellular Lipids](2.3.3.stratum-corneum-intercellular-lipids.md) | 56 |
+| 2.3.4 | 3 | [Stratum Corneum Proteins](2.3.4.stratum-corneum-proteins.md) | 56 |
+| 2.3.5 | 3 | [Desquamation](2.3.5.desquamation.md) | 56 |
 | 2.4 | 2 | Epidermal Repair Mechanisms | 57 |
 | 2.4.1 | 3 | The Effects of Hydration | 57 |
 | 2.4.2 | 3 | Chemical Damage | 58 |

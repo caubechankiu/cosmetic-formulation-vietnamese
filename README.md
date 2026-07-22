@@ -27,19 +27,19 @@
 | 1.5.4 | 3 | [Examples of Eye-Tracking and EEG Application in Hair Care Products](#1.5.4.examples-of-eye-tracking-and-eeg-application-in-hair-care-products) | 40 |
 | 1.6 | 2 | [Synesthesia in Design](#1.6.synesthesia-in-design) | 40 |
 | 1.7 | 2 | References | 44 |
-| 2 | 1 | Skin Morphology, Development and Physiology | 46 |
-| 2.1 | 2 | Introduction | 46 |
-| 2.2 | 2 | Structure of the Skin | 47 |
-| 2.2.1 | 3 | The Epidermis | 48 |
-| 2.2.2 | 3 | The Dermis | 52 |
-| 2.2.3 | 3 | The Subcutis | 53 |
-| 2.2.4 | 3 | Skin Appendages | 53 |
-| 2.3 | 2 | Development of the Stratum Corneum | 54 |
-| 2.3.1 | 3 | Epidermal Differentiation | 54 |
-| 2.3.2 | 3 | Cornified Cell Envelope | 55 |
-| 2.3.3 | 3 | Stratum Corneum Intercellular Lipids | 56 |
-| 2.3.4 | 3 | Stratum Corneum Proteins | 56 |
-| 2.3.5 | 3 | Desquamation | 56 |
+| 2 | 1 | [Skin Morphology, Development and Physiology](#2.skin-morphology-development-and-physiology) | 46 |
+| 2.1 | 2 | [Introduction](#2.1.introduction) | 46 |
+| 2.2 | 2 | [Structure of the Skin](#2.2.structure-of-the-skin) | 47 |
+| 2.2.1 | 3 | [The Epidermis](#2.2.1.the-epidermis) | 48 |
+| 2.2.2 | 3 | [The Dermis](#2.2.2.the-dermis) | 52 |
+| 2.2.3 | 3 | [The Subcutis](#2.2.3.the-subcutis) | 53 |
+| 2.2.4 | 3 | [Skin Appendages](#2.2.4.skin-appendages) | 53 |
+| 2.3 | 2 | [Development of the Stratum Corneum](#2.3.development-of-the-stratum-corneum) | 54 |
+| 2.3.1 | 3 | [Epidermal Differentiation](#2.3.1.epidermal-differentiation) | 54 |
+| 2.3.2 | 3 | [Cornified Cell Envelope](#2.3.2.cornified-cell-envelope) | 55 |
+| 2.3.3 | 3 | [Stratum Corneum Intercellular Lipids](#2.3.3.stratum-corneum-intercellular-lipids) | 56 |
+| 2.3.4 | 3 | [Stratum Corneum Proteins](#2.3.4.stratum-corneum-proteins) | 56 |
+| 2.3.5 | 3 | [Desquamation](#2.3.5.desquamation) | 56 |
 | 2.4 | 2 | Epidermal Repair Mechanisms | 57 |
 | 2.4.1 | 3 | The Effects of Hydration | 57 |
 | 2.4.2 | 3 | Chemical Damage | 58 |
@@ -1201,3 +1201,240 @@ Cảm giác kèm thúc đẩy chúng ta suy nghĩ khác đi. Bảng 1.13 trình 
 Các phương pháp đánh giá ngầm định phù hợp nhất để thiết kế các phép thử cảm giác kèm. Trong một nghiên cứu gần đây (Guzmán và Jimenez, 2018), chúng tôi cho thấy âm nhạc, cụ thể là *Bốn mùa* của Vivaldi, có thể làm thay đổi nhận thức về một số nốt hương nhất định, vì mỗi mùa có nhịp độ khác nhau và gắn với những cảm giác, cảm xúc khác nhau. Chúng tôi cho thấy những nốt nhạc này có thể làm thay đổi nhận thức cảm quan về độ ẩm và độ mềm của các công thức kem giống hệt nhau. Khi bốn công thức khác nhau được đánh giá theo từng mùa, hệ phân tán silicone được xếp hạng tốt nhất ở mùa “Hạ” (nhịp nhanh gợi lên sự căng thẳng và sức mạnh); hệ phân tán petrolatum và một emulsion được đánh giá đồng hạng tốt nhất ở mùa “Thu” (nhịp vừa phải gợi lên sự bình thản); trong khi công thức hydrogel lỏng được đánh giá tốt nhất ở mùa “Đông” (nhịp chậm gợi sự chiêm nghiệm). Các tác giả cũng chứng minh cảm giác kèm ngửi–nghe với sáu hương thơm và âm nhạc, cùng cảm giác kèm nếm–chạm giữa sô-cô-la và các công thức dùng trên da.
 
 Việc sử dụng thiết kế cảm giác kèm trong công thức mỹ phẩm mở ra một thế giới phát triển hoàn toàn mới. Việc áp dụng các phương pháp thần kinh học sẽ tiếp tục giữ vai trò quan trọng trong phát triển những phương pháp đánh giá mới cho sản phẩm mỹ phẩm, cho phép nhà khoa học mỹ phẩm thiết kế sản phẩm hướng đến trải nghiệm đa cảm quan và định lượng trải nghiệm đó. Sau cùng, điều này sẽ tối ưu hóa trải nghiệm người tiêu dùng và tiếp tục thúc đẩy đổi mới cũng như thành công trong phát triển sản phẩm mỹ phẩm.
+
+---
+
+<a id="2.skin-morphology-development-and-physiology"></a>
+
+# 2. Hình thái học, sự phát triển và sinh lý học của da
+
+Kenneth A. Walters và Michael S. Roberts
+
+## Nội dung
+
+- Giới thiệu
+- Cấu trúc da
+  - Biểu bì
+  - Trung bì
+  - Mô dưới da
+  - Các phần phụ của da
+- Sự phát triển của lớp sừng
+  - Biệt hóa biểu bì
+  - Bao tế bào sừng hóa
+  - Lipid gian bào của lớp sừng
+  - Protein lớp sừng
+  - Bong vảy
+- Cơ chế sửa chữa biểu bì
+  - Ảnh hưởng của sự hydrat hóa
+  - Tổn thương hóa học
+  - Bất thường sinh hóa
+- Nhận xét kết luận
+- Tài liệu tham khảo
+
+---
+
+<a id="2.1.introduction"></a>
+
+## 2.1. Giới thiệu
+
+Da là cơ quan lớn nhất của cơ thể, chiếm hơn 10% khối lượng cơ thể và cũng là cơ quan giúp cơ thể tương tác mật thiết nhất với môi trường. Hình 2.1 minh họa cấu trúc da dưới dạng sơ đồ.
+
+![Sơ đồ da người toàn bộ chiều dày](translations/assets/images/figure-2.1-full-thickness-human-skin.png)
+
+**Hình 2.1.** Sơ đồ da người toàn bộ chiều dày, thể hiện các lớp chính, mô dưới da và nhiều cấu trúc khác. Da có hai lớp chính là biểu bì và trung bì; trên phần lớn cơ thể, da dày hơn 1 mm. Biểu bì (dày khoảng 100 µm) được chia tiếp thành hai lớp: lớp sừng và lớp mầm (hay biểu bì sống). Hình cũng thể hiện một số phần phụ của da, bao gồm nang và thân tóc, các tuyến bã nhờn và cơ dựng lông liên quan, cùng các ống tuyến mồ hôi. Trung bì chứa một mạng lưới mạch máu dày đặc, liên tục nâng đỡ mô mầm và giữ vai trò quan trọng trong điều hòa thân nhiệt. Tại đây còn có các thụ thể cảm nhận đau và các đầu tận cùng thần kinh xúc giác (tiểu thể Meissner). (Nguồn: upload.wikimedia.org/Wikipedia/commons/2/27/skin.png.)
+
+Về cơ bản, da gồm bốn lớp: lớp sừng (thường được gọi là biểu bì không sống), các lớp còn lại của biểu bì (biểu bì sống), trung bì và mô dưới da. Da còn có một số phần phụ đi kèm như nang tóc, ống tuyến mồ hôi, tuyến apocrine và móng. Nhiều chức năng của da có thể được xem là thiết yếu đối với sự sống còn của động vật có vú và con người trong một môi trường tương đối khắc nghiệt. Nhìn chung, các chức năng này có thể được phân thành ba nhóm: bảo vệ, duy trì cân bằng nội môi và cảm nhận.
+
+Tầm quan trọng của vai trò bảo vệ và duy trì cân bằng nội môi của da được thể hiện, trước hết, qua đặc tính hàng rào. Đặc tính này cho phép con người tồn tại trong môi trường có nhiệt độ và lượng nước thay đổi (độ ẩm và việc tắm rửa), đồng thời hiện diện các mối nguy như hóa chất, vi khuẩn, dị nguyên, nấm và bức xạ. Thứ hai, da là một cơ quan chủ yếu giúp duy trì cân bằng nội môi của cơ thể, đặc biệt về thành phần cơ thể, điều hòa nhiệt, kiểm soát huyết áp và bài tiết. Thứ ba, da là cơ quan cảm giác quan trọng, tiếp nhận các tác động từ môi trường như nhiệt, áp lực, đau, cũng như sự xâm nhập của dị nguyên và vi sinh vật. Cuối cùng, da là một cơ quan liên tục tái tạo và sửa chữa. Để thực hiện được tất cả các chức năng này, da phải bền chắc, vững vàng và linh hoạt, đồng thời bảo đảm sự giao tiếp hiệu quả giữa các thành phần nội tại của nó.
+
+---
+
+<a id="2.2.structure-of-the-skin"></a>
+
+## 2.2. Cấu trúc da
+
+Trong khi Hình 2.1 cung cấp cái nhìn tổng quan về cấu trúc đại thể của da, Hình 2.2 trình bày các thành phần của da theo những chức năng mà chúng thực hiện.
+
+![Các lớp tế bào của biểu bì](translations/assets/images/figure-2.2-epidermal-cell-layers.png)
+
+**Hình 2.2.** Các tầng tế bào của biểu bì được sắp xếp thành nhiều lớp, tất cả đều bắt nguồn từ các tế bào mầm ở lớp đáy (lớp đáy, hay *stratum basale*, tạo nên ranh giới giữa trung bì và biểu bì). Lớp này chứa các tế bào gốc của da; chúng tạo ra các tế bào con và các tế bào này được đẩy dần ra ngoài khỏi lớp đáy. Khi trưởng thành, các tế bào hình thành những cầu nối protein với nhau, qua đó tạo nên sự giao tiếp giữa tế bào với tế bào và làm cho tế bào có đường viền dạng gai (lớp gai, hay *stratum spinosum*). Chúng cũng bắt đầu tổng hợp keratin. Ở vị trí xa hơn về phía ngoài, các tế bào tạo ra những túi lipid làm cho tế bào có dạng hạt (lớp hạt, hay *stratum granulosum*). Cuối cùng, các hạt lipid được xuất bào; phần lipid bên trong tái sắp xếp để hình thành các phiến lipid gian bào. Sau đó, tế bào mất nhân và trở nên trong suốt (lớp trong, hay *stratum lucidum*); khi tạo thành lớp sừng, các tế bào này không còn được xem là tế bào sống. Những tế bào khác hiện diện trong biểu bì gồm tế bào hắc tố sản xuất sắc tố và tế bào Merkel đảm nhiệm chức năng cảm giác. (Nguồn: opentextbc.ca.)
+
+Cần nhấn mạnh rằng các chức năng bảo vệ, duy trì cân bằng nội môi và cảm nhận của da vừa chồng lấp vừa tích hợp với nhau. Chẳng hạn, đặc tính hàng rào của da đối với một thực thể hóa học bao gồm: chống lại sự xâm nhập của thực thể đó (hàng rào do lớp sừng tạo nên); chuyển hóa phần thực thể vượt qua lớp sừng (tại biểu bì sống); nhận biết và đáp ứng với tổn thương do sự xâm nhập gây ra (giải phóng chất trung gian gây viêm ở biểu bì, với sự tham gia của trung bì); loại bỏ thực thể khỏi vị trí xâm nhập nhờ hệ mạch máu trung bì và phân bố thực thể đến các cơ quan chuyên trách của cơ thể để loại bỏ bằng chuyển hóa (gan) và bài tiết (thận). Quá trình điều hòa nhiệt có sự tham gia của lớp đệm mỡ dưới da và sự điều hòa sinh lý đối với lưu lượng máu, chẳng hạn giúp tỏa nhiệt thông qua giãn mạch và làm mát bằng tiết mồ hôi.
+
+---
+
+<a id="2.2.1.the-epidermis"></a>
+
+### 2.2.1. Biểu bì
+
+Biểu bì thực hiện nhiều chức năng như trình bày trong Hình 2.2, trong đó một trong những chức năng quan trọng nhất là tạo ra lớp sừng, sẽ được mô tả ở phần sau. Lớp sừng là lớp ngoài cùng, không đồng nhất của biểu bì và dày khoảng 10–20 µm. Đây là phần biểu bì không sống, gồm 15–25 tế bào sừng hóa hình lục giác, dẹt và xếp chồng lên nhau, nằm trong một lớp “vữa” lipid gian bào. Mỗi tế bào có đường kính khoảng 40 µm và dày 0,5 µm. Tuy nhiên, độ dày này thay đổi và có thể lớn hơn một bậc độ lớn ở những vùng như lòng bàn tay và lòng bàn chân — các vùng cơ thể thường xuyên tương tác vật lý trực tiếp và mạnh với môi trường.
+
+Đặc tính hàng rào của lớp sừng có thể một phần liên quan đến mật độ rất cao (1,4 g/cm³ ở trạng thái khô), mức hydrat hóa thấp 15–20% so với mức thông thường 70% của tổng khối lượng cơ thể, và diện tích bề mặt nhỏ dành cho sự vận chuyển chất tan. Hiện nay, người ta công nhận rằng phần lớn các hợp chất được thoa lên da đi vào cơ thể qua các vùng gian bào rộng dưới 0,1 µm của lớp sừng. Mỗi tế bào lớp sừng chủ yếu gồm các bó keratin không tan (~70%) và lipid (~20%), được bao bọc trong một vỏ tế bào (Matsui và Amagai, 2015). Vùng gian bào của lớp sừng chủ yếu gồm lipid và desmosome, giúp các tế bào sừng liên kết với nhau như sẽ được trình bày ngắn gọn ở phần sau. Lipid của lớp sừng được thảo luận chi tiết trong Chương 3.
+
+Quá trình biệt hóa tận cùng liên tục của biểu bì, dẫn đến sự hình thành lớp sừng, cuối cùng gây bong lớp sừng này; toàn bộ lớp sừng được thay mới sau mỗi hai đến ba tuần. Các tác nhân rất ưa lipid như chất chống nắng và các chất liên kết với lớp sừng (ví dụ hexachlorophene) có thể được hấp thu vào cơ thể kém hơn so với mức dự đoán từ sự phân bố ban đầu của chúng từ chất dẫn được thoa vào lớp sừng. Lớp sừng còn đóng vai trò như một hàng rào ngăn các thành phần bên trong cơ thể, đặc biệt là nước, thất thoát ra môi trường ngoài. Hiệu quả của hàng rào này được ước tính có thể giới hạn lượng nước mất do “thoát hơi nước không nhận biết được” ở mức 0,5 µl/cm²/giờ, tương đương 250 ml nước mỗi ngày đối với một người trưởng thành bình thường. Các rối loạn biểu mô hóa như bệnh vảy nến làm tăng tốc độ thay mới da, đôi khi rút ngắn còn 2–4 ngày, đồng thời làm giảm sự hình thành chức năng hàng rào lớp sừng; đặc điểm sau có thể mở ra khả năng cải thiện kết quả điều trị (Namjoshi và Benson, 2010).
+
+Các tế bào của lớp sừng bắt nguồn từ biểu bì sống và trải qua nhiều biến đổi hình thái trước khi bong vảy. Vì vậy, biểu bì gồm nhiều tầng tế bào ở các mức độ biệt hóa khác nhau (Hình 2.3).
+
+![Mặt cắt da người nhuộm hematoxylin và eosin](translations/assets/images/figure-2.3-human-skin-cross-section.png)
+
+**Hình 2.3.** Mặt cắt ngang da người (nhuộm hematoxylin và eosin), cho thấy hình thái của các tầng biểu bì khác nhau. SC: lớp sừng; G: lớp hạt; S: lớp gai; B: lớp đáy.
+
+Các tế bào biểu bì bắt nguồn từ lá đáy nằm giữa trung bì và biểu bì sống. Lớp này có tế bào hắc tố, tế bào Langerhans, tế bào Merkel và hai loại tế bào keratin chính: loại thứ nhất hoạt động như tế bào gốc, có khả năng phân chia và tạo tế bào mới; loại thứ hai neo biểu bì vào màng đáy (Lavker và Sun, 1982). Màng đáy dày 50–70 nm và gồm hai lớp là lá đặc và lá sáng, chủ yếu cấu tạo từ các protein như collagen type IV, laminin-5, nidogen (entactin) và fibronectin. Collagen type IV chịu trách nhiệm về độ ổn định cơ học của màng đáy, còn laminin-5 và fibronectin tham gia vào sự gắn kết giữa màng đáy và các tế bào sừng lớp đáy (Schneider và cs., 2007; El-Domyati và cs., 2015).
+
+Các tế bào của lá đáy được gắn vào màng đáy bằng hemidesmosome, nằm trên bề mặt phía bụng của tế bào sừng lớp đáy (Borradori và Sonnenberg, 1999; Walko và cs., 2015). Hemidesmosome dường như gồm những nhóm protein riêng biệt, trong đó hai nhóm là các kháng nguyên pemphigoid bọng nước (BPAG1e và BPAG2), còn một nhóm khác gồm các integrin α6β4 và β1α đặc hiệu cho tế bào biểu mô. BPAG1e liên quan đến sự tổ chức cấu trúc bộ xương tế bào và tạo liên kết giữa cấu trúc hemidesmosome với các sợi trung gian keratin. BPAG2 là một protein xuyên màng. Integrin α6β4 liên kết với protein laminin-5 của chất nền ngoại bào, còn integrin β1α tạo cầu nối đến các sợi trung gian keratin trong bào tương. Vì vậy, integrin α6β4 và BPAG2 là các protein hemidesmosome chính góp phần gắn tế bào sừng với lá đáy, tạo liên kết kéo dài từ sợi trung gian keratin, xuyên qua lá sáng, đến lá đặc. Tại lá đặc, các protein xuyên màng này tương tác với laminin-5; đến lượt mình, laminin-5 liên kết với collagen VII, thành phần chính của các sợi neo trong chất nền trung bì.
+
+Tầm quan trọng của việc duy trì liên kết chắc chắn giữa các tế bào lá đáy và màng đáy là rất rõ ràng; khi không có liên kết này, các bệnh da phồng rộp mạn tính như pemphigus và ly thượng bì bóng nước có thể xuất hiện.
+
+Ngoài sự gắn kết tế bào–chất nền qua hemidesmosome, mối nối bám dính là một vị trí khác giúp các tế bào của lớp đáy biểu bì bám vào màng đáy (Kaiser và cs., 1993; Niessen, 2007); tại đây có hai đơn vị kết dính cơ bản. Nectin là các thụ thể kết dính giống IgG, có vùng xuyên màng và tạo thành một đơn vị kết dính với afadin, protein liên kết actin. Bên cạnh đơn vị này, cadherin là các protein xuyên màng liên kết với catenin α, β và p120. Mối nối bám dính xuất hiện thường xuyên hơn ở vùng biểu bì phía trên (Ishiko và cs., 2003).
+
+Tính liên kết và sự giao tiếp giữa các tế bào biểu bì sống — tức tương tác tế bào–tế bào — được duy trì theo cách tương tự liên kết tế bào–chất nền, ngoại trừ việc desmosome thay thế hemidesmosome. Tại mối nối desmosome có hai cadherin glycoprotein xuyên màng là desmoglein và desmocollin. Chúng liên kết với các protein mảng bào tương gồm desmoplakin, plectin, periplakin, envoplakin và plakoglobin (Hình 2.4), qua đó tạo liên kết với các sợi trung gian keratin (Tariq và cs., 2015).
+
+![Sơ đồ desmosome và vùng nối trung bì–biểu bì](translations/assets/images/figure-2.4-desmosome-dermal-epidermal-junction.png)
+
+**Hình 2.4.** Sơ đồ desmosome và vùng nối trung bì–biểu bì. Hình chỉ thể hiện các protein cấu trúc đóng vai trò tự kháng nguyên trong các bệnh da bóng nước tự miễn. Các tế bào sừng lân cận liên kết với nhau qua phần ngoại bào của cadherin desmosome. Hình mô tả các tương tác đồng ái giữa desmoglein 1, desmoglein 3 và desmocollin 1. Phần nội bào của chúng liên kết với các protein mảng desmosome, làm trung gian cho tương tác giữa desmosome và sợi keratin. Sợi keratin còn liên kết với kháng nguyên pemphigoid bọng nước 230 (BP230) và plectin, là các thành phần nội bào chính của hemidesmosome. BP230 và plectin đóng vai trò phối tử cho các protein hemidesmosome xuyên màng gồm collagen type XVII (BP180) và integrin α6β4. Các protein này có thể nối hemidesmosome với laminin 5; cùng với collagen type IV, laminin 5 là một thành phần chính của lá đặc. Laminin 5 là phối tử đã biết của collagen type VII, thành phần chính của các sợi neo nối lá đặc với các bó collagen ở vùng trung bì phía trên. (Trích lại từ Mihai S, Sitaru C, 2007, *J Cell Mol Med* 11: 462–481, với sự cho phép của John Wiley & Sons.)
+
+Như vậy, trong biểu bì, desmosome chịu trách nhiệm nối các cấu trúc bộ xương keratin của từng tế bào với nhau, qua đó tạo nên một mô có khả năng chống chịu lực cắt rất cao.
+
+Một loại tế bào khác có ở lớp đáy biểu bì, cũng như xuyên suốt biểu bì và trung bì, là tế bào tua. Tế bào tua gồm một số phân nhóm riêng biệt, trong đó tế bào Langerhans nằm ở biểu bì. Đây là những tế bào trình diện kháng nguyên nổi bật của hệ miễn dịch da (Klechevsky và Banchereau, 2013; Banchereau và cs., 2012). Các tế bào này liên tục di chuyển đến những hạch lympho dẫn lưu; chức năng chính của chúng là thu nhận các dị nguyên tiếp xúc trong da và trình diện các tác nhân này cho tế bào lympho T, vì vậy chúng giữ vai trò quan trọng trong quá trình mẫn cảm tiếp xúc.
+
+Khả năng di chuyển từ tủy xương, định vị tại một vùng biểu bì cụ thể rồi tiếp tục di chuyển khi được hoạt hóa của tế bào Langerhans cho thấy có những cơ chế giúp chúng tích tụ trong biểu bì, bám vào tế bào sừng và màng đáy, rồi phá vỡ liên kết bám dính. Sự di chuyển vào biểu bì có thể được điều hòa bởi yếu tố kích thích tạo cụm bạch cầu hạt–đại thực bào (GM-CSF), yếu tố hoại tử khối u α (TNF-α), interleukin 6, yếu tố tăng trưởng chuyển dạng β, các cytokine hóa hướng động như protein hóa hướng động bạch cầu đơn nhân, và kháng nguyên liên quan tế bào lympho ở da (Nakamura và cs., 1999). Các liên kết bám dính trong biểu bì dường như được hình thành nhờ tương tác của tế bào Langerhans với các protein chất nền ngoại bào như fibronectin và laminin thông qua integrin β1.
+
+Sau khi da bị mẫn cảm, sự tách rời của tế bào Langerhans khỏi tế bào sừng và màng đáy có thể được điều hòa bởi các cytokine biểu bì, bao gồm GM-CSF và TNF-α; còn sự trưởng thành của tế bào, diễn ra trong quá trình di chuyển đến các hạch lympho tại chỗ, có thể do GM-CSF điều hòa. Người ta đã chứng minh IL-1β và TNF-α tác động trực tiếp lên tế bào Langerhans, làm giảm sự bám dính vào tế bào sừng và màng đáy bằng cách điều hòa giảm protein liên kết E-cadherin (Jakob và Udey, 1998). Boltjes và van Wijk (2014) đã cung cấp một bài tổng quan toàn diện về tế bào tua ở người.
+
+Tế bào hắc tố là một loại tế bào chức năng khác của lớp đáy biểu bì và cũng hiện diện trong tóc và mắt. Chức năng chính của các tế bào này là sản xuất melanin — các polymer indole quinone có khối lượng phân tử cao, ảnh hưởng đến sắc tố của da, tóc và mắt (Jimbow và cs., 1986; Mort và cs., 2015). Melanin được tạo ra trong melanosome, các bào quan có màng bao bọc được chuyển sang tế bào sừng, có lẽ bằng quá trình thực bào, để tạo sự phân bố sắc tố đồng đều. Sự di chuyển của melanosome trong tế bào có thể được điều hòa thông qua actin và vi ống. Sắc tố quan sát được không chỉ phụ thuộc vào số lượng, hình dạng và kích thước của melanosome mà còn phụ thuộc vào bản chất hóa học của melanin.
+
+Màu tóc được chi phối bởi các tế bào hắc tố nằm trong hành tóc ở trung bì (Slominski và cs., 2005; Tobin, 2008). Melanosome được chuyển vào thân tóc đang phát triển. Chức năng chính của sắc tố da là bảo vệ chống lại các tác động có hại từ môi trường như bức xạ tử ngoại, đặc biệt tại các lớp đáy đang tăng sinh, nơi tác động gây đột biến của dạng tổn thương này gây ra những hệ quả đặc biệt nghiêm trọng. Tế bào hắc tố vẫn gắn với lớp đáy và được cho là ở trạng thái không tăng sinh khi tiếp xúc với các tế bào sừng chưa biệt hóa.
+
+Điều hòa quá trình sinh melanin là một quá trình phức tạp, liên quan đến khoảng 80 locus di truyền và có thể còn có sự tham gia của nhịp sinh học ngày–đêm (Hardman và cs., 2015). Đột biến ở một số gene liên quan dẫn đến các tình trạng bệnh lý như bạch tạng, bạch biến và hội chứng Waardenburg. Cơ chất ban đầu để tạo melanin là tyrosine; chất này được hydroxyl hóa thành dihydroxyphenylalanine (DOPA), sau đó có thể đi theo một số con đường để tạo ra eumelanin (melanin 5,6-dihydroxyindole và melanin acid 5,6-dihydroxyindole-2-carboxylic) hoặc pheomelanin (Hình 2.5).
+
+![Con đường tổng hợp melanin từ tyrosine](translations/assets/images/figure-2.5-melanin-synthesis-pathway.png)
+
+**Hình 2.5.** Con đường tổng hợp từ tyrosine thành các melanin gồm eumelanin và pheomelanin.
+
+Eumelanin có màu nâu/đen, còn pheomelanin có màu vàng/đỏ. Người ta cho rằng tương tác giữa hormone kích thích tế bào hắc tố α (α-MSH), một tridecapeptide, và protein tín hiệu agouti quyết định con đường sinh melanin được sử dụng; trong điều kiện α-MSH chiếm ưu thế, eumelanin được tạo thành. Bức xạ UV dường như làm tăng sự sản xuất hormone tiền thân proopiomelanocortin, từ đó tăng sản xuất α-MSH và dẫn đến tăng hàm lượng eumelanin (Chakraborty và cs., 1995; Suzuki và cs., 1997; Nasti và Timares, 2015).
+
+Loại tế bào cuối cùng được tìm thấy ở lớp đáy là tế bào Merkel. Các tế bào này dường như bắt nguồn từ biểu bì (Morrison và cs., 2009) và có thể được phân biệt với tế bào sừng nhờ bào tương trong và không có tơ trương lực. Tế bào Merkel mang các đặc điểm của tế bào thụ thể cảm giác và tạo những tiếp xúc “giống synapse” với các thụ thể cơ học ngưỡng thấp nằm ở phía bên kia màng đáy; cả hai đặc điểm này cho thấy chúng hoạt động như các tác nhân trung gian xúc giác (Maksimovic và cs., 2014; Zimmerman và cs., 2014; Walsh và cs., 2015). Việc các tế bào này biểu hiện kênh ion cảm giác và chất dẫn truyền thần kinh cung cấp thêm bằng chứng rằng một chức năng chính của tế bào Merkel là tham gia tiếp nhận xúc giác (Lumpkin và Caterina, 2007; Kwan và cs., 2009).
+
+---
+
+<a id="2.2.2.the-dermis"></a>
+
+### 2.2.2. Trung bì
+
+Trung bì là một thành phần thiết yếu của cơ thể. Thông qua một lớp nhú mỏng nằm sát biểu bì, trung bì không chỉ cung cấp dinh dưỡng, miễn dịch và các hệ thống hỗ trợ khác cho biểu bì mà còn tham gia điều hòa nhiệt độ, áp lực và cảm giác đau. Trung bì dày khoảng 0,1–0,5 cm, gồm các sợi collagen (70%) tạo nên khung nâng đỡ và lớp đệm, cùng mô liên kết đàn hồi tạo độ đàn hồi, tất cả nằm trong một chất nền mucopolysaccharide dạng gel bán rắn.
+
+Nhìn chung, mật độ tế bào trong trung bì khá thưa. Các tế bào chính hiện diện tại đây gồm: nguyên bào sợi, sản xuất các thành phần mô liên kết như collagen, laminin, fibronectin và vitronectin; dưỡng bào, tham gia đáp ứng miễn dịch và viêm; telocyte, có thể tham gia tái tạo và sửa chữa da (Ceafalen và cs., 2012; Kang và cs., 2015); và tế bào hắc tố, tham gia sản xuất sắc tố melanin.
+
+Các đầu tận cùng thần kinh cảm giác trong trung bì gồm thụ thể cảm nhận đau, tiểu thể Pacini và tiểu thể Meissner. Thụ thể cảm nhận đau là các neuron cảm giác đáp ứng với kích thích bằng cách truyền tín hiệu đến tủy sống và não, từ đó tạo ra cảm nhận đau. Chúng có thể đáp ứng với kích thích nhiệt, cơ học hoặc hóa học. Tiểu thể Pacini, đôi khi còn gọi là tiểu thể lá, nằm sâu trong trung bì và đảm nhiệm khả năng cảm nhận rung động và áp lực. Tiểu thể Meissner là một loại thụ thể cơ học khác, nằm gần vùng nối trung bì–biểu bì và đảm nhiệm khả năng cảm nhận tiếp xúc nhẹ.
+
+Trong trung bì có một mạng lưới mạch máu rộng khắp, cung cấp dinh dưỡng, hỗ trợ sửa chữa và đáp ứng miễn dịch cho da; đối với phần còn lại của cơ thể, mạng lưới này tham gia trao đổi nhiệt, đáp ứng miễn dịch và điều hòa thân nhiệt. Tốc độ dòng máu đến da vào khoảng 0,05 ml/phút trên mỗi cm³ da, tạo ra diện tích trao đổi mạch máu tương đương diện tích bề mặt da. Các mạch máu da bắt nguồn từ mạch máu trong mô dưới da; mạng lưới động mạch cấp máu cho lớp nhú, nang tóc, tuyến mồ hôi, tuyến apocrine và vùng dưới da, cũng như cho chính trung bì. Các động mạch này dẫn vào tiểu động mạch, mao mạch, tiểu tĩnh mạch rồi đến tĩnh mạch.
+
+Một đặc điểm đặc biệt quan trọng của mạng lưới mạch máu này là sự hiện diện của các cầu nối động–tĩnh mạch ở mọi tầng của da. Các cầu nối này cho phép tối đa 60% lưu lượng máu qua da đi tắt trực tiếp giữa động mạch và tĩnh mạch, bỏ qua mạng lưới mao mạch nhỏ; vì vậy, chúng có vai trò thiết yếu đối với chức năng điều hòa nhiệt và kiểm soát mạch máu của da. Những thay đổi lưu lượng máu dễ nhận thấy nhất ở da liên quan đến nhiều đáp ứng sinh lý khác nhau, bao gồm tác động tâm lý như sốc (“da tái nhợt”) và xấu hổ (“đỏ mặt”), tác động của nhiệt độ, cũng như đáp ứng sinh lý với vận động, xuất huyết và việc sử dụng đồ uống có cồn.
+
+Hệ bạch huyết là một thành phần quan trọng của da, giúp điều hòa áp lực dịch kẽ, huy động các cơ chế phòng vệ và loại bỏ chất thải. Hệ này tồn tại dưới dạng một mạng lưới phẳng, dày đặc trong các lớp nhú của trung bì và kéo dài xuống những vùng sâu hơn của trung bì. Cross và Roberts (1993) đã chỉ ra rằng trong khi lưu lượng máu quyết định sự thanh thải các chất tan nhỏ đã thấm qua da, chẳng hạn nước và lidocaine, thì lưu lượng bạch huyết là một yếu tố quyết định quan trọng đối với việc loại bỏ các chất tan lớn hơn như interferon khỏi trung bì.
+
+---
+
+<a id="2.2.3.the-subcutis"></a>
+
+### 2.2.3. Mô dưới da
+
+Lớp sâu nhất của da là mô dưới da, hay hạ bì. Hạ bì đóng vai trò cách nhiệt, hấp thu chấn động và dự trữ năng lượng. Lớp này là một mạng lưới tế bào mỡ (adipocyte), liên kết với trung bì bằng các sợi collagen và elastin đan nối. Các tế bào mỡ dự trữ những giọt chất béo chủ yếu gồm triglyceride và ester cholesteryl. Ngoài tế bào mỡ, các tế bào chính khác trong hạ bì là nguyên bào sợi và đại thực bào.
+
+Một trong những vai trò chính của hạ bì là mang các hệ mạch máu và thần kinh của da. Lớp này còn neo da vào cơ nằm bên dưới. Nguyên bào sợi và tế bào mỡ có thể được kích thích bởi sự tích tụ dịch kẽ và dịch bạch huyết trong da và mô dưới da (Szuba và Rockson, 1997; xem thêm Breslin, 2014).
+
+---
+
+<a id="2.2.4.skin-appendages"></a>
+
+### 2.2.4. Các phần phụ của da
+
+Da có bốn loại phần phụ: nang tóc cùng các tuyến bã nhờn đi kèm, tuyến mồ hôi eccrine, tuyến mồ hôi apocrine và móng. Mỗi phần phụ có một chức năng khác nhau. Nang tóc phân bố trên toàn bộ bề mặt da, ngoại trừ lòng bàn chân, lòng bàn tay và môi. Một cơ trơn gọi là cơ dựng lông gắn nang tóc với mô trung bì và làm cho lông dựng lên khi sợ hãi hoặc lạnh. Mỗi nang tóc có một tuyến bã nhờn đi kèm, với đường kính thay đổi từ 200 đến 2.000 µm. Bã nhờn do tuyến này tiết ra gồm triglyceride, acid béo tự do và sáp; chất này bảo vệ và bôi trơn da, đồng thời duy trì pH bề mặt ở khoảng 5. Phần diện tích bề mặt mà các cấu trúc này chiếm lớn hơn một chút so với 1/1.000 tổng diện tích bề mặt da.
+
+Tuyến eccrine, hay tuyến mồ hôi, và tuyến apocrine lần lượt chiếm khoảng hai phần ba và một phần ba tổng số tuyến. Tuyến eccrine là cấu trúc biểu bì dạng ống đơn giản, cuộn xoắn, bắt nguồn từ một búi cuộn có đường kính khoảng 100 µm nằm ở phần dưới trung bì. Tuyến tiết ra dung dịch muối loãng có pH khoảng 5. Sự bài tiết này được kích thích bởi các yếu tố điều hòa nhiệt độ như vận động và nhiệt độ môi trường cao, cũng như bởi căng thẳng cảm xúc thông qua hệ thần kinh tự chủ (giao cảm). Tổng diện tích bề mặt của các tuyến này bằng khoảng 1/10.000 tổng diện tích bề mặt cơ thể.
+
+Tuyến apocrine chỉ hiện diện ở một số vùng cơ thể nhất định và cũng có dạng ống cuộn. Các tuyến này có kích thước lớn gấp khoảng 10 lần ống tuyến eccrine, kéo dài xuống đến mô dưới da và gắn với nang tóc. Các bài tổng quan của Lu và Fuchs (2014), Rompolas và Greco (2014), và Vary (2015) trình bày phân tích chuyên sâu về tuyến mồ hôi và nang tóc, đồng thời thảo luận các rối loạn của phần phụ da.
+
+Cấu trúc, tính chất và chức năng của bản móng được mô tả toàn diện trong Chương 5.
+
+---
+
+<a id="2.3.development-of-the-stratum-corneum"></a>
+
+## 2.3. Sự phát triển của lớp sừng
+
+Khả năng kiểm soát đồng thời sự mất nước và sự xâm nhập của các hóa chất cùng vi sinh vật có khả năng gây hại là kết quả của quá trình tiến hóa tạo nên một hỗn hợp độc đáo gồm vật liệu protein và lipid. Các vật liệu này kết hợp với nhau để hình thành lớp sừng — một màng liền mạch gồm những vùng có hình thái riêng biệt. Các vùng này chủ yếu có bản chất protein (các tế bào sừng) hoặc ưa lipid (các khoảng gian bào).
+
+---
+
+<a id="2.3.1.epidermal-differentiation"></a>
+
+### 2.3.1. Biệt hóa biểu bì
+
+Sự phát triển của lớp sừng từ các tế bào sừng ở lớp đáy bao gồm nhiều bước biệt hóa tế bào; từ đó, các lớp nằm phía trên lớp đáy (*stratum basale*) được phân loại dựa trên cấu trúc. Theo đó, tế bào tiến triển từ lớp đáy qua lớp gai, lớp hạt và lớp trong để đến lớp sừng (Hình 2.3). Thời gian thay mới tế bào từ lớp đáy đến lớp sừng được ước tính vào khoảng 21 ngày.
+
+Cơ chế chính xác kích thích các tế bào sừng ở lớp đáy khởi đầu quá trình biệt hóa vẫn chưa được hiểu đầy đủ. Tế bào gốc biểu bì hiện diện ở vùng đáy của biểu bì, cũng như trong nang tóc và tuyến bã nhờn. Các tế bào gốc này chịu trách nhiệm tạo ra những loại tế bào khác nhau của biểu bì (Eckert và cs., 2013). Protein kinase C và một số cytokine có nguồn gốc từ tế bào sừng được biết là có thể giữ vai trò điều hòa quá trình biệt hóa (Jerome-Morais và cs., 2009; Chae và cs., 2016). Chẳng hạn, interleukin-1 (IL-1) kích thích sản xuất các cytokine khác theo cả cơ chế tự tiết và cận tiết; các cytokine này cảm ứng sự tăng sinh và hóa hướng động (Hình 2.6).
+
+![Bốn lớp biểu bì, các quá trình biệt hóa tận cùng và sự điều hòa bởi cytokine](translations/assets/images/figure-2.6-epidermal-differentiation-cytokine-regulation.png)
+
+**Hình 2.6.** Sơ đồ bốn lớp của biểu bì, các kiểu biểu hiện của keratin, filaggrin, protein desmosome và protein mối nối chặt, năm quá trình biệt hóa tận cùng, cùng sự điều hòa bởi cytokine. Khung bên trái thể hiện bốn lớp biểu bì riêng biệt và kiểu biểu hiện của bốn keratin, filaggrin, bốn Dsg, ba Dsc, corneodesmosin và các protein mối nối chặt. Khung bên phải cung cấp thông tin chi tiết về năm quá trình biệt hóa biểu bì riêng biệt, cùng nhiều cytokine điều hòa tăng hoặc điều hòa giảm quá trình biệt hóa biểu bì. IL-4 và IL-13 được thể hiện bằng chữ in đậm. (Trích lại từ Tsuchisaka A, Furumura M, Hashimoto T, 2014, *J Invest Dermatol* 134: 1194–1196, với sự cho phép của Elsevier.)
+
+Các cytokine cảm ứng này gồm yếu tố kích thích tạo cụm bạch cầu hạt–đại thực bào (GM-CSF), yếu tố tăng trưởng chuyển dạng α (TGF-α), yếu tố tăng trưởng thần kinh, amphiregulin, IL-6 và IL-8. Ngược lại, yếu tố tăng trưởng chuyển dạng β (TGF-β), cũng được IL-1 khởi phát sản xuất, ức chế sự tăng trưởng của tế bào sừng nhưng kích thích sự di chuyển của chúng; tác động sau có thể là kết quả của việc điều biến các integrin ở hemidesmosome và desmosome.
+
+Người ta cũng cho rằng chất hoạt hóa plasminogen kiểu urokinase (uPA) có thể hoạt hóa các yếu tố tăng trưởng và kích thích tăng sinh biểu bì (Jensen và Lavker, 1999). uPA cảm ứng sự hình thành và hoạt hóa protease serine plasmin từ plasminogen; plasmin được hoạt hóa sẽ khởi phát quá trình phân giải protein ngoại bào cục bộ đối với các protein bám dính trên bề mặt tế bào và cuối cùng làm gián đoạn các hemidesmosome. Protein ức chế khối u TIG3 (gene 3 được cảm ứng bởi tazarotene) có thể điều hòa quá trình biệt hóa tận cùng bằng cách hoạt hóa transglutaminase type 1 (Scharadin và Eckert, 2014).
+
+Lớp gai (lớp tế bào gai), nằm ngay phía trên lớp đáy, gồm nhiều lớp tế bào liên kết với nhau và với các tế bào lớp đáy bằng desmosome, đồng thời chứa các tơ trương lực keratin nổi bật. Tế bào lớp gai có bào tương lớn hơn tế bào lớp đáy. Trong bào tương có nhiều bào quan và sợi. Các α-keratin của lớp gai rõ ràng có phần khác với các α-keratin ở lớp đáy (Skerrow và Skerrow, 1983). Điều này cho thấy mặc dù nguyên phân đã dừng và giai đoạn biệt hóa tận cùng đã bắt đầu, tế bào vẫn duy trì khả năng thay đổi sự biểu hiện phiên mã của các gene. Trong các lớp tế bào ngoài của lớp gai, các hạt phủ màng nội bào có đường kính 100–300 nm xuất hiện trong bào tương, đánh dấu sự chuyển tiếp giữa lớp gai và lớp hạt.
+
+Mặc dù keratin tiếp tục biệt hóa trong lớp hạt (Baden, 1979; Eckhart và cs., 2013), quá trình tổng hợp keratin mới dừng lại. Đặc điểm điển hình nhất của lớp này là sự hiện diện của nhiều hạt keratohyalin và hạt phủ màng bên trong tế bào; quá trình lắp ráp loại hạt thứ hai dường như diễn ra tại vùng lưới nội chất và bộ máy Golgi (Landmann, 1988; Manabe và O’Guin, 1992). Bên trong các hạt này có những tiểu đơn vị dạng phiến xếp thành các chồng song song. Chúng được cho là tiền chất của các phiến lipid gian bào trong lớp sừng.
+
+Các hạt dạng phiến còn chứa enzyme thủy phân, trong đó quan trọng nhất là enzyme chymotrypsin của lớp sừng (SCCE). SCCE là một protease serine; do có khả năng định vị tại các vùng desmosome trong khoảng gian bào, enzyme này được cho là tham gia vào quá trình bong vảy (Egelrud và cs., 1993). Ở các lớp ngoài cùng của lớp hạt, các hạt dạng phiến di chuyển đến màng sinh chất phía đỉnh, hợp nhất với màng và cuối cùng đẩy thành phần bên trong vào khoảng gian bào (Manabe và O’Guin, 1992).
+
+Tại giai đoạn này của quá trình biệt hóa, do sự giải phóng các enzyme ly giải chọn lọc, tế bào sừng mất nhân và các bào quan khác trong bào tương, trở nên dẹt và nén chặt để tạo thành lớp trong; lớp này cuối cùng hình thành lớp sừng. Việc đẩy thành phần của các hạt dạng phiến ra ngoài là yêu cầu nền tảng để hình thành hàng rào thấm của biểu bì; sự rối loạn quá trình này có liên quan đến nhiều bệnh da liễu.
+
+Toàn bộ quá trình biệt hóa tận cùng của biểu bì hướng đến việc tạo ra hình thái hóa học đặc trưng của lớp sừng. Vì vậy, sản phẩm cuối của quá trình này là chất nền protein nội bào và các phiến lipid gian bào.
+
+---
+
+<a id="2.3.2.cornified-cell-envelope"></a>
+
+### 2.3.2. Bao tế bào sừng hóa
+
+Bao tế bào sừng hóa (dày khoảng 15 nm và chiếm 10% khối lượng lớp sừng) là lớp ngoài cùng của tế bào sừng. Tế bào này chủ yếu gồm các sợi keratin bó chặt, sắp xếp song song với bề mặt chính của tế bào sừng. Bao tế bào thay thế màng sinh chất của các tế bào sừng đang biệt hóa và gồm cả thành phần protein lẫn lipid (Candi và cs., 2005). Bao protein (dày khoảng 10 nm) được tạo nên nhờ liên kết chéo cộng hóa trị giữa một số protein dưới tác động của sulfhydryl oxidase và transglutaminase, trong khi bao lipid (dày khoảng 5 nm) gồm lipid gắn cộng hóa trị với bao protein. Sulfhydryl oxidase và transglutaminase lần lượt dẫn đến sự hình thành liên kết disulfide và liên kết isopeptide (Nemes và Steinert, 1999). Bao tế bào nằm sát bề mặt trong của màng sinh chất.
+
+Ngoài loricrin là protein chiếm ưu thế, một số protein tiền thân khác của bao tế bào đã được xác định, bao gồm periplakin và envoplakin (xem các bài tổng quan của Brown và McLean, 2012; Kypriotou và cs., 2012; Abhishek và Palamadal Krishnan, 2016; Boczonadi và Määttä, 2016). Các protein cấu trúc chiếm ưu thế trong bao sừng hóa gồm involucrin (2–5%), loricrin (80%), các protein nhỏ giàu proline (một họ gồm 11–14 protein có quan hệ gần, trong đó có cornifin và pancornulin; 3–5%), và cystatin A hay keratolinin (2–5%). Ngoài ra còn có nhiều protein với mức biểu hiện dưới 1%, gồm elafin, profilaggrin, sợi trung gian keratin, desmoplakin I và II, các protein S100 và annexin I (còn gọi là lipocortin I).
+
+Bao tế bào được cho là hình thành qua hai giai đoạn (xem bài tổng quan ngắn về sự hình thành bao tế bào sừng hóa của Elias và cs., 2014). Ở giai đoạn đầu, các protein hòa tan như involucrin và cystatin-α tạo thành một khung, sau đó các tiền chất không tan khác, bao gồm loricrin, được bổ sung ở giai đoạn sau. Như vậy, bao sừng hóa được hình thành bằng sự lắng đọng tuần tự của các protein được biểu hiện nối tiếp nhau. Quá trình bắt đầu khi involucrin được cố định làm khung trên bề mặt nội bào của màng sinh chất theo cơ chế phụ thuộc calcium và phospholipid. Involucrin được liên kết chéo với desmoplakin và envoplakin, đồng thời liên kết cộng hóa trị với ω-hydroxyceramide. Sau đó, các protein khác gắn vào để gia cường bao tế bào (Nemes và Steinert, 1999).
+
+Phức hợp protein liên kết chéo của bao tế bào sừng rất khó hòa tan và có khả năng kháng hóa chất cao. Bao tế bào sừng hóa cũng hiện diện trong nang tóc và mầm móng; tuy có hình thái tương tự, kiểu biểu hiện và loại tiền chất ở các vị trí này hơi khác so với biểu bì (Baden và Kvedor, 1993).
+
+---
+
+<a id="2.3.3.stratum-corneum-intercellular-lipids"></a>
+
+### 2.3.3. Lipid gian bào của lớp sừng
+
+Hiện nay, người ta cho rằng bao protein của tế bào sừng giữ vai trò quan trọng trong quá trình lắp ráp cấu trúc các phiến lipid gian bào của lớp sừng. Lipid gian bào của lớp sừng được thảo luận đầy đủ trong chương của Mojumdar và Bouwstra (Chương 3), vì vậy sẽ không được trình bày tại đây.
+
+---
+
+<a id="2.3.4.stratum-corneum-proteins"></a>
+
+### 2.3.4. Protein lớp sừng
+
+Độ hòa tan kém của protein lớp sừng một phần là hệ quả của sự liên kết chéo rộng khắp ở cả bao tế bào lẫn protein nội bào. Phần lớn protein nội bào trong lớp sừng gồm các sợi keratin, được liên kết chéo bằng các cầu disulfide liên phân tử (Steinert và cs., 1994; Bragulla và Homberger, 2009), cùng các thành phần của bao tế bào sừng hóa. Ở giai đoạn cuối của quá trình biệt hóa, tế bào sừng chứa các sợi trung gian keratin (keratin 1 và 10, bắt nguồn từ keratin 5 và 14 có trong tế bào sừng lớp đáy), cùng một số protein khác, bao gồm involucrin, loricrin và profilaggrin (Robinson và cs., 1996; Candi và cs., 2005).
+
+Như đã đề cập, loricrin và involucrin là các thành phần chính của bao tế bào sừng hóa, còn profilaggrin tham gia vào sự sắp xếp thẳng hàng của các sợi keratin. Profilaggrin là một protein lớn, được phosphoryl hóa ở mức độ cao, gồm nhiều đơn vị filaggrin (10–12 đơn vị) xuất hiện lần đầu trong các hạt keratohyalin ở lớp hạt. Phân tử profilaggrin được xử lý theo cơ chế phụ thuộc calcium bằng quá trình khử phosphoryl và phân giải protein để tạo thành các phân tử filaggrin riêng lẻ, có chức năng tập hợp các sợi keratin. Có bằng chứng cho thấy profilaggrin giữ vai trò trong cơ chế bệnh sinh của viêm da cơ địa (Thyssen và Kezic, 2014).
+
+---
+
+<a id="2.3.5.desquamation"></a>
+
+### 2.3.5. Bong vảy
+
+Các cơ chế chi phối sự bong các tế bào lớp sừng rất phức tạp. Ban đầu, Suzuki và cs. (1984) cho rằng hoạt động của hai loại protease serine trong quá trình phân hủy desmosome dẫn đến bong vảy. Các protease serine (kallikrein), protease aspartic, glycosidase và protease cysteine (cathepsin) rõ ràng giữ vai trò then chốt trong quá trình này (Brocklehurst và Philpott, 2013). Người ta cho rằng sự bong vảy có thể được điều hòa bởi mức độ hoạt hóa các tiền chất protease và sự thay đổi pH trong khoảng gian bào của lớp sừng (Ekholm và cs., 2000).
+
+Trong lớp hạt, desmosome được chuyển đổi thành corneodesmosome hay corneosome, là những cấu trúc kết dính gian bào chính trong lớp sừng (Ishida-Yamamoto và Igawa, 2015). Protein corneodesmosin được đặc biệt chú ý; protein này nằm ở phần ngoại bào của corneodesmosome và các vùng lân cận của bao tế bào sừng hóa. Người ta cho rằng protein này liên tục bị phân hủy, qua đó giải thích gradient tăng dần về độ liên kết của tế bào sừng từ bề mặt da xuống các lớp sâu hơn (Lundstrom và cs., 1994).
+
+Các bệnh da có vảy và suy giảm chức năng hàng rào có thể là hậu quả của quá trình bong vảy bị rối loạn. Từ lâu, người ta đã biết sự bong vảy liên quan đến quá trình chuyển cholesterol sulfate thành cholesterol (Long và cs., 1985). Bệnh vảy cá liên kết nhiễm sắc thể X, một bệnh có vảy đặc trưng bởi quá trình bong vảy bị rối loạn, được xác định là có liên quan đến sự thiếu hụt enzyme cholesterol sulfatase (Koppe và cs., 1978). Nghiên cứu sau đó của Sato và cs. (1998) cho thấy chứng tăng sừng do desmosome có liên quan đến sự gia tăng hàm lượng cholesterol sulfate ở bệnh nhân vảy cá liên kết nhiễm sắc thể X. Rõ ràng, cholesterol sulfate làm chậm quá trình bong vảy bằng cách hoạt động như một chất ức chế protease serine.
+
+Đột biến gene corneodesmosin có thể dẫn đến hội chứng bong da (Israeli và cs., 2011), còn đột biến gene mã hóa một chất ức chế protease serine có thể gây hội chứng Netherton, với biểu hiện cơ địa dị ứng và bong vảy sớm (Deraison và cs., 2007; Igawa và cs., 2013).
