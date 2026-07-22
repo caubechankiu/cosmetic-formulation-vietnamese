@@ -231,3 +231,20 @@
 | Eosinophil | Bạch cầu ái toan |
 | Monocyte | Bạch cầu đơn nhân |
 | Immune homeostasis | Cân bằng nội môi miễn dịch |
+| Antimicrobial peptide (AMP) | Peptide kháng khuẩn (AMP) |
+| Pattern-recognition receptor (PRR) | Thụ thể nhận diện mẫu (PRR) |
+| Toll-like receptor (TLR) | Thụ thể Toll-like (TLR) |
+| NOD-like receptor (NLR) | Thụ thể NOD-like (NLR) |
+| RIG-like receptor (RLR) | Thụ thể giống RIG (RLR) |
+| C-type lectin receptor (CLR) | Thụ thể lectin type C (CLR) |
+| Cytokine | Cytokine |
+| Chemokine | Chemokine |
+| Humoral immunity | Miễn dịch dịch thể |
+| Cell-mediated immunity | Miễn dịch qua trung gian tế bào |
+| Epidermal melanin unit | Đơn vị melanin biểu bì |
+| Inducible nitric oxide synthase (iNOS) | Nitric oxide synthase cảm ứng (iNOS) |
+| Birbeck granule | Hạt Birbeck |
+| Major histocompatibility complex (MHC) | Phức hợp hòa hợp mô chủ yếu (MHC) |
+| Immune tolerance | Dung nạp miễn dịch |
+| Regulatory T cell | Tế bào T điều hòa |
+| Naïve T cell | Tế bào T naïve; tế bào T chưa từng tiếp xúc kháng nguyên khi cần diễn giải |

@@ -50,12 +50,12 @@
 | 3.6 | 2 | References | 72 |
 | 4 | 1 | [Immunology of Skin and Reactivity](4.immunology-of-skin-and-reactivity.md) | 78 |
 | 4.1 | 2 | [Skin Immune Network](4.1.skin-immune-network.md) | 78 |
-| 4.2 | 2 | Immunological Composition of the Epidermis | 79 |
-| 4.2.1 | 3 | Keratinocytes | 79 |
-| 4.2.2 | 3 | Keratinocytes in Innate Immunity | 79 |
-| 4.2.3 | 3 | Keratinocytes in Adaptive Immunity | 80 |
-| 4.2.4 | 3 | Melanocytes | 80 |
-| 4.2.5 | 3 | Langerhans Cells (LCs) | 81 |
+| 4.2 | 2 | [Immunological Composition of the Epidermis](4.2.immunological-composition-of-the-epidermis.md) | 79 |
+| 4.2.1 | 3 | [Keratinocytes](4.2.1.keratinocytes.md) | 79 |
+| 4.2.2 | 3 | [Keratinocytes in Innate Immunity](4.2.2.keratinocytes-in-innate-immunity.md) | 79 |
+| 4.2.3 | 3 | [Keratinocytes in Adaptive Immunity](4.2.3.keratinocytes-in-adaptive-immunity.md) | 80 |
+| 4.2.4 | 3 | [Melanocytes](4.2.4.melanocytes.md) | 80 |
+| 4.2.5 | 3 | [Langerhans Cells (LCs)](4.2.5.langerhans-cells-lcs.md) | 81 |
 | 4.3 | 2 | Immunological Composition of the Dermis | 81 |
 | 4.3.1 | 3 | Dermal Dendritic Cells (dDCs) | 81 |
 | 4.3.2 | 3 | Mast Cells (MCs) | 82 |
