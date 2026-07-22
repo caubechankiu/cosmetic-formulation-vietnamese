@@ -2,17 +2,17 @@
 
 | Mục | Depth | Tiêu đề | Trang PDF |
 |---|---:|---|---:|
-| 1 | 1 | [Cosmetic Products: Science and Senses](1.cosmetic-products-science-and-senses.md) | 18 |
-| 1.1 | 2 | [Senses and Science: Art, Science and Communication, and Their Role in Cosmetic Products](1.1.senses-and-science.md) | 19 |
-| 1.2 | 2 | [Discovering the Consumer’s Insight](1.2.discovering-the-consumers-insight.md) | 20 |
-| 1.2.1 | 3 | [Verbatim](1.2.1.verbatim.md) | 21 |
-| 1.2.2 | 3 | [Insight](1.2.2.insight.md) | 21 |
-| 1.2.3 | 3 | [Claim](1.2.3.claim.md) | 21 |
-| 1.3 | 2 | [Colour Psychology](1.3.colour-psychology.md) | 22 |
-| 1.3.1 | 3 | [Colour and Its Influence over Emotions](1.3.1.colour-and-its-influence-over-emotions.md) | 22 |
-| 1.3.2 | 3 | [Importance of the Chromatic Accord](1.3.2.importance-of-the-chromatic-accord.md) | 24 |
-| 1.4 | 2 | [Sensory Additivity](1.4.sensory-additivity.md) | 26 |
-| 1.4.1 | 3 | [The Role of Colour in Sensory Additivity](1.4.1.the-role-of-colour-in-sensory-additivity.md) | 27 |
+| 1 | 1 | Cosmetic Products: Science and Senses | 18 |
+| 1.1 | 2 | Senses and Science: Art, Science and Communication, and Their Role in Cosmetic Products | 19 |
+| 1.2 | 2 | Discovering the Consumer’s Insight | 20 |
+| 1.2.1 | 3 | Verbatim | 21 |
+| 1.2.2 | 3 | Insight | 21 |
+| 1.2.3 | 3 | Claim | 21 |
+| 1.3 | 2 | Colour Psychology | 22 |
+| 1.3.1 | 3 | Colour and Its Influence over Emotions | 22 |
+| 1.3.2 | 3 | Importance of the Chromatic Accord | 24 |
+| 1.4 | 2 | Sensory Additivity | 26 |
+| 1.4.1 | 3 | The Role of Colour in Sensory Additivity | 27 |
 | 1.5 | 2 | Innovation in Implicit Evaluation | 29 |
 | 1.5.1 | 3 | Explicit Evaluation vs. Implicit Evaluation | 32 |
 | 1.5.2 | 3 | Neuroscience Techniques Applied in the Formulation Stage | 33 |
